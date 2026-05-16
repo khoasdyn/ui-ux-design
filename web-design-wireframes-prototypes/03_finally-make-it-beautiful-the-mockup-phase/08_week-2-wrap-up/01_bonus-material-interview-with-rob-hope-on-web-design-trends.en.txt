@@ -1,0 +1,504 @@
+Do we do the clap? Motivational clap? [LAUGH]
+>> [LAUGH] Let's do it on three. One, two, three. [APPLAUSE]
+>> [LAUGH] >> [LAUGH] >> Okay, cool, so today we have a special guest. We have Rob Hope, and we're going to talk
+a lot about website trends together. I'll introduce you a little bit and
+then maybe you can fill in the blanks. So, I know you're a web designer and
+web developer. >> That's correct. >> You live in South Africa. You've been running the showcase website
+One Page Love for over a decade. And you just started
+a weekly web show called Yo. Do you call it the Youtube show,
+or a news magazine. [LAUGH]
+>> It's quite interesting because it's very visual and it's condensed and
+it is weekly so it is technically a show. But people are referring to
+it as a visual newsletter. >> A visual newsletter, okay, I see. [LAUGH] Cool, so you just started that and
+it covers news and trends all related to website design,
+and I think you're a surfer. [LAUGH]
+>> Yes, I am. I've been surfing I think 20 years now,
+20 years in Cape Town, South Africa.
+>> Cool, very cool. And okay, did I leave anything out? Was that a good description?
+>> I mean, I basically have a degree, but I moved into websites just for
+the pure love of it. And having freelanced for
+years the whole time, I was always intrigued by side
+projects and trying to build things. And as soon as I actually got my
+fingers dirty, I was thinking, wow, what if I could do this full time and
+not work for clients. And you know just through
+failing of years, years, years, one page of my sites did the best so
+I invested the most in it And the goal was to try and monetize it,
+and substitute my Cape Town expenses. And in the last two years, I took the
+leap, as they say, and I quit freelance. And now I've just been working on One
+Page Love everyday, trying to collect and document beautiful website design. And try and
+make the site the best it can be. The more value and time I put in it,
+the more people return. And I guess it's just a proven model. If you just invest in it,
+people return, and it grows from that.
+>> Yeah, actually I'd be interested to hear
+a little bit about how it got started. I guess it started 2008, what was the impetus?
+>> It's very interesting, because when I was building websites for
+clients, I would get the email exchange going,
+we get a little quote. I have a gym, and then you would say,
+I do have a degree enterprise. And then they would send over half
+a page Word documents with content. But the quote was for a six page website. For me it was fascinating because
+this was a repeating story. And yeah, so I couldn't find enough
+references to people achieving, how do we get away with this
+little content in a website? And that's kind of when I started
+searching single page websites, one page websites. I couldn't find enough references,
+so I thought, you know what? For me to convince this client
+that this is a thing, and you can actually achieve telling your
+story within a one page website, I'm going to have to
+start doing this myself. So using WordPress,
+I started collecting links. I used to write a little blog post
+that would just be a title and baby screenshots, and that was it. And anything you could find
+I would add to the site. You know curation was not a thing. These are rare birds I was finding
+on the Internet back in 2008. And you know over time,
+you know the trend grew, people started to cotton onto it,
+you know. And then they also started convincing
+their clients said hey, you know what, we can actually build your portfolio for
+wedding photographer in one page. And then they would go to my site and
+they would go search wedding. And then up would come one site, you know? And they would mail me, we need more
+references, we need more references. So yeah it just encouraged me to keep
+collecting, open up submissions and then next thing you know,
+it's become my full time job. We've got a lot of traffic everyday. I say we, but it's just me and my website.
+>> [LAUGH] >> The most difficult part was to stay motivated working on this. You have to collect the references and
+you have to curate. You know, when it got really popular and
+there was no roadblock on submissions, it was completely free, and I was
+going through 30, 40, 50 links a day. Opening up websites,
+going through them and the thing is this is a niche,
+this is a one page website. It has no second pages and so on. And I would go through the page and then
+you'd find a link to an additional page. And then I would have to reject it. And just by sticking to the niche, people discovered that If I come
+down actually going to find a niche. So that´s kind of the history
+of One Page Love. >> Great. So actually you´re already leading
+to my next question, and I guess we can acknowledge that it is very much about
+this phenomenon of a one page website. Which is still I think, and we'll talk
+over the course of this interview about trends you see, things that you like,
+going back in history maybe a little bit. But to be clear it's all through
+the lens of the one pager. Which I think tells us though
+also a lot of what's happening in the web design world in general.
+>> Exactly. I would, yes?
+>> Go ahead, go ahead. >> I would say there's a misconception on exactly what a one-page website is. And people think that-
+>> Yeah let's define it. Let's define it
+>> Yeah, let's define it. I would say that a one-page website, it's trying to provide the perfect
+amount of information. You could read this as minimum for
+the user to make a decision. You know, it has no second pages. So when you arrive you are giving
+the reader exactly what they wanted to read instantly. You know maybe they discover your
+story through a little bit of scrolling and so on. But you're not trying to
+tell them two things. You know, hey, I'm Kim. I'm a winning photographer. These are my eight best
+photos that I've ever taken. Here are my contact details. Here are the two best
+testimonials that I've received summarizing my work ethic and
+how quality my work is. There it is, one page. Traditionally and this still is happening. We've got a second page for
+testimonials and there we have 20 testimonials diluted and
+some of them are good. We're at the stage where
+attention spans are zero and people just want to have the best
+instantly, load the fastest, instant gratification,
+but also the information. That's the thing. Give them the information they
+need as fast as possible. So that's basically the trend
+of a one-page website. There are rules, you know, sometimes you
+can't have a blog for instance, on your business, within a one page website it
+just gets too messy and too complicated. So, within the rules made over time,
+a blog can be a separate thing, and it can be your domain.com/blog,
+but the main story, your content, the meat of it Is all in one
+page often long scrolling and often you know no scrolling. This is what we do, here are our
+details and here is our best work. Straight away,
+you know with the increase of video. People are often putting a video,
+there it is. One page, video, contact, details.
+>> Yeah, yeah, yeah. >> So that's a one-page website.
+>> Cool. And just to be clear, when you say the rules, you're talking
+about the rules that you came up, right? They are not-
+>> Yeah. >> [LAUGH] >> It's interesting. There has to be defined rules within the niche.
+>> Yeah. >> Because as soon as you start featuring second pages, then people arrive on
+the sites, convince them they're clients, and hey, this is how we are going to
+present your financial firm. And in the browser and they say, well they've got a second page for services.
+So do we quote services? As soon as you stick to that niche, things really come together and
+they know exactly what they're getting on arrival when visiting One Page Love.
+>> Cool, all right, so maybe let's look at a few things.
+I was wondering if you, yeah, let's maybe take it away.
+I know we're going to do some screen sharing.
+>> So going through just general website trends, and people try and
+lock on to trends and they feel that trends are the only way forward.
+And what happens with trends as we've
+seen with music and haircuts and fashion is, trends repeat.
+So I would say just first off as a prefix to the whole trend
+analysis is you study a trend, understand why it's trendy, and
+then see if you can create and add that flavor, that element.
+But overdoing a trend and going all in on a trend is probably not smart because
+your site will update it over time. So just using some examples from back in the day.
+I've got here texture. >> Mm-hm. >> And texture now used with a beautiful clean typeface over a texture
+is just a gorgeous way to create a website now.
+But when we go to the original websites and
+I'm just going to here, it's so classic having collected over 7000
+websites now on one page live. And I'm a bit stricter with
+tags than I was back then, but still I can see the first websites and
+what date those were featured. So if you look here there's
+a lot of grungy textures. >> Yeah. >> The topography is pretty wild. But you can see, it feels dated. And the textures, it's got quite
+a lot of cracks to it and so on. Whereas, when we are looking
+at more modern texture. It feels a bit smoother. So that's my point on textures and
+just with trends. They repeat,
+I would say textures are coming back. >> Yeah, when was the last peak texture
+you say in terms of time? Like I'd have a guess,
+but I'd like you to- >> I would say textures, you know, the first texture of t-shirt was in 2008,
+exactly when the site was, you know, and textures were popular. People were trying to
+make a website look like you sprayed graffiti on
+a brick wall outside. Then another trend would come in, and then you would kind of dilute the texture
+a little bit, introduce another trend. And I would say,
+textures have come back in the last year. Remember, we went through that
+whole phase of flat design. >> Yeah, and I remember I talked a lot about this with
+my students at the time and I think- >> Yeah. >> Was it 2010 maybe, '11, around that time. When iOS 7, I believe, came out, and it was this whole like let's
+not do skeuomorphs anymore. The calendar does not have a edge
+any more and everything is flat. And I felt, we talked about that a lot. I don't know if that was leading it,
+but it certainly felt that way, Apple doing this big change
+in their operating system. And everyone kind of freaked out and
+said let's let's kill all the textures. >> I mean that is commonly known in how much Apple influences design,
+it's ripple effect, just massive. People are taking their portfolios and making them almost overly simple
+with this whole flat design. That border no fill,
+but you know it's good. But then what I've noticed a lot
+of really good designers doing, they appreciate what Apple is doing. They obviously saw skeuomorph and
+these real sort of buttons. There's a purpose it looks like
+you're going to press a button. And the usability was there. So they were like,
+almost blending the two. Let's bring it back a touch, and I found that's what the real
+top designers were doing. They were embracing the trend like we're
+studying, but they didn't go all in. Just talking about a trend
+that's completely died is Flash. >> Yeah. >> So I didn't even collect a reference here, because when I was doing
+some research out of the 7,000 websites I have indexed here,
+57 had flash. And the last time I featured
+a website with Flash was 2014.
+>> Wow! [LAUGH]
+>> So and again, why did Flash die? In 2007, Steve Job announced that
+iOS was not going to support Flash. And guess what? They're going to say,
+I'm not building with Flash. That's ridiculous, this guy's just
+invented the craziest phone ever that I'm going to put in my pocket and
+it's going to be the future browser. And no one's going to be able to see,
+my contact form or whatever it is within my website. So why would I invest in that anymore? It's incredibly influential Apple, so just going through the trends here
+I'm just going to go to another one which I've got here for video backgrounds.
+>> Yeah. >> So, I was going through, this was the last page in my archives. So I have 127 sites with video
+backgrounds, and I look for the very first one. This is the end of the archive,
+and here is another great step. This was from when MySpace relaunched. And this basically had
+a very subtle record play. It's no longer online. But it's just incredible how
+the leading sites will hire leading designers,
+leading designers will try and make launches that will go
+viral on announcements. And they were one of the first to
+have a subtle video background. It's also, you know, when this video
+background was featured it was 2012. And bandwidth isn't where it is now. To have a video loading in
+the background back then was pretty, it was actually frowned upon. But you can imagine their servers. You can imagine how optimized that
+video was, but is it still a trend? I would say it is.
+>> Mm-hm. >> People have gone a little bit far with video in my opinion. Where they're trying to explain the whole
+products within the whole header. And whereas some people just creating
+like almost an ambiance with the video in the background. Well, maybe some by just opening
+up a phone and flipping it, and then clicking open. And then they place another video, so those explainer videos
+almost those videos. That come in the sense of,
+I would say background videos are slowly fading out and in more favor of a faster
+loading blurred background image. With video censored in the header
+where someone can just play at well, load at their own pace. I think to be fair, loading of
+video in the background on Mobile, it's a little inconsiderate in my opinion.
+>> Yeah [LAUGH]. And I guess you could make a responsive
+website where that doesn't happen on small sites.
+>> Of course, of course. So just going through some more
+trends of around about 2011, this is the big one,
+and this is the trend. If we were to emphasize the trend for
+one page websites, it will be Parallax scrolling, okay? So what Parallax scrolling did
+was people would scroll down, and that's almost the essence of
+a one page website with a lot of information is it has a lot of text,
+so you will scroll down. So people were scrolling down and
+just reading image, text, image text, image text. There was no pizazz, there was no flair. And in 2011, a guy named,
+let's get his name here. Ian Coyle, Wieden and Kennedy. They launched the first mainstream
+Parallax scrolling website, and that was for Nike's Better World campaign. But basically, this is a preview of
+how it went, and the shoes almost felt like they were floating.
+>> I remember looking at this with my students. The effort of they are just
+like what's happening? This is- [LAUGH]
+>> The tech was sort of there, but this guy, or this team, was blending
+quite a few bits of tech, okay? And I remember when it came out,
+it just went so viral. People would just, people in. So what happened was people were like wow, if achieving storytelling
+first off while scrolling. Visually absolutely epic. And at the same time they're like, wow,
+I didn't actually click anywhere else. Within this website and I actually
+interacted and they got conversion. So, there it is, one page website,
+telling, visually pleasing, tell me the information I need and we act upon
+it and then we click or subscribe or so. So anyway, this is what quick,
+in my opinion, one page websites on the map, 2011. And as with anything, it also pushed
+people over the edge to see how far they could take Parallax.
+>> [LAUGH] >> And yeah, so let me see, I've reviewed here 758 Parallax scrolling websites,
+this is back in the day. The newer version are still as
+impressive as the next one but for the timing, the NIKE one is
+incredibly impressive for the year. The way I'm getting it is
+that the trend itself, people would be like we have
+to have parallax scrolling. I was getting the brief from clients,
+we have to have Parralax. And then you would say,
+well, you have an image of a fruit juice and
+your stock sitting at a table. So people would cut it out and
+theyd would almost overlay something. As you'd start scrolling the background
+would move faster than the foreground and it almost felt like you're
+really trying to pull this off. That's very unnecessary. And I see it every single day now. It's people out having Parallax,
+overdoing it. It's slowing down the experience for
+the user, and it flips- >> Yeah, and it's funny, we, in my class, and the course I'm teaching, that's one
+of the examples of putting the solution before the problem, right?
+>> [INAUDIBLE]. >> That's one of the concepts here, [LAUGH] you want to have Parallax,
+it's like why are you doing it? There are reasons to use Parallax,
+but it shouldn't be the first thing. Although, one could to
+be the devil's advocate. One could say make something very cool and
+fresh, and I don't know if Parallax is that in 2018. But sometimes,
+having kind of a design driven or a feature driven, I think can fulfill the need to be cool, right?
+>> Yes. >> But it's oftentimes get in the way to actually communicate what
+you're about, what you're trying to say. >> Yeah, it's like at the end of the day, is the standing page trying
+to get that conversion? Are we trying to get
+the lead email signup? Are we trying to sell something? From a commerce point of view,
+running a campaign and targeting someone through a Facebook ad,
+and they arrive on their mobile phone while they're on the tube in London,
+and they're just waiting for this heavily resource filled page
+to scroll, and they're struggling. That is, where I'm going with that. But if you are trying to show, like here we've got a beautiful,
+a bunch of mock-ups. And they're showing off devices at
+different angles, and the angles they show the shadow, and when you scroll the device
+actually moves and it really emphasizes how beautiful that shadow,
+the distance of the shadow shows depth. The Parallax,
+when you add a slight shadow behind it and that thing actually pops out of
+the screen, very impressive. And just to finish up on a trend, I do
+feel that if you have a standard page and someone starts scrolling neatly and
+is into your story. And as you go down, maybe it gets
+to a bit of a product section. And it's got a subtle bit of Parallax. Then that's a true wow factor. You're like, yeah, that's fresh. And these guys have got some style. And as you said,
+immediately in the cool category. But then you start scrolling,
+you're like, okay. Obviously increases the motion but
+making a webpage sluggish for being cool is not cool at all.
+>> Right. [LAUGH] So it's about subtly and
+sophistication. >> I reckon subtlety. >> Yeah. >> And just spend some time optimizing your Parralax if you
+are going to go that route. So going on to the next trend,
+I would say colorful gradients. Definitely we've got gradients here,
+and I love it. I'm a big fan of just adding
+flavor to the Internet, the standard sites back in the day. Every site was the same. Are gradients overdone? If you've got gradients
+all over the place, maybe. But generally if you stick to one
+gradient, and you add a central device, screenshots of the product. It looks beautiful, so
+I'm a big fan of gradients. They've been really trendy I
+would say since 2012 and 2015. And they've become very
+popular in the last year. >> [INAUDIBLE] The gradiens substitute textures for awhile, possibly.
+>> Yes. Yeah, that's a great point,
+do you see a texture gradient? Not so much. But yes, I would say now
+it is favored over texture. I do think that if when we see a side knot
+and it's 2017, 2018 with some texture. And it's executed beautifully with
+shadows and it's subtle Parallax or something that is a stand out sight
+cause gradients are over done now. Lots of sites are launching
+with gradients, so averagely designed site with gradients is
+just going to fade to the back for me. It's no longer a first wow,
+they use a gradient. This company is unique. Not any more. Gradients is a pretty popular
+thing as you can see here. As you can see,
+here's a template of modern and a template to and
+you get to pick them and so on. But just talking about Gradients,
+when it's Uber as well. So the point I want to make here
+is that when MySpace launched with the video background,
+trends were kicking off. Uber launched this quite awhile ago. I only featured it late,
+but it was early 2017. And it was just showing their sign
+language tool app, but also gradients. And when you start seeing the big guys
+start using these trends, ripple effect. And so see I would say
+gradients are here to stay. And next up I would say a trend that came
+shortly after gradients was drop shadows. This is when you have
+an element within the page and, as you can see,
+it just feels a bit levitated. It's just raised above the page. And you can see, it often,
+instead of using a border, you can use the the drop shadow. And it's quite soft on the eyes,
+it's easy to read. And yeah, this has become really popular. So a gradient, along with the raised
+elements above it, I would say, is very the trend at the moment.
+>> And maybe let me interject for a second. Where maybe we can
+discuss why this happens. In my conscious,
+it's kind of like art history. Or someone invents a new
+technology like photography, or someone invents a new paint. And all of a sudden paintings look
+different, because there's a new color or a new technique or something. So I would say, was it CSS3 that kind
+of propelled gradients, drop shadows, rounded corners,
+kind of really into the foreground. because it was all suddenly easy to do?
+>> I would say absolutely, because a lot of those sites, so
+just say the first Parallax sites. These guys were dealing with
+a lot of browser issues. The tech wasn't there, so they would have
+to substitute with maybe heavy JavaScript, and libraries and fallbacks,
+and it’s basically a disaster. And now we’re using three lines of CSS and we got the most beautiful
+levitated button. And obviously the support now is just
+getting more, and more and more. And Internet Explorer 6 is,
+I think it's pretty much dead, so I mean- >> [LAUGH] I think so. >> I mean, so it's unlocked a world of possibility. But even Internet Explorer, itself,
+we were working on fallbacks forever. And from when I was in freelance, we would
+come up with an idea like a button and so on, and we'd want a bit of a shadow on it. And we would ask ourselves,
+is it worth it? Is it worth this pain and hassle when the client's going to
+say this button is broken? That is the button that people are
+going to use to sign up to my newsletter. And so we would just keep it simple. And now it works, it works in mobile,
+it works everywhere. You'll even notice now, I don't
+know the interactive demonstration. But people are now trying to get fancy
+when you hover and then the button moves. It becomes a little sensitive, and you
+think you're about to press that button. >> The button is anticipating your- >> Actually, you've gotta use that as a tag,
+anticipating buttons. But yeah, exactly, that, exactly that. So the gradients,
+the texture with that CSS3 gradient, and we're talking it's within the CSS,
+it's beautiful. The button hovering across
+another line of CSS, these are pretty light,
+fast-loading pages, yeah. So the next design, so this pretty much
+covers what's been happening, I think. And I want to just talk about
+a few trends that I feel are, they're happening, but they're taking off. Maybe they won't, maybe they will,
+but I think we should feature them just within the one page trend is you
+know, [COUGH] excuse me, brutalism. And I've got the definition here,
+it's derived from the French word raw. And I almost feel it's like a rebellion
+against exactly what I was talking about. So it's a perfect segue, so
+people latch onto the trend. And they think we have to go gradient, we have to have a hovering,
+anticipating button. And these guys are like no way, I want to have information
+on my page in my way or a different way, at least,
+and it's going to be raw. So with these examples,
+they sometimes have a huge amount of text, or they have text over text. And it's almost arrogant, that's a push
+to say that, but they're saying- >> I think that word, I like that actually quite a bit. because looking at this,
+there is an arrogance in saying I am treating you very coldly.
+>> Yes, so let's see if the site loads up here. People are saying my event is rad,
+it's unique. And if you really want it, you'll find
+the information within this page. So here we go, you have to almost find
+the information, you have to discover. You have to dig it out, and
+it's in a very raw way. And I kind of like that,
+as well, because they're saying, I'm not going to conform to trends. This is as unique as it gets,
+it's almost chaotic in a sense. But all the information
+is there if I need, I'm saying usability-wise,
+I reckon we're on the fence. But it's also got flavor,
+individualism, it can be colorful. Sometimes they will also bring
+a old trend like back in the day, we used to have news tickers, where
+they used to scroll across as scrollers. Brutalism will throw a news ticker over
+the main image that's going to say, hello or something. So yeah, that's just one trend. I want to say that it's
+definitely become popular. Also an indication when things
+become popular is you see templates starting to come out within that. because more people want them,
+they're providing for that need. And then combining minimalism with
+Brutalism is also quite unique. Let's open up this Dropbox design again. Here's Dropbox, some of the best
+designers in the world, and they latched onto Brutalism. So, when you go through this page,
+you scroll down and it's just got the craziest typography. There's nothing normal about this page. But it's expressive, it's got flavor,
+it's artistic, and you know what? It becomes remarkable, and that's
+where I just want to finish it up on the Brutalism segment, it is remarkable. If you take apart the most
+popular sites at the moment, there's gradients, there's the shadow,
+they almost start to blend in. Like if you think of a SaaS service at
+$9 a month, that's accounting software. And all the top ones,
+they kind of look the same, the landing page look the same.
+>> Yeah. >> Me going through the Dropbox design, and wow, that was rememberable
+at the end of the day. And yet, I would say, that's where I'm
+going to give brutalism some credit. So next up is a short one,
+I don't have that many references. But it's the push to have
+long form journalism. So what this is is basically
+interactive storytelling where, as you scroll down,
+the page moves and so on. So I've got a reference here,
+I haven't loaded up the site, because it absolutely
+will show your resources. But you interact on the site,
+there's a video background, you scroll down,
+it loads up data statistics. Any information you need, it'll load on. But this you are finding
+on dedicated domains. And what they try to do is give you
+more information about a topic, or some sort of documentary, someone will
+talk about the life of a football coach. And instead of having 12 different pages, it's one long scrolling page,
+very rich in media. But it's almost like this is what
+they're creating instead of a video. And they're trying to incorporate trends,
+trying to push the limits, and I see a lot of news sites do this, the
+New York Times, I'm a big advocate of it. I'm not saying it's the best
+use of the usability, but I expect to see more of this for sure.
+>> Yeah, and I've been a big fan of this for a while. I feel like it's kind of combining
+the idea of a magazine article, a printed magazine piece, and a video to
+make this narrative scrolling experience. It´s strange, it´s obviously still
+a website but it kind of really marries other media and other formats in there
+especially the kind of time based. It's time based in a way but not based
+on you watching passively a movie but on you scrolling down the page.
+>> That's exactly it. So a perfect segway into a trend
+that is hot off the press and the type form which is one of my
+favorite online survey services. They just announced that they released
+their first conversational interface, and I can actually see this
+marrying with long form journalism. And I can even see this integrating
+into learning pages and product pages. I would say this is probably the hottest,
+newest trend I could think of right now. And just to give you a little
+demonstration, as you start scrolling, here's Paul over here who is
+the author of this article okay? It's written by Paul and I've just gone
+back to this page and now he goes, is this still Rob? So then I go-
+>> [LAUGH] >> Yeah, it's me and then we start going. I mean, the engagement here
+is ridiculous compared to. So to give you an example,
+he just adds little snippets. It feels like he's speaking to you. And you just have two options and so on. And what's great, and
+if I can try and find this reference, so you get going, you're really
+intrigued in the article, and then he'll ask you something and
+you actually ask for more. So what's great about this is it
+actually keeps the website condensed for those who want to just get a broad topic. But he's just got so much more information
+and this is probably the part of the article that he was thinking of
+putting in, but then it makes the article 30 minutes and now he's headed down to 17,
+he's got his snippets. I don't know how long it would
+take to actually create this, but I'm pretty sure [INAUDIBLE] into this.
+>> Yeah. >> And they will create this as a service. So what I'm getting is, I think within
+pages, we've got a chance in the corner on our landing pages where we're like,
+can we help you and so on. What about integrating this sort
+of interface on a product landing page where maybe you're not
+sure about the pricing table? Like hey, just checking in,
+does this make sense? And then, you're like, hey, I'm just
+not so sure or tell me more about that, and then within the page,
+it slides up more information. But unobstrusive,
+out the west like I can see it. I haven't seen it but I'm-
+>> Thanks for showing this. The CLN really brings in
+the human element as well. >> [CROSSTALK]. >> And a bit of a gaming element too like a interactive storytelling, you're kind of choose your own adventure [LAUGH].
+>> It's like we're not going to go too deep in this but
+think all the boxes, this is ticking. This is a human connecting with
+another human on a product page, this is like, hey, I'm actually going to
+support this guy who made this font. It's like, hey, that's him, he's speaking to me.
+>> Yeah. >> He spent the time. I can imagine this would increase conversions considerably.
+>> Yeah. >> Just connecting on a human level within a landing page. So just to finish up on the trends, I've got here just two more and
+I'll just cover them quick. Centrally divided layouts. What this actually does, it's the line
+down the middle, content left and right. But what this does is it just gives
+you all the information you need sort of without scrolling and it allows
+two different designs It's just that, it's a nice way to blend in. You can scroll in some but I'm just
+syaing there's more and more and more but I do quite like it. A great example is Product Sense
+just released an app and you can catch up on daily stories. And here is the demonstration. And I haven't clicked anything, and
+that's exactly how the app looks. And then here's my information
+on the left, item scrolls, and there's my download. It's just a beautiful arrangement
+of contents in my opinion. And you can see what
+the responsive design does, actually I don't want to touch my screen
+in case we don't get the the raise back. And then the last thing that
+I want to talk about and this is definitely in the last
+two years is diagonal lines. So you can just see them along here,
+along here, along here. It's just from such a traditionally
+structured horizontal dividers, it allows, I mean you can see it. It just adds more flavor to your page and
+the biggest one we had, I mean sorry the most popular one
+we ever had was, We Ain't Plastic. And this funny enough is the most shared
+pin we have on Pinterest by a long shot. So as you can see,
+it just breaks up the design by having a central element that with
+a diagonal line behind it. A few items, and you can see what's so
+great about the diagonal line or any divider, you don't need a border,
+and you see in the next section that it just adds a little bit more flavor.
+>> And also surprise, because that's not usually how websites work.
+>> Exactly. >> Good reason, because I don't know, five, ten years ago, it would have been insane to do that well.
+>> I mean that's very difficult to execute, and back in the day you would
+have to have some images that would be responsive, blah, blah,
+blah, but now this and so on. So yeah, I would actually recommend
+at least trying it in your next few designs until it gets overdone, and
+then we'll move on to another trend. But yeah, that's generally for me,
+that's a good I think summary of the current trends within website design.
+>> That was very, very instructive and
+delightful to listen to, thank you. Maybe then I'll just have one more,
+well okay I'll give you a chance. Tell us a little but about your show,
+I think and maybe could wrap it up. >> Okay, cool, no worries. So I've been working on One Page Love for a long time, 7,000 references collected. Two years ago, when I took the leap, I
+had to carry on working on One Page Love. I had to keep this thing monetized. It became sort of a steady ship and I basically instruct
+people around the world. I could work on any day I wanted. I'm super grateful for
+the position that I got myself in. But I found myself not growing,
+essentially, and it became a bit of a routine. And these things aren't
+always good signals. And when you find yourself going,
+I'm just going to do some work, you're not challenging yourself enough. So what I did, and after the holiday
+period, now it was the first of January and I'm trying to actually think of
+what sparked it off properly, but I just said I have to do something with
+Sia that is completely out the blue. I'm scared of it. I don't know how to do it at all. And I've been building websites for
+a while. I can build a website,
+I can build a WordPress theme. I have no idea how video works. So, my background is surfing, and
+I used to play in a band back in the day, you know I love music. I'm a big fan of color, visuals. And I just thought, you know what? I'm going to include my favorite
+websites in visual format. And then, I also am interacting,
+like I just mentioned a sketch library. I see these things every day, so
+why not talk about that as well? So I'm surrounded by design and
+development news, trends, and so on. And I said,
+why don't I just create this thing? i honestly didn't even know what I did
+because I gave myself one month and I said,
+you have one month to learn how to film. You need to know lighting, editing,
+you have to learn Premier. And you´re going to put it together. No matter what you have you´re going to
+release that thing on the first of February. And I did it and
+it killed me that I loved it. I promise you that month will go down as
+one of the best months of the last decade working online by a long-short. Completely submerged in
+the learning process. And when you building websites and
+you been eight years in the client job, yeah you get to learn a new trend and
+so on. But, I had near nothing. It was and that's like you're at
+the bottom of the mountain and it's actually amazing. And people say,
+I've been working the industry for 20 years that's great but
+it's not new and this was new for me. So anyway, a long story short,
+I put it out there. I was a little bit scared. The whole point was to be
+something I'm scared of. And the reception was incredible. It got shared on a few good sites. But the encouragement
+of people like my word, this is exactly what I've been needing. Condensed, colorful, vibrant. Within the sector we're in with design and
+development, there are guys making shows out there. Create content, but
+I wanted to integrate it with my flavor. Punk rock music.
+>> Jokes. >> Color. Jokes. Visuals.
+>> [LAUGH] >> But essentially, it's everything that I've ever enjoyed. I try to condense into the show,
+and so, each week I try and put out a seven, eight minute
+show on YouTube and it's crazy. I can see this has opened a lot of doors,
+and I can see it becoming my life in the next little while, for sure.
+>> Well Rob, that sounds really cool and I want to congratulate you because
+I've been watching the shows and been enjoying them a lot.
+>> Thank you. >> There's a lot of good energy and great information as well. So then maybe the very last thing,
+where can people find out more about you? You have to show Yo on YouTube I
+guess you can google that, what else. >> So I would say, I'm trying to simplify it. I've been dealing with side projects
+forever and I've had so many in this year I decided that I'm going to focus,
+I'm going to go all in on videos. So RobHope.com forward slash YO. There it is. YouTube if you search Yo. And youtube.com/RobHope as well. And then Twitter, RobHope. And I think that's pretty much it.
+>> Alright cool. Well then, I want to really thank you so
+much for your time. >> My pleasure. And all the best to your students,
+hope they build great things. >> Thank you so much. >> Okay, awesome. Cheers Ryan.
+>> Cool, thank you.

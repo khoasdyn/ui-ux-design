@@ -1,0 +1,98 @@
+Allison, on to your wireframes. But first, let's talk a little bit about
+your software that you used to create these wireframes. I have Bradley's here on the left and
+Allison's right. Bradley, used a wireframe
+tool called Balsamiq. >> Right. >> Tell us a little bit about that. >> Yeah, Balsamiq is either cloud based, or you can download it on to your desktop. What I really like about it was,
+instead of trying to decide what typeface to use and stuff, it has preset typefaces,
+and images, and symbols to use. So if you see Pokefresh versus Pici Pasta,
+that's the typeface that comes with Balsamiq.
+>> That's it, one typeface? >> Yeah, one typeface, you don't have to worry about it. So it's really easy just to do it and not think about the visuals as much.
+>> And there's some other things like buttons,
+images like the boxes with the xs. >> Yeah. >> Some symbols, just all out of the box.
+>> Yeah, it's a super useful tool. >> Yeah.
+>> Yeah. >> And it's made just for wireframes. >> Yeah, exactly. >> So you could go to the website here, I guess-
+>> Yeah, if you have a Web App, a Desktop App, also a Google Drive Add-On.
+>> Here are some examples. >> Yeah, I did the sketch skin but there's also a wireframe skin which is more like-
+>> A little cleaner, right? >> Cleaner and the sketch is a little more
+as if I had done it by hand. I kind of like that a little bit more,
+personally. >> That's what I like about it as well, that it looks like someone almost drew it. So when you present it to a client,
+it's not like, wait a minute. Why does it look so weird? My website shouldn't look like that. Well, that's the point.
+>> Right. >> Everyone understands, that's just a drawing of a skeleton of this size.
+>> But also the fact that it looks drawn, I guess for me, if I had actually
+drawn it, it would look a lot crazier. So it still retains some-
+>> Plus having it in digital form makes it easier to edit.
+>> Exactly, yeah. >> And develop it over time. It is not free though, right? There's a trial, a free trial,
+but you have to pay some money, either monthly or for
+the desktop app, a one time fee. So, if you already have illustrator, if you didn't want to buy-
+>> Buy another subscription software, then they can just use Illustrator.
+>> And that's what you did. >> Yeah. >> I guess, here in your wireframe, you kind of drew a browser around,
+you just made that up. And obviously, Illustrator good at drawing
+circles, and as a type tool and blinds. It's not, in a way you can certainly
+use Illustrator just fine, but the restrictions of Balsamiq and the fact that it's made to...
+>> Do wire frames. >> Do wire frames. >> Yeah, makes sense. >> Kind of has an advantage, but let's look at yours, Allison,
+let's walk through Pici Pasta. >> Yeah, this is my final wire frame that we came up with. It includes some of the rich
+elements that I had described. Having photos and
+pictures where the black boxes are. And has like the final copy that
+I would use in the visual mockup. Instead of using an infographic I'd
+just set up some simple steps leading up to the button that will lead
+you to the rest of the site. And then,
+the live chat support is at the bottom. So, and then you have a very strong
+catering delicious Italian cuisine to some Santa Clarita Businesses,
+bam, there it is, right? That's your, the one, the major thing
+you want to communicate right away, and I suppose that's gotta be over some kind
+of image, that's what's indicated here. >> Mm-hm. >> Some more image, maybe some more text, and then, the three steps of plan your
+meal, we craft your meal, be delivered to you, and a call to action, cater with us.
+>> Yes. >> Cool, okay, this is-
+>> This is the next page after you click on the button, the call to
+action to start your catering order. This is the location input that
+we discussed in the site map, so you can put in your address there, and see if the Pici can deliver to your area.
+>> And you also indicate here the live chat support.
+>> Yes. >> Run some, and click on it, and friendly voice, Marco.
+>> [LAUGH] >> [CROSSTALK] comes up. >> [LAUGH] >> Cool. >> Yeah, so then I just kind of mocked
+up what it would look if- >> You can. >> If you can, if your address works to continue.
+>> And then you have the next button. I guess there's also a page
+here where what happens when. >> Yes, so this is kind of the other
+outcome of the decision point if your address doesn't fit the area.
+>> Yeah, so you don't, you don't cater to San Francisco.
+>> No, [LAUGH] >> But if we do cater here to Valencia, then the next one is the guest estimate.
+>> Yes, so the guest estimate, I ended up deciding on using kind
+of like a sliding scale function. And then also the information,
+that it's $25 a guest so that the client doesn't have to worry
+about calculating all the extra costs and fees.
+>> Yeah, except for champagne. >> Except for champagne. >> And this is a sliding, this is a slider-
+>> Yeah. >> A slider design pattern where you can take this little black dot, and you move
+it to the left and the right to indicate- >> And it has the constraints of 10 to 100 guests.
+>> Right. >> Yeah, so once we continue following the breadcrumb trail, then we get
+to actually customizing your menu. And so, I decided on using the checkbox
+function so that if you can choose which options that you want, and
+also uncheck it if you change your mind. And the foods that you chose will show
+up on the chart on the right hand side. >> So here, when there's only Caesar salad checked, obviously the entire
+order is Caesar salad. But if you check these two as well,
+you have then the next one. Then you are able to, and
+then this was somewhat of a, at the time we talked about for a while,
+a breakthrough of figuring out well. You might not want a third of Ceasar, or
+a third of Caprese, and a third of Greek, you might want a little bit more of
+the Ceasar salad, and how do you do that? And you figured out that we have this
+pie chart would be interacts us. You can draw, you can drag-
+>> You can drag. >> It just and modify them. We have a,
+we don't have a marker of that but here you could basically end up
+that will change the percentage, in increments of 10%.
+>> Yes, the allocations in 10%. >> Yeah, you choose your salads, pastas, and wine. So if you go onto the pastas,
+you have three options. >> And also I think for the wine. >> Yeah, so here you only have two chosen, so those show up in the pie chart.
+>> Mm-hm. >> 2006 vintage to. >> [LAUGH] >> Yeah, that pretty good? All right, and then I guess there are
+these next buttons always on the bottom. So when you click that
+you go to the schedule. >> Yeah, and here you can select the date and
+time of your event. Either in dropdown or you can just type it in
+>> Then you get to a screen where you confirm everything.
+>> Mm-hm, or change your order if you wanted to go back and-
+>> So this would get back to
+customizing your menu. You also get all these details again. The number of guests,
+date, time, location. >> And the total cost. And then after that you go to
+the sign up page where you can either create an account. Or log into your pre-existing
+one which just leads then to check out.
+>> And here you get to input
+the Billing Information. Okay, cool, and then after you submit
+the order you get a thank you page. >> Mm-hm. >> Very nice, and then I think you mocked up
+one more on the detail page. >> Yeah, and then I mocked up a page for testimonials. So where the black boxes are will
+probably be photos of catered events. And then, I just had some quotes
+from different institutions, schools around Santa Clarita area
+to give reviews to the site. >> Yeah, cool, all right.

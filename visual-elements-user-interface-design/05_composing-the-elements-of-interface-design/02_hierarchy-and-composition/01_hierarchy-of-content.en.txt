@@ -1,0 +1,108 @@
+In this section,
+we're going to look at some larger issues about how we might start
+to organize our content. We're going to try and
+create a hierarchy of what's important and what's less important. We're going to begin to think,
+not just about what goes where, but about what goes where and why. So thinking about how our
+app or website is used is actually going to help us to
+think of a design structure. We'll be looking at
+a hierarchy of function and thinking about what's
+important to the user? What are the things that the user
+is going to want to do first? And so those things might be more
+important in our design layer. But we'll also be thinking about
+what's not important to the user. What are the things that they
+might not want to do straightaway? Or perhaps some people might not
+want to do those things at all, as well as thinking about what's important
+to the user, will also be thinking about what's important to the client,
+which in this case might be you. What's the intention of the client? Why might you be making this app or website in the first place,
+what's it really meant to do? It's important to maintain that hierarchy
+and keep sight of your goals and your intention in making an app or
+a website in the first place. As you add functionality, and
+more options to your app or website, you don't want to lose sight of what
+the goal was in the first place. So we have these two kinds of hierarchies
+that are going to affect our content and affect our design structure. And ideally,
+these two things will align perfectly. So the goals of the client
+are reflected in how our interface is prioritized in terms of the
+hierarchy of the design and the content. So let's look at how that might
+work with a real world example. The very first thing you want to do
+is to set the scene or set the tone. When you first open an app or a website that first impression is
+going to be really really important. You have to think about what's
+the first thing the user sees, because it's going to set the tone for
+the rest of their experience. So the user opens your website or app,
+they see what's in front of them, they form some kind of impression and
+opinion about it, and then they act or engage or
+react to what's in front of them. So very quickly, there's three things
+that are going on with the user. They're seeing, thinking and
+physically reacting. Let's use the CalArts poster website,
+that we looked at earlier, and see how a user first interacts with that. When the website first opens,
+a selection of posters is displayed. And these posters are preselected and
+pulled randomly from a much larger group. So the goal is to show the user
+some of the best posters, but also have them be different each
+time the user visits the site. So if we ask ourselves, what's the first thing user sees
+when they open this website, the answer would be a collection of really
+exciting and energetic visual posters. But the design and
+content of this interface are also going to tell the user
+some other things as well. So they see all of these posters, but they
+also can tell by the way that it's laid out, that this is some kind of
+collection or some kind of archive. The site feels like it's more concerned
+with visual form than textual information, for instance. So we know that it's a very
+visually driven website, so the user has some kind
+of expectation about what the rest of their experience on
+this website is going to be like. In a lot of ways, the initial visual
+experience that you give the user is a foreshadowing of the rest of the
+experience that they'll have on your site. Once the user has formed
+an impression of your site, the user is then going to
+interact with it somehow. So you could ask yourself,
+what's the first thing that a user does? I think the first thing would
+be to click on a poster. Because it's a visually driven site, the user is probably going to get
+pulled into that visual experience. So they'll either want to see more detail,
+by clicking on a poster, or see more posters by
+scrolling down the screen. So let's follow this through and see
+what happens when you click on a poster. The poster fills the screen. And what's important here is that it
+offers a different visual experience than the home screen that we started on. So there's a significant scale difference,
+we can see much more detail. The visual experience is
+immediately different. In a simple way, we're offering the user
+a reward for spending their time clicking. So let's see what happens when the user
+scrolls down to see more posters. Here very little changes,
+visually at least. We're not trying to show
+the user details and reward them with a new experience, instead
+we're trying to show them the volume and breadth of the content that's
+available on the website. Our goal is still to engage the user,
+but we're doing it in a different way. So those are our two big moves,
+in terms of interaction in our hierarchy. But we could ask ourselves,
+what does the user do after that? They start to explore some of the mid to
+lower level possibilities for interaction. So this means starting to explore
+the interface a little bit more. There are navigation elements in
+the interface, such as the timeline, or categories, or the search field, that
+are lower down in the visual hierarchy. But they're much higher in their
+specific functionality, so you're less likely to use them when
+you first encounter a website and you're just browsing and looking around. And you're much more likely to
+use them later on, when you have a specific intention or a specific
+goal that you're trying to achieve. Let's look at how these hierarchies
+of content, function, and design work on a handheld device. Instead of using something where
+we've already made an interface, let's start from scratch. Let's build it up from nothing and see how these ideas of hierarchy might
+shape our structure and our interface. So let's pretend we're
+designing an app to get a cab. Let's look at what our goals might
+be that might shape the interface. Our goals,
+in terms of content and function, could also be termed as being goals for
+the client and goals for the user. And in this case, those goals would
+all be exactly the same, we'd want to get a cab as fast as possible, so
+there's a clear primary singular function that's really going to drive the first
+thing that the user sees on our screen. If we're going to get
+a ride as fast as possible, there's several things that the user is
+going to want to see all at the same time. First of all, we're going to need to see
+our own location, where we are on the map. We're going to need to be able
+to enter our destination. And we're probably going to want
+to see what cabs are nearby that are going to be able to pick us up. And we need to have all of those three
+things happening at the same time, simultaneously, to have a seamless and
+fast experience. When we're designing
+an interface like this, the first thing that we're really
+doing is articulating the problem and figuring out what is a good solution for
+that. We're not really thinking about any
+specific visual solutions here. We're looking at the big picture and trying to give a structural
+shape to our design. We're still trying to answer those larger
+questions to do with hierarchy and organization. We're looking at what goes where and why? We're trying to figure out what
+is the best visual solution, and what the main design elements are? We're thinking about
+the hierarchy of those elements, where they're going to go within our
+interface or within our whole experience? So we're really looking at all
+of these much bigger moves, we're not getting caught up
+in any design details yet.,

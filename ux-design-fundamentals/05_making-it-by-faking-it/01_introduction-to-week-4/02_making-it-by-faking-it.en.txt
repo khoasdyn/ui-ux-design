@@ -1,0 +1,25 @@
+Here we are in the final week
+of UX Design Fundamentals. In this last week we're going to look
+at how to make a semi-functioning digital prototype. We're going to try and
+make our digital prototype look and feel as real as possible but
+without actually programming it. So let's look at where we are. We've completed the first stages at our
+process, non-visual and semi-visual, and we've completed the first part
+of our prototyping phase. We've made the final screens that
+we're going to use in our prototype. Our next stage is going to be actually
+building that prototype, which connects to our final stage, which we're not
+going to deal with in this class. If this was a real project there'd be
+a whole fourth phase where we would be building, programming, beta testing, and revising our finished
+app before its launch. But with this class we're going to
+end things in the second phase of our prototyping section. This is the phase where we try and simulate the final experience of
+our app as closely as possible. We refine our UI and UX, and
+we create a functioning digital prototype that we could take to another level
+of user testing if we wanted to. Even though we're not going to use
+programming to build our prototype we're going to need some specialized software
+but that software is pretty simple to use. In this last phase,
+you want to use all of the UI and UX skills that you've gained
+throughout this course. And even though we are in this last phase,
+you should still keep evaluating your app. If there are small changes that
+you need to make, that's okay. you should go ahead and make them. The process of refinement is ongoing and
+continual. It never ends until your app launches. And often it continues way
+after that with updates. But our job for
+now is to keep pressing ahead and finish building our digital prototype.

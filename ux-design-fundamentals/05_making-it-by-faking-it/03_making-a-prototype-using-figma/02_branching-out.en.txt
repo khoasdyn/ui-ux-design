@@ -1,0 +1,100 @@
+In this segment, we're going
+to look at some ways to make our prototype feel a
+little bit more realistic. One thing that
+helps with that in Figma at least is creating overlays so you can have a window float over the
+top of a background. In this case, I want to
+simulate a window popping up over the top of a background with the background
+remaining the same. For the screens that
+have this pop-up window, I'm going to have to delete
+everything in the background. I'm going to use
+the same approach we already looked at to create a link from the parrot icon to the parrot page but this time, I'm going to choose to do this as an overlay rather than as a transition and I'm going to choose move-in as the
+transition option. I could choose the direction for the overlay along
+with the timing. Here I'll choose to move in from the bottom
+because I want the parrot details
+to appear like they're sliding up from
+the bottom of my screen. We can use the preview window to check out how well the
+transition is working. I also want the parrot
+window to slide out so we'll need to
+set that link up too. Here, I'm going to configure it to simply close the overlay. Again, I use the
+preview window to check out if the sliding movement
+and timing is what I expect. I'm going to connect
+the second icon from my map to an
+overlay screen. Here, I want the dog icon to
+connect to the dog screen. Just like before, I'm
+going to make sure it's an overlay and
+not a transition. I can tell it's
+an overlay screen because the background is transparent and I only see the section of the screen
+that will be sliding up. Just like with the
+parrot overlay, I need to configure the dog
+overlay to close as well. Now, in my preview window, I'm able to click on
+both the dog icon and the parrot icon, and I can have both
+of those windows slide up and over my
+background map and that's a much closer
+simulation of how the app is really going
+to work when it's finished. I recommend using
+any techniques or tricks you can to make
+your app feel more real, whether that's in terms of interaction or in terms
+of menu movement. The closer you can get to the finished thing without
+any programming, the better. We can use the same technique to create sidebar menus as well because the way
+these menus move and operate is such a familiar
+convention to users. Menus that appear
+to function give us a great way to create a
+digital prototype that feels more real and
+we're going to use the same technique with overlays
+that we just looked at. On one art board, I'm going to delete
+everything except the menu and then I'm
+going to make a link between the menu and the menu icon that's on my
+home page, my map page. I'm going to make it
+an overlay link so that the menu can float
+over the top of the map, and I'm going to have it
+slide out to the right so that it feels like the menu is coming out of the menu icon, just like in a real app. Of course, I can preview it
+to see if I like it or not. This menu has an X in the upper right to
+close the menu so I'll set that up so
+that clicking on the X closes the menu
+overlay as well. Now, clicking on the X
+makes the menu go away and it feels like I have an open and close action
+that's quite fluid, one that feels quite real. In this menu, I have search for highlighted in bold
+as if it's active. If I want to continue to
+simulate this interactivity, I can make an active link. I can draw a transparent box over the area that I
+want to be interactive, and then I can connect that
+link to my search for screen. I have to locate that
+screen within my layout of all my art boards
+and as always, I'll select the transition I
+want along with the timing. Since the whole screen
+is going to change, I'm going to have this
+transition be a fast dissolve. Let's go back to preview
+the main map screen and verify that the search for
+takes me to the search screen. You can see we're starting to create quite a complex
+web of connections, and this is why it's
+important for you to have all your art boards organized within your
+prototyping software. Another thing we
+can do to create more of the feeling
+of full interactivity is to create fake fields for data entry and it's
+quite simple to do this. We just need to create a
+series of progressive screens where each screen adds the next completed
+data entry field. There's no typing involved
+but at least it takes the user through the stages
+of filling the form out. As you click on each
+successive field, it takes you to
+the next art board so that it appears that the
+field is being completed. It's like the user is adding
+one piece of data at a time. Once I click that
+"Get Pet" button, it will take me to
+a map that will show me the results
+of my search. In this case, it's found my dog. If I click on the blue dog icon, I get details about
+the dog and I can choose to either close that
+window or claim my pet. If you think back to where
+we created a flow chart, we're basically
+making a screen for every possible decision
+that the user could make. The big difference
+is that now we're following these paths
+through our content, through our app with very
+finished visuals and a very finished user interface so it feels much more real. When we get feedback
+from the user now, it should be much more
+accurate and informative. As we create this
+simulated interactivity for our user it's
+getting more complex. We need to create
+a lot more screens but as we expand and refine
+our user interface design, we're also gaining a
+deeper insight into how the user is actually going
+to experience the real app.

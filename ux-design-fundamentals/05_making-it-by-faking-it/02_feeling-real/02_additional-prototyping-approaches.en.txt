@@ -1,0 +1,122 @@
+In addition to
+building the prototype from a set of
+pre-existing components, there are two other options
+we'll look at here. One of these options is to use the artwork or designs
+that we've already built, and we can find
+some easy ways to make these static
+designs interactive. The benefits of this approach are that it's fast to build, it looks like your design, and there's often very little
+additional design work to do plus, it's going to be good for
+testing both UI and UX. That said, you might
+find you need to build a few more user interface
+components to get your static designs to work with your
+prototyping software. You might also find that
+your designs don't look exactly like whichever operating
+system you want them to live in but this might be the best and easiest
+approach because it builds on a lot of the work
+that you've already done. Let's take some of
+the static screens that were developed earlier from the lost PET app and see how those might
+work in this scenario. I can import the
+entire screen designs, not one piece at a time, but as a whole static image. From the start, I've got a
+user interface that looks quite finished and quite
+specific to my app, but I'm going to need to fake
+some kind of interactivity so that I can make a
+semi-functioning digital prototype. Most prototyping software
+works in the same way where you can easily connect
+one page to a target page, and that's basically
+forming a link so that when the user
+taps on the first page, it'll take them to
+the second page. It's essentially the equivalent
+of the arrows that we would draw between our
+screens on our site map. This might help with a
+very basic prototype, but there's not really
+much detail in terms of defining specific
+interactive areas. I'm really just moving
+from screen to screen. I'm not really
+interacting with any of the interface elements
+specifically. Because all of my
+interface elements are in one static image, I'll have to fake
+that interactivity. I could draw a box
+over one of my icons, for instance, and set the fiddle of that
+box to be invisible. I could then set a
+target where you would go to if you clicked
+on that icon. Instead of the whole
+screen being interactive, it's now just that
+one icon that's interactive and I can continue this process with a series of transparent boxes linking to all the different screens
+that I might need to go to. With the software I'm using, I have some choices over
+the kind of transition and the length of the transition from screen to screen as well. If I want to be more accurate about the area that's active, I can draw a specific
+shape that relates to whatever the active area
+is in the background. Here, I'm drawing a circular
+area over a circular icon, and I could connect that to
+any screen that I wanted. Right now, I just have three artboards in
+my file that reflect three different
+screens but if I were really making this app,
+I'd have many more. I can now use a preview window to see how my
+connections are working. If I'm on the first screen
+and I move the cursor over the icon where I
+designated an active area, you can see that the cursor changes and if I
+click on that icon, it takes me to the second screen and if I move my cursor
+over the Claim button, it'll change to let
+me know that it's live and if I click on it, it'll take me to the
+third screen and uses whatever
+transition I've chosen. From here, I can continue
+forward by clicking on the active green icon and get back to
+the first screen. We've made a very
+simple interactive loop between our three artboards. If we want, we could have many interactive
+areas on one screen. On the first screen,
+the cat icon could take me to the cat screen, the parrot to a parrot screen, and the dog icon
+to a dog screen. With this approach, we can
+build out a network of connections that simulate interactivity for the prototype. Let's look at our third option, which involves
+rebuilding our artwork within the digital
+prototyping software. The benefits here are that it would look
+like your design, and you can also
+make it look like whatever operating system
+it's working within. It's going to be a
+closer simulation to your finished app
+and this approach gives you a prototype
+that's going to be good for testing both UI and UX. In many ways, it's a
+more refined version of the approach we just looked at, but the downside is, it's going to take you
+a lot longer to build it this way but it's
+going to give you more control over the interactivity and design
+detail in your prototype, ultimately, making
+it feel more real. Let's look how this
+approach might work with our lost PET example. I can use some of my existing
+user interface components, but I'd be redrawing
+them or importing them piece by piece into my
+prototyping software. But I'm not starting
+from scratch because I've got the components, and I've got a blueprint
+for the layout. One of the things I like about this approach is that
+I can mix my artwork for the app with
+the system artwork to make it look a
+little bit more real, even though I'm not going to make these system elements work. Just the fact that I have them there makes you think
+the app is live. I could also use other
+standardized interface elements, and these are available
+from free UI Kits so I'm going to mix some of the Apple OS components into my app. I'm trying to get
+the believability from the existing OS system, but the personality and originality of my app
+from my own designs. I could also decide that I
+don't want to use any of the pre-existing components
+and that every piece that I'm going to put into this prototype is going to be designed by me. But even in that case, some pre-existing familiar
+visual components can really help the
+believability of your prototype. If I want users to sign in
+with Google or Facebook, it really helps to have
+recognizable icons there. It makes the app feel more
+believable, and authentic. I think this strategy
+helps you build the legitimacy and
+familiarity that you need so that the user believes that your
+prototype is really a fairly fully
+functioning app and the more screens that you build using your own
+design components, the more the personality of your app is going
+to come through. We've now looked at three
+different approaches for you to build your prototype. Which way you choose to
+work might depend on what kind of UI/UX
+designer you really are. Think a little bit about
+where your focus is. You might want to use
+pre-existing components, if you're a less visual
+person and more UX-focused. If you're more visual and concerned with leveraging
+existing designs, you probably want to use
+your existing artwork and work on top of it to
+create interactive areas. If you're visual and
+want the best of both, you'd probably want to
+rebuild your designs. I'm from a UX background, but I also care about
+getting the UI details right so I'm going to work
+using the last model, and I'm going to rebuild my designs inside my
+prototyping tool.

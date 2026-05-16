@@ -1,0 +1,28 @@
+This week, we're going to continue
+to develop the overall style and aesthetics of our interface design, but we're going to look at it from
+a slightly different perspective. We're going to start to think more about
+the elements of our interface being active, and
+less about them just being static. We're going to introduce the idea
+of function to our form, so we're going to have to start to think
+about what do these elements do, as well as what they look like. But we're not going to totally give
+up on what the interface looks like, we're not going to
+abandon design as a tool. It's less about what the interface looks
+like versus how the interface works. And much more about how the look of the
+interface is connected to its function or how it works. At the start of this class,
+we pulled apart UI and UX, we separated them in order to
+understand better how they work. But to be honest they're
+truly inseparable, because the form is always connected
+to the function in some way. A UI is always connected to a UX,
+they have a relationship. And even when we want to
+focus on the form, we can't. Because it's connected to
+the experience and likewise we can't focus solely on the experience
+because it's connected to the form. Experience, function, and form have a triangular relationship where
+they're all connected to each other. We can focus on any one of these
+aspects of user interface design. And we can concentrate on that one aspect,
+but the other two are always going
+to be there in the background, they're always going to have some kind
+of input on our design decisions. We spent the last week focusing on form, and then the next week we're
+going to focus more experience. But for this week, we're going to
+let function take the driving seat. We're going to look at logic,
+intuition, and learned behavior, as well as organization and
+hierarchy within our interface.

@@ -1,0 +1,112 @@
+User needs and client needs these
+are two fundamental aspects to investigate in order to base your
+design decisions on a solid foundation. So ask yourself,
+what do your users need from the site? And what about the needs and
+goals of the client? If we don't know the answers
+to these questions, we don't really know what to
+build in the first place. User needs and client needs provide the foundation of
+every decision in the UX design process. All other decisions we make from here
+on out will be determined by these requirements. By the way, let me make sure that everyone understands
+what I mean when I say user and client. Users are the people that will access and
+well use your site. You can also think about them as visitors
+or customers or target audience. And if it's helpful, you can think
+of their needs as visitor needs or customer needs or target audience needs. The client is the business owner or
+the leader of an organization. It's the person in charge, the one who
+hired you to design their website. The client might be your customer, but they are not the customer of
+the website you will create. You can also think about the client
+needs as business needs or more generally, website needs. Of course, you might not be
+working with the boss directly, that really depends on the size
+of the business or organization. Your primary day to day contact might be
+an assistant or the marketing department, or you might be working as an in
+house designer with a team. Then your team leader
+might be your clients. A word of advice in this regard. In the beginning of a project, it's essential to clarify who
+will make the final decisions. In the end, it will not matter
+much if the people you work with directly are happy with your work if
+the person in charge thinks otherwise. So make sure that important
+milestones are presented to and sign off by the person who has
+the authority to make final decisions. By the way, an added difficulty for
+students at this point is that student projects often don't have
+actual clients for the project. In this course sequence,
+I gave you a general project brief, but I'm not your client. You came up with the specific idea for
+your project, so you had to play the part
+of being the client. That can make certain
+aspects a little easier. You don't have to deal with a difficult
+client who always disagrees with your decisions, for example, but it also takes away some of the real world
+complexities projects inevitably have. But that's okay, if you become a UX
+designer, you will have lots of opportunities to gain real world
+experience working with actual clients. But now back to our discussion
+of user needs and client needs. What's important at this point is that
+these needs are stated clearly and in detail so that there is no room for
+confusion or ambiguity. Everyone needs to be on the same page. That's why you will
+summarize your findings in a written strategy document at
+the end of this project phase. Also, stay away from
+overly broad statements. Making money as a client
+need sounds important, but really it's so vague and
+generic as to be basically meaningless. No real insights will flow from it. A more specific rephrasing could be
+investigate how to use ads in order to grow revenue or
+implement search engine optimization so that more people will find the site and
+purchase products. Or communicate the advantages
+of the pro plan better so that more users will
+become paying members. Also, prevent using tired cliches or
+obvious statements. A user need of easy to navigate
+should be the goal for pretty much every UX project ever,
+so it's not really that helpful. Rich user would want a site that
+is hard to navigate anyway. By the same token,
+don't identify needs that are too narrow. Your client might tell you that
+they love yellow backgrounds, but at this point it's way too early for
+such decisions. A more insightful need could be for the
+site to create a feeling of urgency and energy. Later on, you might decide that a vibrant
+yellow background fulfills this need, but again, that's a decision for
+a later phase. In general, at this point in the process, you should simply identify all the needs
+without having to come up with solutions. Keep things open and loose. Another example the client might
+tell you with utmost urgency, we definitely need a blog. Your job is to probe such statements
+a little deeper by asking why. Maybe the client's goal is to have
+a place for news on their site, or they are looking for an outlet to
+share their professional writing. Or the site's search engine
+ranking needs to be improved. All these could be good reasons for
+a blog, but again, you can decide that in a later phase. Plus, you might actually discover that the
+client simply likes the idea of a blog and that they are not aware of the amount
+of work it will take to constantly create new content for it. Now, most of the time, user needs
+will align nicely with client needs. For example,
+take a site that sells art prints. Users of that site obviously
+want to buy art, and the client who owns the site wants
+to increase the amount of orders. Same with a website that
+offers online classes. Users come to the site to learn, and the client wants to enroll as
+many students as possible. And a news website, let's say, is visited
+by users looking for interesting and informative stories while the client wants
+to have as many page hits as possible, great helping. One will also help the other, but there
+are instances when user and client needs don't line up so neatly when they are in
+fact in opposition to one another. Here are a few examples. A reader of said news outlet probably
+wants to read articles in piece, but the client, the owner of the newspaper,
+needs to show ads for their business model to be sustainable. The tension between these needs can get in
+the way of a pleasant reading experience. Or isn't it nice when websites offer
+the option to check out as a guest? It's more simple for the user. No new password to keep track of, but the client might have a specific reason
+for user accounts to be mandatory. Another one users often want the option
+to talk to a human being to answer questions or resolve issues quickly. So the user need would be finding
+a phone number on the website. It's in the client's interest, however, to limit the amount of time
+support staff spends on the phone. They will save money that way. So their opposing need is to design
+a website that steers users away from wanting to pick up the phone to having
+their questions answered on the site itself. When you are working on a real world
+project with an actual client, it's likely that the client will be very
+eager to communicate their need to you. But the actual users of the site are often
+not part of the design process and might be forgotten along the way. It is your job as the designer
+to be an advocate for them and to remind your client that
+an effective user experience must be centered around
+an understanding of user needs. Of course,
+it really helps to talk to actual users. So if you have the time and budget, figure
+out a way to perform user interviews, create user surveys or
+schedule focus groups. Interacting with actual users
+to discuss their needs and preferences will make the process a lot
+more tangible, real, and insightful. Let me finish up this
+lesson with an example. When we started to design
+the Callards project archive, we of course started by
+identifying user and client needs. Before I share those needs,
+let me be specific about the users and the client for this project. The client was the CalArts School of Art,
+specifically the dean and the program directors who I worked with
+directly and who made the decisions. I'll talk more about identifying
+target audiences in the next lesson. For now, let me tell you that we
+determined that the following would be our users, current students,
+prospective students, curators and employers, faculty, admissions counselors,
+alumni, media and donors. Now, here are the user and
+client needs that we identified for the project archive website. I invite to pause the video for a moment
+and to read through the list in detail.

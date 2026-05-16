@@ -1,0 +1,10 @@
+[MUSIC] In this first week, we're going to look at
+some broader issues concerning interfaces and the relationship between UI and UX. We'll look at some historical models for
+interaction, both screen based and analog. And we'll try to answer the question,
+what is a user interface? We'll examine the relationship between
+the audience and the content, and we'll discuss how an interface can
+change or shape that experience. We'll map out the various roles in
+the UI/UX development process, and you can see where you might fit in. And we'll also talk about
+interface conventions, functionality, and aesthetics. So while this week isn't heavy on making,
+it is full of all the background knowledge you're going to need in order to
+make a successful user interface.

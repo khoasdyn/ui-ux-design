@@ -1,0 +1,128 @@
+In the next two sections,
+we're going to look at mapping content and mapping interaction. We're going to break into two sections and start out by looking
+at how to map content. This will help you
+figure out the scope and structure of your app as well as what is
+going where in terms of your content. UIUX designers make many
+different kinds of content maps. And your content map can look and
+feel any way that you want it to. There's no industry standard. So, it's really up to you. And you can see many different
+examples if you do a search online. And while how your content map looks and
+works is entirely up to you, there are some things that
+all good maps have in common. Primarily that your map has to make sense, especially since you might be showing
+it to other people to explain your app. So let's look at some qualities
+that your content map should have. Your map should have clarity so that
+everybody can understand it very quickly. It should have a hierarchy so
+we know what's important and what's not. It should have modularity, so similar
+items have similar visual representation, and it should have the potential
+to grow and expand. So let's make a generic content
+map with generic content. We've got a blank page to begin with,
+so, we're going to have to decide what's going to go where, what's
+going to be at the heart of our map. The logical place to start, would be with our homepage where a lot
+of our activity is going to sit. But, since we're making an app, we might
+want some kind of a splash page, or some kind of ID page that briefly
+occurs before we get to our homepage. Let's say that this three things
+that we can do from our home page. These would all be major events or activities and
+they'd be connected to our home page. So we can use this similar
+shape to describe them. And we can connect them to our
+homepage by a series of lines. We don't know what our events are right
+now, they're just generic, so we're going to leave them
+equal in the hierarchy. So we've set up a system to describe
+our content in words and in boxes. And the lines connecting them
+imply the kind of activity that happens between those boxes or
+what kind of relationship they have. From the arrow, I know that the ID
+page pushes me onto the homepage. And from the homepage I know
+that the connecting lines mean that I have three
+options that I can go to. And I can move between those options
+because they're also connected by a line. It's a very simple visual logic, but
+one that you need to be consistent with. So here are my sub events that are much
+smaller things than the larger events. So I'm going to make those boxes smaller. And connect them to each of the individual
+events that I'd have to go through first. So, I'm using scale in my geometric
+shapes, different kinds of shapes, and scale in my typography to create a system. And once I've established
+the logic of my visual language, I can keep extending it
+as I add more content. For instance, one of my sub-events
+might lead me to a much larger event, one that's the same as events 1, 2, and 3. So I can show the connection and
+how I get to that event, but I can also show its level of
+importance by using scale. And that larger event in turn might
+lead me to other sub-events and again, I can use scale to indicate
+their position in the hierarchy. Because we're making a generic map and
+we're using generic terms to describe our content, it's visually a very flat and
+even map right now. So even though we know that some things
+are more important to others by scale, we have no idea about the content and
+how it might be grouped together. And we can use color as a way
+to code that content or to code functionality or types of pages. So let's add some color
+coding to our content map. Our identity splash page and our home page
+are pretty individual stand alone pages, so they can have their own
+color to signify that. For the rest of our map we can group
+similar content at similar levels of engagement and activity and give those a color coding system
+to let us see that hierarchy. Again, it's a very simple technique, but
+we're using color as a coding system to let us see similar kinds of event or
+content. So if we added pages that
+took us away from our app, we might want to code
+those all the same color. We could also think about how we use
+the lines and arrows between our boxes to signify connections or
+signify traveling to another space. Because we're designing an app,
+a lot of our activity might take place on one screen with pop up menus
+sitting on top of a background. And we can show that by only using the
+arrows when we travel to another screen entirely. If we had a website with the same content,
+it might look the same, but because it's on multiple screens we have
+a lot more arrows indicating travelling to a lot more screens. We're looking at a simple
+diagramming system here. It's all to do with mapping and planning
+and being able to think about your content without actually
+making any of that content. So far we've looked at a generic
+structure with generic content. Let's see what happens when we get
+rid of the generic content and start to actually map out a real idea for
+an app. Let's start with our ID page and our home
+page, but let's use one of the ideas we looked at earlier which is an app
+to help you find a lost pet. We're going to use the same structure that
+we looked at with our generic map, but we're going to shape it and
+change it to fit this content. So let's say that our app is
+going to do three main things, three large events or
+activities for my lost pet app. Those three things might be that I
+would want to search for a lost pet, that I might want to post information
+about a pet that I'd lost in the hope that somebody else
+would see it and find my pet. Or that I might want to post
+information about a pet that I'd found in the hopes that I was going
+to reunite it with its owner. All of these activities will be
+happening on one page on my homescreen. So I might think about what
+kind of page should that be. It would make sense to me for
+that to be a map so that I could look in the area that I wanted to look
+if I'm searching for something. And I could see the area
+that animals were found or perhaps where animals
+could be lost as well. So I'm developing my content,
+organizing my content, and shaping my app all at the same time
+through this process of mapping. As I expand my map,
+I'm expanding the content. If I wanted to search for my lost pet,
+I might think about how would I do that? I'd need to enter a name, maybe think about searching by species,
+or by date, or by description. Some of my choices might
+have some categories, so after I pick the species I
+might need to pick a breed, or I might need to add more
+information that describes my pet. Just like our generic content map, a lot of this activity would
+all be happening on one screen. And we've decided that it's going
+to be based around a map so we're going to have to come
+up with another idea for a structure that's going to allow us to
+float information on top of that map. So we might need a side menu or a separate
+field to house that extra information. And if we're going to do a search, we're going to need somewhere to
+see our search results as well. So, as we're mapping out our content,
+we're also thinking about structure, and we're also developing
+the functionality of our app. In real life, you might make many
+different content maps with different emphasis or with different structures or
+different ways of showing your idea. Once you have a structure that
+you like and that's working, you can start to add additional
+information into your contact map. So I might add some outside sites
+that I might go to from my app. I might want to to post to
+Facebook about my lost pet, or connect to the city pound perhaps. You can also fill out all the places
+that content is going to exist. So, for every section in your app, you
+show all the different pieces, and options that are going to be in that section, and
+this will change from section to section. So it will help you develop your content,
+and develop your structure. So, for my app, searching for a pet might
+have a slightly different structure to how I would post information about
+a pet that I'd lost for instance. Or I might need a photo and
+more detailed information. As we're mapping out
+all of the content for our app, the one thing that we're
+not doing is thinking about design. We're not really making
+any design decisions. We're just creating a structure and
+a framework and making decisions about content. We're looking at what goes where and
+how it might be organized. And once we've figured that out,
+we can begin to think about how a user might go through this content and
+experience this content. We're going to start to think about
+how to map the user's interaction and that might have an effect
+on our content map.

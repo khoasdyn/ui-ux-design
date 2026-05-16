@@ -1,0 +1,64 @@
+So now that you had a chance to
+take that Treejack study yourself, let me show what we actually
+presented to the client after we had people take the tests,
+our findings, so to say. we presented that in
+an in-person meeting, and we had a little deck of results
+that we shared with our client. We showed the tasks that
+we asked people to fulfill. And notice here that that's
+kind of the smart thing that Treejack allows you do to. It's one thing to look at a site map and
+say, is it good? Is it working? And another to approach a site
+map with motivations in mind. I hope that when you did the survey,
+you realized, once you have a clear motivation, you can actually test
+a site structure much more easily. When is the museum open? Well, let me see, what would I click on? There is a Visit section. That's probably it, etc. So we listed our tasks. We showed the navigation that people clicked on just so our client got
+an idea of how this Treejack tool works. We include this Age Demographic question. It's not completely necessary but
+it's nice to know what the ages were. You can see that there weren't even that
+many people, it's 35 people, I believe. But that gives you a pretty good
+idea of seeing where problems lie. Overall results were 80% successful. So, out of all these people taking the
+survey, 80% answered questions correctly. The directness is how direct were
+the people when they clicked on things. So if they first clicked on something
+that led them down the wrong path and then they backtrack to find a successful
+answer that would be a direct success. So the directness was 76%,
+and the success was 80%. Pretty decent, I think. But still, there's 20% of people that somehow got
+stuck with one of these questions. So which tasks were the problematic ones? Here's an overview. You can see that the second,
+the third, and the fifth question were less successful,
+there is a lot of red. Right, all the green means people were
+able to find the right results and the red means they chose a wrong answer. So let's go through these three
+problematic questions one at a time. The first one dealt with the teacher
+trying to schedule a trip to the museum with a class. You can see here that 49% got
+this question completely wrong. So that isn't very good if half your
+audience can't find the information, so where did they click instead? So here is a view of alternate paths and you can see that the Visit section
+was one section where a lot of people headed first and
+some of them got stuck there, all right. And, if you see that in the Education
+section, Request a visit for your class, that is the right answer,
+according to our site map, anyway. So what did we learn here? Well, we should put a link in
+the Visit section that refers to the Education section. One possible solution would be to
+move the week best to visit for your class form entirely
+to the Visit section. We didn't want to do that because
+it's an education-related item. But having a cross link from the Visit
+section to the Education section would solve our problem. The next question that a lot of people got
+wrong was, how do you reserve tickets? Here 77% got it right but still that's a quarter of all
+people that did not get it right. So where did they get hung up? A lot of people went to events and
+here we realize that the problem might not be with our site map but with the way
+we asked this particular question. So how do you reserve tickets, we asked. That could lead some people to think,
+tickets to events. Well, those reserve under
+the Events section. We meant how do you reserve tickets for a regular visit,
+those would be found in the Visit section. So we actually didn't do anything here and
+just learned that how you phrase questions will obviously
+affect the way people answer them. So you have to be less ambiguous and
+very precise. The last question that a lot
+of people had problem with is the question about finding
+the Permanent Art Collection. The right answer was the About section,
+and then the item, The Collection. A lot of people got that wrong,
+51% never made it to the right answer. Where did they go instead? They went to Exhibitions, and
+if you think about it, it's the Permanent Art Collection that might
+be on exhibit somewhere in the museum. I go to Exhibition and expect to find
+the Permanent Art Collection there. Since we are more talking about, this
+is The Collection that the museum has, not necessarily on view. But these are all the things
+that they're collecting, this is the history of the collection,
+etc., etc., it made sense for us to put it into the About section and
+we left it there. But again, we have a cross link, when someone now goes to the site under
+Exhibitions, they see a small reference to the Permanent Art Collection which
+lives inside of the About section. So I hope that this gives you a little bit
+of insight how Treejack data can be used to interrogate your site map and
+to test it, with actual user data. And I invite you to try out the tool
+yourself on the site map for your project.

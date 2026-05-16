@@ -1,0 +1,39 @@
+There are a few additional
+things I want to point out in conjunction with these five UX phases. I think it's helpful to realize that
+the concerns you are addressing in each of these five steps shift over time. At first, you are dealing with
+very abstract matters, and along the way things become more and
+more concrete. You could also say that the beginning
+phases are not at all concerned about the final shape of the sides. When you contemplate your goals and
+your users in the strategy phase, it doesn't really matter yet what kind
+of grid your pages will eventually have. Or if the background color will be yellow,
+or if you will employ a san serif or
+a serif type phase. Such decisions, which very much
+determine the final shape of the site, are addressed in the later
+phases of the UX design process. By the way, one realization of the initial
+strategy phase might be that you shouldn't be building a website at all. Maybe you realize that an app or
+even a printed piece or a video are much better suited to
+fulfill the goals for the project. Again, in the beginning of the project, the shape of the final
+product is wide open. Also, you might have noticed that so far I've been talking about this
+process in a very linear fashion. In this diagram, one project
+phase neatly flows into the next, the reality, however,
+is often more complicated. In fact, it's important to reevaluate
+decisions made earlier as new realities become clear. There should be a certain amount
+of flexibility in our process for modifying decisions made during an earlier
+phase that later turn out to be untenable. That doesn't mean it's desirable for
+you to change your target audience or your main goals at the very
+end of the project, that would probably mean that
+the process has failed you. But you might, for example, realize that
+your sitemap wasn't completely figured out as you work on your wireframes. A final question that you
+might wonder about is what happens after the visual mockup phase? Well, then, it's time to actually build
+the website, which means coding it so that it can be displayed in a web browser. Or if you're working on an app,
+it needs to be coded so it can work on a mobile device. In a later class, I will be talking
+more about the coding languages that make websites work,
+namely HTML, CSS and JavaScript. And I will address the question
+if it's important as a web designer to know how to code. I myself have a deep background in coding,
+and after the visual mockups are completed, I will often start
+coding the websites I designed myself. You might code your websites yourself too,
+or you might collaborate with
+a programmer who will code the sites. In any event, after the development,
+there would be a testing phase, and after that the site would launch. So, to complete the story of
+the Calardz project archive website, here's how the site looks like
+today as I'm recording this video.

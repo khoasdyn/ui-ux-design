@@ -1,0 +1,171 @@
+Let's discuss a few
+specific concerns that you'll deal with when you as
+the information architect, create the site
+map for your site. Let's consider the number of clicks a user must
+perform before they get to content and how clicking
+compares to scrolling. We'll talk about
+how many choices to offer and what to call them. When I started out as a web
+designer in the early 2000s, I often heard about this rule that a user
+should be able to access every piece of content on a site with just two clicks. Less clicking can obviously
+benefit the user experience. Things can get
+done more quickly. Remember, in those days, websites tended to
+load slowly so that every extra page that had to
+load slowed the user down. But today, should we still
+assume that a lot of clicking always leads to a bad user
+experience? I don't think so. Sometimes it might be wise
+to present a series of well-structured pages instead
+of one very complex page. To illustrate this, think about a site with many
+levels of information. A dropdown navigation
+that goes several levels deep allows the user to
+navigate with very few clicks. For some sites that might
+be the most appropriate. At other times, it might
+be better to provide a simple main-level
+navigation with links to individual landing
+pages for each section. There, you can list
+the subsections with additional descriptions of
+what the user can expect. Which one of these
+options to choose could depend on your user's
+level of familiarity with the content or how
+often they need to access a specific piece of information that's located deep in
+your site architecture. If they have to click
+five times every time they need to access
+an important page, they will hope that they had
+some shortcut to get there. But a giant dropdown menu, as indicated on the left, can quickly overwhelm
+users that are less familiar with
+your site's contents. You see again that knowing a lot about your users
+and looking back at the findings of
+your strategy phase will make these
+decisions easier. Another example
+is complex forms. These could be presented
+all at once on one long page, no
+clicking required. Another way to
+structure long forms is to ask a few
+questions at a time. Look at the sketch on the right. Doesn't this seem a
+lot more inviting than the onslaught of
+form fields on the left? Let's say we're developing a website to help people
+with their taxes. We could ask our users all
+questions on one page, everything from their names and their occupation
+and how much money they made and how
+many kids they have, and on and on, all
+on a single page. That would be similar to how
+such forms are structured on paper but such forms are quite overwhelming
+for most users. Since we're working
+on a website, we could easily split
+up the form into many different screens and start simply by asking,
+what's your name? It might take dozens of screens to get
+through everything, but each screen is
+now quite manageable. Most users will have
+a better experience. But let's say you
+are a tax expert and you know exactly which form
+field you need to change, then it could get quite
+cumbersome to click through dozens of pages to find
+that specific field. To reiterate,
+having the users do a bunch of clicking
+isn't necessarily bad if it allows them to access information in
+a very structured way. It's only bad if it's
+cumbersome and repetitive. Clicking versus scrolling
+deals with a similar concern. There are some
+simple sites where all the information
+is just on one page. There's actually a
+whole category of websites called
+one-page websites. On those sites, you
+don't click much at all. Instead, you scroll. Let me stress at this
+point that there's absolutely nothing
+wrong with scrolling. The web's very
+foundation is based on the fact that
+websites can scroll so don't be afraid of designing
+long pages where not all the information is
+located "above the folds". You might still encounter clients who are
+concerned about this. They might tell you
+that they know for a fact that users
+hate scrolling. It's up to you to
+educate your clients. Think about the most
+popular websites, Amazon, Google Search, news sites there is a lot of scrolling involved in
+navigating these sites. In fact, scrolling is often
+easier than clicking, especially for users that are on a laptop with a trackpad
+or on touchscreen devices. Think about a slide
+show of images. If you build the interface
+around having to click little arrows to
+advance the slides, that's actually more
+difficult to navigate than scrolling through a page
+that includes all images. Let's continue with
+the question of how many choices to
+present to the user. Here's something that I
+have mentioned before, this idea that the
+human brain can hold about 7 plus minus 2 items
+in short-term memory. That's nine items max. Once you add more than
+nine items to a list, 10,11,12 we'll likely
+have forgotten what the first item was and can't make an easy
+decision anymore. What does that mean for our
+information architecture? We should limit the
+amount of choices we present at one time to
+five to nine items. This is a good rule of thumb for designing a main navigation. If you have more content, your challenge will be
+creating a smaller amount of main categories that
+each have subcategories. Here's an almost scary example
+of information overloads. Look at the website of Chafee College as
+it looked in 2018. It's completely overwhelming
+to make a decision here. There's so much going on. Contrast this with the
+redesign as it looks today. Now there is a much more limited
+set of options to choose from and there is a sense of clarity and sanity.
+What a relief. The options that were
+previously displayed all at once on the home
+page are still accessible. They have been moved into
+four large drop-down menus. Lastly, we have the question about what to call the choices. It's important to create clear and unambiguous labels that your target
+audience understands. A user doesn't want
+to guess what might happen when they click
+on a navigation item. You want them to
+be confident that they will find what
+they're looking for. However, often a competing goal is that you want to convey a certain tone or personality to engage
+your users emotionally. Language is great at
+tone and personality, so you could create labels that are unique and not generic, but that can sometimes create friction if clarity suffers. Let's look at a few examples. Let's say we're including
+a blog on our sites. We could just call it
+blog and be done with it. It's a pretty well-known
+term and users will expect it to be that part of the site where regular updates, articles, and images are posted. But it's also a pretty broad
+and slightly boring label. Can we come up with something
+more unique and specific? Here are some other options; news, stories, what's happening? The latest. There's
+a website called slate.com and their blog
+is called The Slatest. Pretty clever, right?
+The blog for Calarts, the college I'm teaching at, is called 24700s because this is part of the
+address of the school. If you're working on a
+snotty punk rock websites, maybe their blog
+could be called WTF. That's not appropriate
+for most websites, but it could be quite
+appropriate for some. Again, much depends on
+your target audience. Here's another one,
+shopping carts. That's a pretty standard term, but it's not the only one. What about just cart or
+bag or bin or basket? Bill, haul, or truck? Again, it depends on the context of the project
+you're working on. Haul might be great
+for a bookstore, as in book haul. Truck works well for
+building materials such as concrete or rocks that will
+be shipped with a truck. Bill might work well
+for websites that offer services or registrations
+because in the end, you'll pay the bill. Case in point, once
+a year when I renew my car's registration
+on the website of the California Department
+of Motor Vehicles, I'm reminded that shopping cart isn't always the most
+appropriate label, although its genericness should
+make it uncontroversial. But when I pay my
+car registration, it just feels weird to add something to a
+shopping cart as if I was on an e-commerce website making joyful impulse purchases. Not to mention that there is also a continue shopping link. See how language can
+really miss the mark? Here is one that made me
+smile from a website that sells landscaping materials
+like rocks and soil. This site has some
+serious aesthetic issues. It's firmly stuck
+in the late '90s, but they created a button
+called Add To Truck, and their shopping cart
+icon is also a truck. That's a fun surprise
+and appropriate since your order will be
+delivered on a big truck. How about the about us page? Here are some other options. It could be shortened
+to just about or be more precise as
+in about our company. Long labels though, will be more difficult to deal with
+in a navigation bar. You could be super
+brief and just call the section us or depending
+on the type of site, it could be team or
+behind the scenes, our crew or homies,
+you get the idea. Lastly, here's a question about which pronoun to
+use on your labels. One option is not to
+use a pronoun at all, as in simply accounts. But that's not all that
+friendly or specific, is it? Do we call this section your
+account or is it my account? I'll let you spend a
+little bit more time with this interesting conundrum. Here's a great post about just this question that
+I'd like you to read next.

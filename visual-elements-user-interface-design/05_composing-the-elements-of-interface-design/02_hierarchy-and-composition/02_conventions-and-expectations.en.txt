@@ -1,0 +1,95 @@
+In this section we're going to continue
+our discussion about hierarchy and composition within the interface. And we're going to look at some
+ideas concerning conventions and expectations for both the web and apps. Our screens are often divided
+up in very conventional ways and as user interface designers we have to
+figure out how to use these conventions. But also create some kind
+of variables within them. In terms of scale and visual attention, our content area is normally
+the most important. Followed by branding and a couple of
+levels of navigation or functionality. Before we figure out any details of
+the design we have to figure out the relationship between
+these four different areas. And each of these areas is
+somewhat self contained. So we could spend a great deal of
+time working on the elements and components of each of
+these individual areas. The simplest structural division that we
+can make is between the content that might change frequently and
+the elements that might remain stable. Such as the branding and navigation,
+which gives us a familiar and standard relationship between
+the header and the body of our website. And once we've isolated
+these larger areas or divisions we can start to think about how
+they might be structured in more detail. If we look at the body of this
+simple website, for instance, we could have a number of different
+things going on in that one area. It doesn't have to be a single image or
+a single activity, there could be multiple things
+happening at the same time. And as soon as we have multiple things
+happening our job as an interface designer becomes more complicated. We have to start to think about
+spacing and structure, organization, and hierarchy. Conventions and familiar structures can help us deal with
+these things quite quickly and easily. The web is often more concerned
+with the content that's in the structure than
+the structure itself. That structure quite often has to
+be functional and fairly invisible. So it's okay if it's
+familiar to some extent. Our expectation of the website is that
+there are multiple things happening on one screen. We have a larger surface area so
+it makes sense that there's more going on. But when we start to look at a phone and
+look at apps on our phone, it's not quite the same. Instead of four things
+happening on one screen, it's often one thing
+happening on four screens. And those screens work together
+to form a sequence of events. So our branding might be on a totally
+separate screen before we get to our content. And even if we wanted to reiterate our
+branding it would have to be done at a smaller scale. Because we have very little real
+estate on the screen of the phone. So where everything is laid out in front
+of us on a web page, for instance, on an app everything is hidden,
+or condensed, or sequential. So quite often our navigation
+is invisible until we need it. And any interaction will normally
+eclipse the previous screen. So the components that make up a web
+experience in a single page might have to be spread across multiple screens for
+an app on the phone. Which intrinsically means we're traveling
+from screen to screen on the phone, which is a little more
+of a fluid experience. Which explains why even
+though a website and an app are both screen based experiences,
+they actually feel very different. Even if they have the same content
+the app feels much more fluid. So while our content here is divided
+across a number of different pages. There's definitely going to be some pages
+where more of the elements are going to need to exist at the same time. And, again, there are formal conventions built
+around functionality that we adhere to. And that could be where our branding
+appears, how our navigation works with a swipe, or even where our menu bar is,
+or what's in that menu bar. And these conventions
+are constantly changing. We're moving towards that more fluid
+immersive experience we talked about so we want all of our navigation and
+other elements to be hidden. And if we're going to travel to other
+screens we want to do that in a fluid way, not by clicking, but
+by swiping and scrolling. Our phones act as windows, we can only
+see a small amount of content on them. But we know there's a much bigger world
+out there that we can move around in. So while we might only get one piece
+of information or experience at a time, we know there are thousands more outside
+the visible realm of our window. And that poetic explanation has
+some practical implications. We don't want anything to get
+in the way of our window, to get in the way of our small amount of
+content we're looking at, our experience. So our menus become hidden or
+as invisible as possible. On our website our five primary options
+might be laid out on display, but on an app they're condensed and hidden. They live in a menu that we
+don't see until we want to. And that menu itself is evolving,
+again, to be more fluid. So instead of just being a drop down menu,
+which feels like a web convention, we're now much more used to having menus
+come in from the side with a swipe. And be much more smooth and fluid. The user interface for
+our apps our like Swiss Army knives, they have multiple functionality. But everything is packed away until
+you need that specific tool and when you need a tool there's many
+different things to choose from. And they, generally,
+are really good at doing just one thing. But until you need them they remain
+packed away, they remain invisible. If the website let's it
+all hang out on display, the app is much more based on a philosophy
+of being hidden until needed. Our menus and navigation shouldn't
+get in the way of the small visual field that is our only
+place to show content. Even if we wanted to unpack our
+options there'd be no room for us to lay them all out on the screen. If we have more than a couple of
+options we're going to have to compact them down and create
+an interface element that can hide them. We want to make sure that our user is
+focussing on the content on our small screen. And because we have little real estate
+it means that we have to feed them tasks one at a time. And because of this our apps tend
+to be more focused on being very successful at a very localized and
+specific task. When we need more real estate for complex tasks we tend to
+switch to the computer screen. And this fundamentally affects
+what kind of content or activity works well on
+what kind of screen. For the UI designer it also shapes and
+structures what we do. There are set conventions related to
+what works best on these screens that we just can't escape. We have to figure out how to get
+the most out of those conventions.

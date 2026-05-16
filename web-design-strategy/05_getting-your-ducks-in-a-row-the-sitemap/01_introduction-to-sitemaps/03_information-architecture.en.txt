@@ -1,0 +1,17 @@
+Let me introduce one more term before we
+really get into the sitemap business. A lot of what we are doing during
+the sitemap phase is often described as information architecture. You might have heard
+about this term before, there's even a job description
+called information architect. And although it's been formalized
+as a term more recently, the field of information
+architecture is quite old. As long as people had to
+communicate information, they had to make choices on how
+to structure that information. Even the medieval scribes working
+on their illuminated manuscripts, had to think about how
+to structure each page. In the context of a website, we can define information architecture
+as categorizing, organizing, and labeling information to allow users to
+move through a website effectively. Categorizing, organizing, and labeling,
+that's what we're doing in this phase. The writer Christina Wodtke has another
+way of putting it that I quite like, she says that information architecture
+is deciding what the choices are, what they are called, and
+where they take you when you click.

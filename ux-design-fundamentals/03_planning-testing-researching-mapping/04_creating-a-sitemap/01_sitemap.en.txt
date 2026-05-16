@@ -1,0 +1,115 @@
+In this section, we're going to look
+at how to develop a more accurate and advanced Sitemap. We already built a very
+simple content map, and that was useful in planning and
+developing our content. We also built a user flowchart. And that was useful in showing how
+the user would travel through our content. Both of these examples were really
+tools to help us develop our idea and our content. Now we want something more
+concrete which is our sitemap and we're going to use that
+sitemap to build wireframes. And will use those wireframes
+in user testing, so our sitemap needs to be
+a little more concrete. We're starting to commit
+to the shape of our app. Our site map is going to follow
+quite closely our user flowchart. We can build off that and change it. We need to take into
+account any feedback or ideas that we got from our
+preliminary paper prototype testing. We're also moving towards
+creating wireframes. So I'm going to use a graphic of
+a phone to hold my information. I'm going to use my lost pet app
+as an example to build a sitemap. I'm going to roughly follow
+the structure of my user flowchart. So the first thing I'm going to
+need is an identity or splash page. That's going to take me to my map page,
+but only provided I have an auto login, so if I'm a returning user, for example. If I'm new I have to sign up,
+or enter my location. So depending what I choose
+to do on this screen, I'm going to get a different
+follow up screen. If I want to sign up or log in, there's a couple of different
+ways that I could do that. I could enter a name, and a password, or
+I could use Google or Facebook to log in. So for each of these possibilities,
+no matter how small, I'm going to have create
+a separate screen. So I'd need a screen for my Google login,
+and I'd also need a screen for my Facebook login. If I was creating an account, I'd need to
+add some additional information in there, perhaps address, city, state, and zip. So we've already made quite
+a few different screens, and we haven't even really got to our map yet to make any choices about what
+we want to do with our app. There's a lot of different screens here,
+but the user would actually travel
+through them very quickly. Like our user flowchart, let's connect the screens to see
+what the pathways could possibly be. From our identity screen, we could go straight to the map
+if we automatically log in. If not,
+we'd need to enter some information. We could type in our name and
+our password, or we could use Google or
+Facebook to log in to our app. Because our app is primarily going to
+work with a GPS system in our map, we might as the user for more information,
+such as their home address. Collectively, all of these screens
+are just about the log in process. And we could color code those so we know which area of our map
+all of these screens belong to. Once we've logged in, we're going to want to get to our real
+map where we can start to use the app. If I was a returning user with auto
+log in, I'd go straight to that map. If I was a returning
+user without auto log in, I could enter my name and
+password and get to the map. Or if I was signing up for an account, I'd have to enter a little bit more
+information before I could get to the map. So you can see as I'm making my app, I'm trying to think through
+the user's experience. I'm using information that I learned
+from both my user flowchart and my content map to make this more
+developed and accurate sitemap. Once I've got to my map based home
+screen I can choose from three different main activities. I can search for a pet, or I can post
+information about a lost pet, or a found pet. There might be other things I
+can do from this home screen, but let's concentrate on these three for
+now. Let's start out by looking at what
+happens when we search for a lost pet. I have three different
+ways that I can search. I can search by species or breed,
+by name, or by description. Let's presume for now that we're
+using our automatic location. Whatever information I enter I
+then get a series of results. There could be one or
+two results, or more. The user would want to search
+through these results and probably see more detail from any of
+the results that seemed relevant to them. So that means we'd have to
+create a different screen and think about what kind of information about
+the lost pet should appear on that screen. There could be the dog's name,
+perhaps a photograph of the dog, the date it was found and a description,
+and probably contact information as well. So you can see, as we're building this
+sitemap, we're getting a little bit more focused and more detailed with
+our content and our user flow. We're treating our app idea In
+a more realistic and pragmatic way. If the user finds their lost animal,
+they're going to need to contact that person or somehow confirm with the app
+that the animal belongs to them. They might then want to go back to
+the main map where their animal might now show up as being claimed. At any stage of this search process, the user should be able to retrace their
+steps and go back to the previous screen. Collectively these screens form another
+section that are all to do with searching for a lost pet. So we could color code those so
+we know that they all belong together. And this is going to help with our visual
+organization as our sitemap becomes more complicated. Let's look at one of the other main
+activities that we can do from our home screen. Let's investigate what the user might
+need to do if they wanted to post information about a lost animal. They'd probably want to post as much
+information as possible in order to get the best results. A user might be following this pathway
+if they've already searched for their lost animal and haven't found it. It can help your thinking
+if you put yourself in the position of a user
+who's actually using the app. Once I've entered all my information,
+I probably want to check it and then confirm it before I post it. And if something was wrong, or I needed
+to correct it, I'd need to be able to get back quite easily to the previous
+screen to make that correction. And once I've posted the information
+about my lost animal, I'd probably want to go back to the map
+which could give me visual confirmation that my posting was successful, because I
+could see my lost animal within the map. Even though there is a lot of
+user activity in this section, it's only represented by two screens. But again, I could color-code them, so that I know it's a different
+area with a different focus. The last main event from my home screen
+would be to post information about an animal that I'd found. These screens could follow
+pretty closely the ones for posting about our lost animal, since
+it's a lot of the same information, and almost the same structure. So I'd have a screen to
+enter all of my information, and then another screen to confirm and
+post that information. I think the user would also do the same
+thing that they would return back to the map so they could see that the animal
+that they'd found had been posted and recorded on the main map interface. We can color-code this section as well,
+and our color coding is especially useful
+since a lot of these activities might happen in windows that are floating over
+the top of the map in the background. So far, our sitemap is showing us
+the main activities of our app. So once we've logged in, we're just looking at the three
+main activities right now. But there are several secondary or
+perhaps less important things that our app allows us to do, and all of those
+are accessed from the home screen as well. So we're going to have to reorganize
+how that's represented in our sitemap a little bit. Some of the other activities that we
+looked at were posting to Facebook, maybe contacting a local pound or
+perhaps adopting a pet. I could also sign up for alerts. So if my lost pet was found
+I'd know straight away. So, there's going to be a lot of
+things happening in my main screen. It also has to act as a background and
+have other fields or other windows floating on top of it. I'm going to enter my search information
+and get my search results here as well as posting information for
+lost or found pets. This screen is going to be
+the central hub of my app. It's going to be the trickiest screen
+to resolve in terms of UI and UX. And that's true of most app, where our activities are centralized
+around a single home screen.

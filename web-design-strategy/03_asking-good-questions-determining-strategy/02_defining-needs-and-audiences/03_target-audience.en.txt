@@ -1,0 +1,135 @@
+In the last lesson, we established that you can
+simply have a discussion with your client in order to
+uncover the client's needs. In order to understand
+your user's needs, however, you must
+determine who they are. Who are the people that
+will come to your website? You have to define
+your target audience. In UX speak, this is also called
+user segmentation, and there are different ways to categorize users into
+separate groups. I will introduce four
+methods in this video. We will discuss
+segmentation by roles, demographics, psychographics,
+and experience. When you define your
+target audience by roles, you are isolating
+specific groups of people that share similar goals. On a jobs posting
+site, for example, one user role would surely
+be that of the job seeker, and these people
+who are looking for jobs share specific user
+needs that must be addressed. For example, they probably
+need a search function with an advanced set of
+filters to find jobs based on their skill
+sets and interests. Then there would be a whole
+other group of people, the job listers, who have
+their own unique needs. They, for instance, will need an interface that allows
+for adding job listings to the sites and maybe
+an inbox feature to receive applications. Or think about any social
+media website like Facebook, Instagram, LinkedIn, or TikTok. There's a big difference in user needs between
+those who have already signed up and those who don't have
+an account yet. For a university
+website, let's say, you will have a
+natural segmentation of users into the
+roles of parents, students, and faculty. Another way of defining your
+target audience is to look at basic statistical
+data such as gender, age, ethnicity, education,
+marital status, income, location, and
+spoken languages. These are called demographics. Depending on the specific
+projects you're working on, some of these
+demographic properties can be more important
+than others. Gender might often
+not matter that much unless you're working
+on a fashion site, let's say, or a dating site. On such sites, you might want to give users
+options to search for products or
+potential love interests by gender. Two more examples. A site for a barbershop will probably draw a
+mostly male audience. A site for a romance author, on the other hand, will likely be visited
+mostly by women. As a side note, I know this for sure because I'm married
+to a romance author. Age would probably be an
+important distinction if you're designing a
+site for a preschool. You'd probably be
+targeting parents between the ages of 25 and 45. If your site sells hearing aids, chances are that you will have a sizable audience
+of older folks. Note that user segmentation will always involve
+generalizations. With the preschool example, it's not impossible to have very young parents with
+preschool age kids. Let's say as young as 20. Senior citizens too might take
+care of young children if you think of grandparents who are the guardians of
+their grandchildren. There are, of course, some young people who
+need hearing aids, men who are into romance novels, and women who get buzz
+cuts at the barbershop. Edge cases and exceptions
+can always be found. But still, there is value
+in figuring out which user groups represent the vast
+majority of your audience. Let's look at what a demographic
+profile could look like. Your project could
+target middle-aged, married females of
+South Asian descent who are well educated, with a middle class
+family income, living in an urban
+metropolis in the US, and who speak some Hindi. Or an entirely different
+target audience for a different website
+would be this one, white teenage boys who dropped out of high
+school have limited financial means and live in a rural environment in
+the American Midwest. I'm sure it's not a big stretch to imagine that the
+decisions you make later on in the process such as what content and
+features to include, what tone to use
+in your writing, and what visual
+identity to design will be quite different based
+on these two audiences. While demographics are about objective and measurable facts, there is another way
+of segmenting users which addresses personal
+values and interests. These are called psychographics. Think about people's
+personalities, attitudes, lifestyles,
+and hobbies. Let's look at examples of two specific
+psychographic profiles. Let's say the first
+group includes people who are
+politically liberal, vegetarian,
+environmentally conscious, and politically active. They are likely to keep a
+flock of backyard chickens and they are very interested
+in do-it-yourself projects. Another group seems to
+be quite the opposite. They are politically
+conservative, drive gas guzzling trucks, and they own guns for hunting, but this group
+also tends to keep chickens and they are interested in
+do-it-yourself projects. I have actually worked on a
+website that counts both of these possible user
+groups as different as they might seem as part
+of their target audience. I'm talking about
+the blog Root Simple written by Kelly Coyne
+and Eric Knutzen, who provide their readers
+with instructions for DIY homestead projects like
+building chicken coops, baking breads, and
+growing vegetables. One thing to point out is that while demographics
+influence psychographics, they do not predefine them. You will almost certainly find more vegetarian liberals
+in urban areas on the West Coast of the
+United States and more gun toting conservatives
+in rural areas, but it's also not hard to find steadfast conservatives
+in large cities like San Francisco and
+some flaming liberals in places like rural Texas. Again, demographics
+influence psychographics. They do not predefine them. Lastly, let's talk about
+segmenting your users by their level of experience with your site's subject matter. Let's say you're working
+on a site that will display financial information
+about the stock market. Now, is your target
+audience made up of seasoned stock
+market pros or are they just starting out to
+learn about investing? In other words, is your
+site for experts or newbies or do you
+target both groups? There is no right or
+wrong answer here. The important point is to be clear of who you are
+designing the site for. This decision will
+affect everything going forwards. Another example. You might design a site that advocates for a political cause. Some of your users will be
+die hard supporters already. Others might be persuadable
+to become supporters. These two different audiences
+will have different needs. Let's again finish with
+a real-world example. Here are the target
+audiences we defined for the CalArts Project Archive
+separated into user roles, demographics, and
+psychographics. For user roles, we identified current students, prospective
+students, curators, institutions, employers,
+faculty, admission counselor, alumni, media, and donors. Note that this list is
+in order of importance, with the most important
+roles listed first. The demographic segmentation was mostly concentrated
+on age and location. We have high school
+and college students. Most of them are between
+16 and 30 years old. Most of the current
+students live close to campus in Santa Clarita
+or Los Angeles. For psychographics, CalArts
+being an art school, we identified our users as
+artsy individualists who don't always like to follow rules and predominantly
+visual people. Note that we didn't
+address experience since the separation into experts and newbies didn't seem
+relevant for this project. Remember, there's no reason
+to include things that don't provide you with
+meaningful information.

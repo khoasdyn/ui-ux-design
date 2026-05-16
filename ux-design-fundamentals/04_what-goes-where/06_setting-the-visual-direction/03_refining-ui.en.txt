@@ -1,0 +1,105 @@
+In this section, we're going to further
+refine our user interface design. As well as finessing the design,
+we'll be looking at continuity and making sure everything works the same
+across different screens and looking at state changes for
+some of our interface elements. Let's look at where we are in
+our UI development process. We created a general direction,
+we developed that visual direction and now we're going to finalize it and
+finesse it. Our goal here is to make
+a series of refined and fully resolved screens that we
+can use in our digital prototype. So let's look at the three sample
+screens that I was designing earlier. We left them in a state where
+they were fairly resolved but could probably do with
+another round of refinement. Our branding on our first
+screen seems much too large for the scale of the screen, so
+we could reduce that down. We might choose a slightly
+different color pallet as well. So we're really looking at
+small design moves here. Across all areas of our interface design. So try and consider all the small details. It might be of the exact
+curvature of a rounded corner, or how much contrast there is
+between a floating window and a background, or the exact color or
+position of a button. And remember, you’re striking a balance
+between how you use design to indicate functionality within
+the interface and how you create an idiosyncratic identity, a look and
+feel that's specific to your app. Think about how your systems
+work across different screens. For instance, I might need one color
+system in my maps to show lost and found, but another color system
+to reinforce my branding and a third one to show interactive
+elements or buttons. And those kind of decisions might be
+based purely around functionality. But I'm also trying to create
+an aesthetic for my app as well. If I shift the color palette in my map,
+for example, it can have quite a dramatic
+effect on how my whole app feels. But that difference in contrast can
+also have an effect on functionality. I might be able to see my buttons more
+clearly with the different background or a different foreground color. Some moves might create
+quite a large visual shift. But you should also look
+at the smaller elements, the details of every
+aspect of your interface. On my last screen, for instance,
+I might look at the relationship between the icons that I have and
+the labels that I have. I've got a color coding system for
+lost and found, I've got an icon system to show
+a different kind of animal. And I've got a typographic system for
+showing the animal's name. So even with quite a small
+aspect of my interface, there's a lot of design decisions to make. As you develop and
+refine your user interface, it's worth going back
+to your wire frame map. If you have screens that are similar or
+use a lot of the same elements, you can develop these together. This will help you
+maintain consistency and continuity across your screens and
+across your app. And if you have elements
+appearing on multiple screens, it can help you create a visual system
+that's consistent across those screens. In this case, we might want all
+of our maps to look the same. And all of our icons and labels on
+those maps to also look the same. But because we've got a slightly
+different set of information here, we're going to have to come up with
+some other icons for other animals. So we're extending and testing our
+visual system at the same time. So rather than showing a letter to say
+whether an animal is lost or found, I can indicate that with
+just a color system, the same that I'm doing
+elsewhere in my app. So I'm being consistent. You might find yourself going back and forth between two different screens
+in two different areas of your app. And as you're working in different areas,
+you might discover things where you have to go back and
+tweek some of your earlier designs. It's not just interface elements
+that you'll be changing. It might be your typography,
+it might be the spacing, it might be how things
+sit within a window. And you want to figure out
+how to make that consistent. How to have a systematic approach to
+your design, because you want all of your screens to feel like they
+belong together in the same family. If you have the same element appearing on
+more than one screen, make sure that it's consistent, the same scale and the same
+place, like your menu items, for instance. You can also check to see if you have
+anything that's redundant in your interface. In my screen on the left, I don't need
+to have the icon of the animal and the animal's name. And even if you are using stand in art
+work, the way that I am with the map. Now might be a good time to find something
+that's a little closer to how you really want the art work to look. So I might want my map to look cleaner and
+crisper and more graphic. And as with all design, one change can
+have a knock-on affect to other elements. If I change my map color, there's knock-on effects because I'm
+using it in several different ways. So I have to adjust all
+the different states and all the different uses of that element. Your refnement happens on a macro and
+micro level. On the micro level,
+we might be looking at our icon design. If we look at our icons on
+the right-hand page, for instance, the cat icon doesn't seem quite right. Even when we shrink it down, it's still
+too different from our icon system. It's too complex. Let's enlarge a couple of icons and
+take a look at them quickly. We've made them the same size, but
+we need more visual continuity than that. The dog is a lot simpler and
+a lot flatter, so we could make some small moves to the cat
+icon to try and balance them out. Let's create similarity. Let's make the eyes work
+in the same way and let's make the ears work
+in the same way as well. Now our level of simplicity and
+of flatness seems to be quite close, so these icons work better as part of a set. So once they're a set,
+any changes I make to one of them, I should make to all of them. So if I want to make them a little
+bit larger, for instance, I have to change that to all of the icons. Again we're looking at refinement,
+continuity and consistency. We can take that same logic,
+not just to our icons, but to the labels sitting beneath them. We can look at the spatial spatial
+relationship between the type and the label, as well as the relationship
+between the label and the icon itself. We might even want to try out a different
+color system to work with our map, but we'd need to do
+that on a global level. So as you can see with this example,
+our process of refinement is incremental. It involves a lot of small steps. And even though we're focusing on very
+small details in each individual screen, we're also going to have to start to think
+about how the screens work together. An easy way to do that is to
+take your finished designs and drop them into your wire frame map. This stage of the process feels a little
+bit like completing a paint by numbers picture. You're going from a framework that's
+black and white and quite generic, to something that is much more
+colorful and visually compelling. If you have the time,
+you can make a finished design screen for every screen in your wireframe and this
+would men that when you came to make your digital prototype, it's really going
+to feel just like your finished app

@@ -1,0 +1,44 @@
+/* Button 1 */
+.button--1 {
+	font-size: 48px;
+	padding: 8px 32px;
+	color: #ffd7e6;
+	background-color: #d86b7d;
+	font-weight: bold;
+	border-radius: 5px;
+	box-shadow: 10px 10px 10px #ccdae5;
+	transition: all .3s;
+}
+.button--1:hover {
+	color: white;
+	box-shadow: 3px 3px 10px #ccdae5;
+}
+
+/* Button 2 */
+.button--2 {
+	font-size: 48px;
+	padding: 8px 32px;
+	color: white;
+	background-color: #ccc;
+}
+.button--2:hover {
+}
+
+/* Button 3 */
+.button--3 {
+	font-size: 48px;
+	padding: 8px 32px;
+	color: white;
+	background-color: #ccc;
+}
+.button--3:hover {
+	
+}/* Button 4 */
+.button--4 {
+	font-size: 48px;
+	padding: 8px 32px;
+	color: white;
+	background-color: #ccc;
+}
+.button--4:hover {
+}

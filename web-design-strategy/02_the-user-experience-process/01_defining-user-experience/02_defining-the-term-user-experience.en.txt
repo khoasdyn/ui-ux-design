@@ -1,0 +1,83 @@
+So we'll be talking a lot
+about UX in this course. We should start simply
+by defining the term. This is something Michael already touched
+upon in the first two courses of this specialization, but it's always good
+to review such fundamental concepts. So let's get started. Of course, UX stands for user experience,
+but what does that actually mean? Here's one way to define it. The experience a product or service
+creates for people in the real world. That's a pretty concise definition,
+just one sentence, but let's dig a little deeper. What are the words that stand out here? I would say the following three,
+experience, people, real world. Let's consider each of these briefly. What happens when we have an experience? It leaves an impression on us,
+some sort of feeling, and often a memory. An experience is usually also
+accompanied with a qualifying adjective. You could say you had a beautiful
+experience or a horrible experience. Or the experience could be boring,
+delightful, charming, confusing or frustrating. I think most of you can remember
+interacting with a website or an app that could be
+described with these words. I, for example, really enjoy
+the experience of The Atlantic websites. It being a political and
+current news website, of course, the content isn't often
+all that beautiful, but I find the reading experience
+on this website to be beautiful. I love the crisp typography and the quirky
+illustrations and the bold photography. Here's an example of a delightful
+experience, in my opinion. The website for TUSHY,
+a bidet attachment product. It's admittedly a slightly
+awkward product, but the TUSHY folks really lean into it
+with humor, puns and irreverence. And one more example, this time
+of a website whose experience for me is beautiful but also frustrating. The website for
+the LA Phil is gorgeous and makes listening to classical
+music an enticing prospect. But look at what happens on the homepage. I just arrived and I'm interested
+in this Upcoming Events section. Surely, I just have to scroll down
+a little to see what's playing next at the LA Phil. Actually, that's not what happens. When I scroll down, I first have to
+make it past all of the featured slides. This is called scroll hijacking, by the
+way, before the rest of the page scrolls. As I said, a bit frustrating. But back to our definition of UX. Next there is the word people. So this is about humans, and you need
+to be able to emphasize with humans and try to understand the strengths and
+shortcomings and idiosyncrasies that come
+along with our humanness. For example, it shouldn't surprise any
+UX designers that humans are impatient, and they don't read every single word
+of text you add to your interfaces. They'll likely just start clicking. You won't ever change that, so you might as well design your
+interfaces with this fact in mind. I'll talk more in a bit about
+the importance of paying attention to the anatomy, psychology, and behavior
+of our users during the design process. And lastly, there's real worlds. This is to emphasize that we are not
+talking about theoretical experiences or abstract people. Your work has real world consequences for
+real people, and wouldn't you want your work to help and delight them
+rather than annoy and frustrate them? If your user experience is positive, your goals are much more
+likely to be fulfilled. Your users will be happier, and they
+will be more likely to buy something or sign up or engage with your content. They are also more likely to return. Now here is another
+thing I want to clarify. There's another term that often
+seems like it sticks to UX, like some sort of inseparable partner. I'm talking about UI, which stands,
+of course, for user interface. You hear about UI UX as a pair a lot. Most job descriptions ask for
+UI UX skills. This specialization even is titled UI UX. It often seems like there isn't even
+a difference between the terms, but that's not actually the case. The author, Golden Krishna has
+a really great way of talking about the difference between UI and UX. Golden wrote a book called
+The Best Interface Is No Interface. It's actually an inspiring book, and
+I would recommend you all read it. Here's a page from the book, and on it,
+Golden identifies a list of UI concerns, navigation, subnavigation, dropdowns,
+buttons, links, windows, rounded corners, shadowing, error message, alerts,
+updates, checkboxes, and so on. And then a list of what belongs under UX,
+people, happiness, solving problems, understanding needs,
+love, efficiency, entertainment, pleasure,
+delight, smiles, etc., etc. There's quite a difference
+between these lists, right? And of course, it's important to
+design effective navigation, menus and beautiful buttons. And the decision whether to
+use rounded corners or not or the exact shade of a color can have
+significant implications on your design. But it's most important to remember why
+we are designing in the first place, to remember that in the end,
+our work will affect the lives of people. So you can think about user interface
+design as a part of the greater user experience design universe. It's an important part, to be sure,
+but just a part nonetheless. I would argue that UI is the visual
+manifestation of UX thinking. And here are some other elements
+that are part of the UX universe, strategy, structure, content,
+information architecture, research, writing, usability testing,
+evaluation, accessibility, all of these are important aspects
+when creating user experiences. This list also suggests that
+the elements of user experience design benefit from different skill sets,
+and that's maybe the best argument for decoupling the term UI from UX. In my mind, UI UX makes the most sense for
+graphic designers, and to be fair, that's what I'm trained for. But you don't have to come from a visual
+or artistic field to find a place in UX. If you mostly work on content creation,
+for example, a background in communication or
+marketing would be helpful. Strategy benefits from
+strong business experience. Writing and academic research skills
+are helpful if you focus on structure and information architecture, or if you
+specialize in UX research, testing, or accessibility, a background in psychology
+or cognitive science would be good. You can see that there are many concerns
+that go into designing effective and successful user experiences, and
+many of these, along with user interface, will be part of this course.

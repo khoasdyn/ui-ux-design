@@ -1,0 +1,109 @@
+In this section,
+we're going to look at how color and shape can work as formal elements
+of your interface design. So let's start out by looking at
+color in a little more detail. One of the main ways that color works
+is by creating an overall mood. And this can be really useful in that, because again it can set the tone if you
+want to be more serious or more fun. You might find a color palette that
+makes your app more believable. As human beings,
+we generally respond to colors, and we respond to them in a very
+subjective and emotive way. So let's start out by doing a few
+exercises and looking at how color works. And let's take our
+scientific interface and let's take all the color away from it and
+start out with just black and white. When everything is just black and white
+we often have connotations with that of design being very serious, and that stems
+from cultural connotations of black and white printing in newspapers,
+early photography. But just by adding a simple color
+we can change those connotations. When we put yellow and
+black together for instance, we use to seeing that to represent danger. When we see a bright color, like magenta, we think that that something
+that's perhaps going to be fun. So you can see how even just changing
+one color can create an emotion. If we start to put together a palette
+where we've got a range of colors working together in harmony, we could have a cool
+palette that might create a very icy or cold feeling. And when we start to change those colors,
+we could create other connotations. For me, red, white, and
+blue represents England. For other people,
+it might represent a different country. We could take a palette that comes out of
+nature, for instance, browns or greens. And we can build a palette that
+makes us feel maybe calm, or makes us feel a connection to nature. So there are some connotations
+that come from the real world and some that are fabricated. We see blue things,
+we might think it's a design for a boy and pink is a design for a girl,
+but those are just cultural conventions. Color is quite relative in a lot
+of ways and quite subjective. So we have to figure out how to
+control that and how to try and control that subjectivity a little bit. In order to get it to do what we want it
+to do for our interface, in order for us to help create an atmosphere,
+and a mood, as well as a function. And in terms of function we can use
+color in many different ways and a primary one is to think about how color
+works as navigation within our interface. So for instance,
+if you have these three buttons and I ask you to pick one, I'm pretty sure
+you're going to press the green button, just because it looks like it's active. We're used to thinking that perhaps
+green makes it one to be picked, but also it's different
+from the other buttons. And we can use color to both
+create difference and similarity. So just by changing the other buttons
+here, the inactive buttons from gray to a lighter shade of green we build
+a different kind of relationship. Now they feel like they have
+the possibility to all be pressed and turned to the darker shade of green. And basically, what we're doing here, is
+creating a system that has differences and similarities. And that can also work in terms
+of association with other things that we've experienced before,
+either in interfaces or the real world. We think about green as being go or
+being active, and red as being stop or being danger. If we use colors that have
+a similar relationship, they can also build a sense
+of similar functionality. So here we've got three buttons going from
+light to dark with a similar hue to them. And they might feel like they do the same
+thing but to maybe a different extent. Whereas if we have three different hues,
+we feel like that these three different buttons are going to have
+three different functions. We can use color in numerous ways. We could use it to denote
+something being active. Here just the green that's different
+from the blues suggests that something has been turned on,
+or is an active element. And we can take that same idea and
+take the green button and turn it into a red button to
+suggest it being inactive. As well as signifying an event or activity
+color also works as part of a system, here for instance we have one
+of three things selected. If you were to click on a blue button now, would it turn to red and
+would the red turn to blue? As well as showing us what's active,
+color can also show us what's inactive or passive. Here, the element is different,
+has a more muted color so we know that it's the thing that is
+actually not working rather than working. You could also think about how color
+can be used to show progression. In this case, we've got three possible
+stages, and it feels like we're two-thirds of the way to completion because we have
+two out of a possible three areas lit. We could also look at how color can
+show absolutely different states but within the same space. So one button, one space, can take on different colors
+to tell us different things. So here, for instance,
+this button is grey. It's passive, or inactive, which means
+the user hasn't interacted with it at all. But once the user goes
+to interact with it, the button becomes active,
+not activated, but active. So this could be in a touch state or when
+a mouse is hovering over a button, for instance. And once it's actually been pressed,
+or clicked, or touched, then it becomes activated. So the same button is telling
+the user three different things just by changing its color. So now let's look a little
+bit at shapes and how we use shapes in
+user interface design. We primarily use shapes in two different
+ways in user interface design. One is interface elements,
+the buttons that you click on, the areas of navigation
+that you need to go. And the other is design elements,
+in other words, shapes that are mixed up with
+images that are more look and feel. Our interface elements
+is primarily functional. So we're talking about shapes that
+are worth as part of a system. But we also often geometric simple to
+understand easy for the user to access. When we use shapes designers elements
+they are often less systematic much more emotive and
+sometimes more ephemeral. They're much more about the look and feel of the interface than they are about
+the functionality of the interface. And in this way, they often
+contribute to that look and feel, and not to the navigation itself. In many ways, they could be
+viewed as non-essential elements. But my argument would be that while
+they're no an essential part of the navigation, they are essential
+in terms of creating a mood, creating a sense of individuality and creating a graphic interface otherwise
+all interfaces look the same. Picking a certain kind of shape can have
+a big effect on the interface, whether it's a diagonal, or a square, or a circle,
+for instance - just as a basic form might make a difference between
+having a lot of direction, versus a lot of stasis,
+versus feeling very organic. We use shapes for our interface elements
+because of their functionality, and it's a certain kind
+of shape that we use. Normally ones that are geometric
+that a simple, that a systematic so that they can be fast to understand and
+they can make the system that's fast for the user to visually learn and
+to interact with. We're off to new shapes and motifs that we're familiar with
+as buttons in the real world. But the key thing here is that
+they have relationship to what is pressing the button on the active area. So whether that's the cursor of the mouse
+or whether it's the finger, we're building a system that relates to the user
+and how they interact with the content. But we're also making
+a system that's flexible, where we could label these buttons
+with anything that we wanted to.

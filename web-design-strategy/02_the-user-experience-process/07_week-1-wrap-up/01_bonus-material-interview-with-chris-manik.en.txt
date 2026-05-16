@@ -1,0 +1,369 @@
+It's a Zz Plant,
+but you're right. This one? Good to know. I should get a Zz top
+record right next to it. That would be really cool. I'm here with Chris Manik. Chris, hello. Hi, Roman. How's it
+going? Nice to see you. It's going well, it's
+nice to see you too. Chris is an UX designer. You recently got into the field and that's what
+we'll be talking about today. We do have an interesting
+story how we met, but we'll get to that
+in just a second. Why don't you start telling me a little bit about
+your personal backstory, your life journey until you got the impulse to study
+UX and get into the field. For sure. Basically I
+was a lifelong creative. I was a former music
+producer and a DJ. I did that in most of my '20s
+and I was lucky enough to travel around the
+globe playing shows as an electronic music artist. That's what I did for
+a really long time. I think during these years I really developed
+a sense of self and I grew a lot in terms of just not only personally
+but within my own profession. I got to meet a
+lot of connections and I had a lot
+of conversations. One of the themes I also
+noticed during those years was that a lot of my fellow
+musicians and artists, they were doing multiple things. Maybe they were graphic
+designer and then a DJ, or maybe they were a
+performer but then they were also doing something like photography or web
+design or something. I think that
+eventually I started thinking about maybe what
+I wanted to also do. I arrived at this point
+in my life where I took a pen and paper and I created this mind
+map and I said, hey, here are some things
+I'm interested in, how can I achieve something
+along these lines, and what would it take? Eventually, I committed
+myself to going back into school and came
+across Coursera. That's exactly where
+I started and began this journey into
+becoming a UX designer, UI designer, and web designer. I was asking those questions
+of the why behind things, and I would look at things differently and I
+eventually took the graphic design course from Coursera through
+CalArts as well. Eventually, through this time, I landed on becoming a web
+designer specifically. I think that that was
+probably the best way to describe this long journey
+of where I'm at today. Where I do think I started in a slightly different part of the creative ballpark and
+I landed on this part of the creative ballpark
+which is more of a designer and a problem
+solver, so to speak. What year would
+that have been when you did your mind map? This was probably about
+four or five years ago. Because originally
+even at that time, one of the other
+things that I was exploring was also maybe
+going back to teach. I think we had that
+discussion as well, that I was doing
+some instructing as a music technology
+instructor and working with students with like Ableton and music
+production software. Then right next to that sat this path to being
+a web designer, what that could look like, and eventually
+uncovering the field of user experience and
+user interface design. Did the pandemic play a role
+in your really focusing on the UX stuff or did you
+start before like 2020? Really good question. Yeah, it definitely accelerated
+it for sure. I had been exploring
+other interests and hobbies that I
+could maybe turn into a profession prior
+to that for sure. But I think once that landed, it did really, I think, affect the music
+industry overall. At that point, I
+had already been thinking of other things that
+I would be interested in. I think I was at a point in my life at that point where
+maybe being a musician wasn't as appealing to me
+and I do think that it almost was like a new
+door that had opened up. I tried to make the best of a really tough situation
+as it was for many. I think that having that
+free time and all of that extra time to just read and look into other projects
+and what's possible was another inspiration
+and I really needed it. I just dove headfirst into
+this particular field. Here we are today. What's so interesting, I think, about you is that you didn't go back to school as
+in a traditional way, but you built your
+own curriculum. You started with Coursera, the UX/UI class that
+I and Michael teach, the graphic design course, and you took other
+courses as well. What are those? Yeah, correct. I
+did a few courses on Udemy as well, that platform, and then I actually
+just went onto YouTube, as a lot of us can do, just to DIY problem solve like, hey, how would I do
+something like this? There's going to be
+a tutorial for it. I think, just a combination between those three platforms, Coursera being the advent
+to all of this, I think, really, as you said, helped me curate this
+very specialized track that I was trying to put
+together for myself. Webflow was another one. Webflow, for making
+the websites. But it takes quite some
+discipline, I would imagine. Yeah, it definitely
+requires dedication and this spirit of, hey, this isn't necessarily
+going to be easy, but also at the
+same time, I think, if you challenge
+yourself enough I do think that, hopefully, you come out as a better person on both a professional and a personal
+level after that point. Again, to your question earlier, I do think that in that time, having all that free time
+around the pandemic, I do think had helped. But I was very steadfast in making sure I had a
+schedule for myself. I treated it like I was
+actually back in school. Between these hours, my phone was on focus mode, or is in the other room and I had to make sure that
+I was reading the books, I was checking out
+this person's post on LinkedIn looking at
+their recommendations for this article and on Medium, and then I'd hop back into Coursera and I'd
+complete my classes. I do think that you
+need that structure. At least I do, for sure That's super inspiring. But then we get to December
+of 2020 and we both meet. That's why we're
+talking today, really. Yes. Let me set it up and then you tell it from
+your perspective. I remember I was hiking
+with my friend, Jen Hutton, who coincidentally
+was the person at CalArts who produced this Coursera class
+the first time around. We were on the top of some lonely mountain
+away from everything, and we stumbled into two people in the
+middle of nowhere, and you take it from there. No, it was one of those
+serendipitous moments. I really don't think we've talked about this
+a couple of times. I don't think I've
+ever experienced anything this random before. To paint the picture, it's the Angeles forest area here
+outside of Los Angeles. There's hardly
+anybody over there. It was, again,
+pandemic times still. Again, less people were
+hiking than normal. People were all wearing masks. Yeah. I remember
+just walking by you, and for some reason,
+and then at this point, I think I was on, I want to say maybe 75% of the course that
+you were teaching, the UI/UX CalArts course. At this point, I think,
+if I remember correctly, you taught the
+first two classes, or was it the other way around? The second two, actually. The second two. I
+think I was just about done with your first half, and for some reason, you were in my mind
+in that sense, and I don't know how I had
+picked you out in that sense. I walked right by, I
+thought to myself, this looks like my professor. This looks like Roman that
+I've been watching on Coursera on these videos for
+the last couple of weeks. I don't even know what got in me in terms of just actually
+speaking up and saying, hey, because I wouldn't
+normally do that. I could be shy or I
+could be quiet as well, and I was like, "Should
+I say something?" Then I was like, "I'm
+going to say something." I just took a chance and I said, "Hey, are you Roman? Do you teach this CalArts
+class? You're professor there?" You said yes, and I
+was like, no way, this is going to sound crazy but and then I explained that
+I'm taking your course. I know you've had
+tens of thousands of students and this is
+such a random thing. Then we got to talking, and
+I think we had a lot in common and we both found it
+quite an interesting moment. We stayed in touch
+and we met up, and you came to
+CalArts and visited. Here we are talking. Cool. Totally. Chris, let's get a little
+bit into your work. Maybe you can share
+a few things. This is my website. As all
+portfolio websites can be, it's a constant iteration. I've had like four different versions of this over the years, but this is where we are today. Some of my work
+would be, of course, accessible and see
+the work here. This is basically
+where I have all of my recent projects laid out. One of the ones that
+we'll eventually get to will be this
+particular project. This work that I did was actually for Apple under the career
+experience program. I work at Apple as a creative
+within Apple retail. Basically, they have a program
+where they hire within and so you can apply and have these real world
+career experiences. Due to my background in UX, UI, and web design, I qualified and interviewed for this particular role
+on this particular team, Apple retail app
+design and this was just some general work
+that I had done for them over the last six months. Most of that is, of course, under an NDA as well, so I won't be able to
+share most of that. It is interesting that you got to Apple in
+the real tail side, but you found your
+creative niche there and then applied for
+this program where they actually allowed you to
+work as a UX designer, or allowed to invited
+you for a period of time and you moved up to the
+Bay Area for that, right? Yeah. I was up in Cupertino for the first half
+of this year and I was lucky enough to have a really great
+team that was very encouraging and they're
+amazing people, and I learned a lot
+from them as well as contributed right away due to my background and I think it was just
+a really good fit. Just experiencing this type of design on that
+enterprise level was really awesome and
+I'm grateful for that. [inaudible] Yeah, for sure. It's also a different way, of course, as mentioned, when you're working
+with a company on that type of a level will be different
+than say, of course, if you're working as a
+freelancer or if you're working for yourself and
+you're taking on clients, it's going to be a different
+type of constraints, different type of a
+design situation. Speaking of freelance though, you do a lot of that. Let's talk about the
+Josh Wink project. Yeah, definitely. This was a website that I had basically redesigned
+for Josh Wink. He is a DJ and producer. He's pretty well known in terms of the field within
+electronic music. He's been DJaying and
+performing for well over, almost at this point
+probably three decades now, and he is seminal
+in his craft and has just a really good
+relationship with myself. I actually released a lot of my earliest music on
+his record label, so when he had found out that
+I was doing web design now, and in particular
+user experience and user interface design, and he was looking to
+redesign his site. This was the perfect opportunity to continue and explore
+what we could do with it. This was basically just
+a responsive website that was created and
+for the most part, the stakeholders here were,
+of course, just the client, Josh himself, and then the general manager
+of the record label. We just created this problem
+statement just like, what would his fans want
+to see on the website? It was very straightforward. I wouldn't consider
+this necessarily a super complex project. But you still went
+through the process. Students in this course, going through the
+UX design process. You might be following
+it to a T or you might have adapted it to your needs. But the idea of starting with the big questions,
+what are we doing? Who is this for, et cetera,. Exactly, and that's imperative. I think that just in general,
+when you're designing, you want to know why
+we're doing this and what the problem
+is from the start. It's not just, for example, hey, we want to redesign the site, that's great, but
+what's the purpose? Are we trying to sell
+tickets on the site? Are we trying to
+increase merged sales? Are we just trying to spruce
+up the portfolio and maybe highlight some recent
+DJ performances or streaming or just social? It's a good segue to the first
+portion of this which is, of course, the research
+after the problem statement. Once we define that, we're going into
+the research end of it where we looked
+at other peers of his. In this case, we looked at
+these two particular artists, Matthias Tanzmann
+and Nicole Moudaber, and basically we looked
+at what their sites are and noticed this very clean, very simplistic performers
+site where we're prioritizing your social icons and giving
+this darker mood to it, which again, resonates with
+the music that he's doing, which is electronic
+and techno music. I had interviewed a few, just local DJ friends of mine that live and are
+familiar with Josh Wink, so they live in the same area as Josh as well as fans of
+his music and so forth. After interviewing
+them, I just created at least one persona where I could at least go
+to and say, hey, this is the themes that we've
+synthesized and extracted from this
+straightforward research that we were doing here. Then of course, we began to just wireframe and design this low fidelity
+stage here, of course. I just had sketched out a few very basic layouts here
+of what I think would work. Again, we wanted to make sure that we had the socials
+in the hero section, so right when a user
+lands on the website. Then of course we have like
+an about section where we had a couple of call to actions. We had a primary and
+secondary and so forth. After some discussion,
+we had eventually landed on the call
+to actions here. Which I zoom in, it's a watch
+me DJ and stream music, he felt that that was the two
+most important ones here. It actually looked really
+good on mobile as well so having this primary and
+secondary is what we stuck with. In terms of where I
+was designing this. It was in Adobe XD and Figma, so I was actually using both at the time that I was
+designing this site. What are you using
+now? Are you still, I guess Apple used Adobe
+XD, is that right? They were actually using Sketch. I was using Figma for this time, meaning currently, I should say. But back then, I was using XD, I think,
+a little bit more. That was actually
+the first software I was using and getting
+acquainted with for design. But yeah, there was
+a reason behind a lot of the things that
+we were deciding here. For example, even
+this yellow here was pretty much pulled from the
+Acid House Smiley Face, which is a very famous genre of music which was
+created in the late '80s. Basically, this is
+a picture of it. His music is synonymous
+with this particular style. He's known as an acid house, acid techno artist anyway, so we wanted to make sure that I was pulling that
+stuff as well. Then this was the outcome. As mentioned, we wanted to keep the hero section
+pretty clean and just an image of him
+with the social icons and a hamburger menu
+at the top right. Then the primary, the
+meat of the section, was the tour date
+section so we had just incorporated his tour dates. That's all dynamic,
+it syncs up with his bands in town as well, so that was the third
+party site that he primarily sells
+tickets through as well. That was a big reason
+to include that on his website as well so
+that user can go on there, purchase tickets for his shows. They could even request
+a show somewhere. Then we actually had
+a secondary page where his record label
+was the feature, that's his record label. On this particular page, our primary and secondary call
+to actions was actually to submit a demo if you want
+to release on his label, which is actually what I
+did over 10 years ago, and then to see the
+full catalog of the album recordings'
+record label. That is great, and Chris, but I really like about the way you presented is
+that you are so in depth, you can really send
+a future client to this page and you can say, this is exactly
+what I did and so you demonstrate that you know what you're talking
+about, which is great. I know from experience, this takes a lot of
+time to put this together and have it make sense. Yeah, it's true. It does take a lot
+of time. Yeah. Well, to finish up, Chris, I have a few
+more questions. You do a lot of freelance. How do you get your clients? That's a great
+question. These days, so I'll start where
+I'm at today, which is basically everything at this point is word of mouth. Because I've been doing this
+for almost three years now. Again, thanks to your course, taking it all off for me, giving me the confidence, and sending me down
+the right path of trying to figure out what this design
+talk is all about. But I think initially, I had to prove myself, and I think that's something
+that I do want to stress as well to students. I'm still a student, I think
+we're all students and I think that this is
+life in general, not just professionally or
+personally, it's a race. It's more of a marathon
+so we're trying to grow at every segment and
+every new chapter that arises. I think a couple of years ago, it was much more
+where I had to prove myself and I would take on work that I wanted to just challenge myself with
+and improve my skills. Both hard skills, soft skills, and I think at this point, because I have almost
+at this point, like 15 or so fully done websites over
+the last three years, at this point, it's more
+of a word of mouth thing. People know I've built up
+enough of a client roster and a community where people know that this is
+what I'm doing these days. I'll have a lot of inquiries based off of previous
+projects like, hey, I saw you did this one thing
+on this person's website, would you be able to
+do something similar? I just think ultimately, everything takes time, so
+you just have to be patient. The best reply would be that word of mouth and
+your previous projects, that is your resume and that's the best version of
+what you're presenting. Portfolio and eventually
+this community of all your clients
+will have been created and they'll talk and your network will be
+your best salesperson. I'm glad you're
+seeing your network because obviously
+there is a reason why you're doing a lot of work for musicians because you're coming out of that scene and that
+makes a lot of sense. I remember having a teacher
+years and years ago, when I first started studying graphic design and he was always stressing getting
+that first job, that first real job. Like someone that says, yes, I trust you. Hopefully here is a
+little bit of money, and then you can be
+like, I have done this. Then someone else
+can look at it and see that you're for real because before
+that first real job, it's a little hard to
+point at anything other than student projects
+which isn't nothing. But it is a little bit
+of a different story; working on a project for yourself than
+working for others. One hundred percent. Just to underscore
+what you're saying, is I also think, and not just think, but
+I know this for sure, that the career
+experience opportunity that I had at Apple this year, directly related to
+the freelance work that I was doing on
+the side as well. Because when I had interviewed, I was able to show that I
+had these websites that were real world projects that clients had come to
+me for that I was completing in addition to
+school work that I had done. I think that once you finish schooling or at least
+are continuing to learn. I do think that analog to that, you want to make sure that you step out of your comfort
+zone and you look to your network to begin
+potentially real world projects. Whether it's for free or whether it's again, an
+experiential thing. Use that to increase
+the value of your portfolio and
+your resume and everything because
+you never know what opportunity will
+come down the line. If you have those
+real world projects, I do think it makes more of a statement for you
+being a designer and the value that you could add
+to that particular company or potential project or contract or whatever that
+you are searching for. Last question for you. It feels like you're
+constantly, as we are all, but you're especially
+fine when I talk to you, you're constantly checking out one thing or another,
+constantly learning. What are you excited about
+learning next getting into? This is a great question. We've talked a little bit
+about this in the past and I think I've
+gone back and forth. But I actually was just telling my girlfriend
+yesterday where I do think I might be jumping back into Coursera
+again and learning. I think I'm going to
+go back and learn to develop some more of the frontend developed
+skills a little bit more. Because again, as
+a UX web designer and then a Webflow developer, I can definitely achieve
+the results I've achieved. But I do think that, I think as we all do, we
+look at ourselves and say, hey, where can I improve? Or what are some
+things that I would like to challenge myself on? I have been playing with this more frontend
+development mindset a little bit and just diving into it and just developing those
+skills a little bit more. Then I would also say that
+I think I would like to try to get involved with some
+of the mixed reality, like augmented reality
+and extended reality, designing techniques
+a little bit as well. I know that actually Apple on their human interface
+guidelines and on their website, they actually have
+quite a bit of really great information
+that you can watch, and it's available to the public this year with the announcement
+at WDC and whatnot. There's some really
+fantastic resources of where things are going, especially with new products
+that are coming in. Just trying to learn as much
+of all of this as possible. I would say probably
+those two places I think is where I might focus in the last half of this
+year a little bit. Well, I'm intrigued to
+see where this is going. It warms my heart a little
+bit that you're like, I want to get into coding more because obviously that's
+my background where I'm a designer developer and it's not for everyone,
+doesn't have to be. But it gives you more power. It gives you the chance to do more things when you
+develop your own designs. Chris, it was such a
+pleasure talking to you. I wish you all the best. Thanks for sharing your
+story and your projects. For sure. Thanks man. It was a pleasure as always. Thanks. Bye. Bye.

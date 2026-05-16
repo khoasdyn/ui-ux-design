@@ -1,0 +1,63 @@
+In this next section, we're going to be
+developing our user interface design. We're going to do that through a process
+of decision making and refinement, of trying out designs and seeing which
+ones work the best with our interface. So let's look at where
+we are in our process. We made some mood boards to
+map out our visual direction. And now we're going to take elements and
+themes from that direction and apply it to our wireframes
+to make a user interface. We looked at two different
+visual directions for our app. Both of them provide a palette of graphic
+elements that we can apply to our wireframe. I want my app to appeal to
+a slightly younger audience and to be more of a lighthearted experience. So I'm going to choose the visual
+direction on the right. I'm going to take this graphic palette and
+apply it in a fast and fairly rough way to some sample screens. I'm going to make different design
+options because I want to test out and also develop my design direction and
+be able to try it out on the interface. So let's apply our design palette
+to some of our wireframe screens. Let's start out with our simple
+branding page to match my audience and the goals of my app. I probably want something that's
+a little bit positive and upbeat right at the start. So I'm going to use my name getpet and the
+typography that I was looking at earlier. It's fun and bouncy, and
+almost feels like a wagging tail. I might want an image to go with it that
+reinforces some of those same attributes. But perhaps that looks too youthful now. Perhaps I've gone away
+from my target audience. I want to keep an illustration,
+but perhaps a different style, and maybe just a pet and not a person. I like this dog because he looks happy,
+like he's just been found. Let's add some upbeat colors
+to our screen to try and make it look less like a wireframe. As you're building these screens and
+applying your design to them, try different things out. They might not always work, but it's
+important to test out all of your options. If I change my image to a sad dog,
+it immediately has a very different mood. And all I've changed here is just
+the expression on the dog's face. All the other elements
+have stayed the same. And the happy dog is much more
+appropriate for the mood of my app. But I might choose to not
+use an illustration at all. I might want to reinforce my branding even
+more with some kind of logo type or bug. And I could think about the scale
+relationship of my different elements to each other and also to the screen size. I can take my very
+upbeat color palette and apply it to some of the other elements,
+like the map, for instance. I can use my colors as a background
+field for pop-up windows. I might want to change
+the shape of that window. And I definitely want to
+spend some time rearranging the elements within that space. I can try out some different typography
+and also some different button designs. And if you take things too far or
+you just don't like them, you can always make another version. Here, I might decide I need more
+contrast between my background and my floating window. I can also put in real
+textual information and real images to try and
+make my interface look more real. Now that I have designs for two screens, I should be able to extend that logic to a
+third screen and have them work as a set. I can use the same coloring system for
+my map, and I can also take the bug from
+the first screen and reuse that. I can use similar typography for
+my second screen as well. So even with just three screens,
+I'm already extending and applying my design rather than
+making three very different screens. I can extend the design
+due to functionality. Here, I might need red and green labels
+to show lost and found, for instance. I might want to highlight the area
+that the user is searching in and make that more visible. So I'm negotiating
+between functionality and aesthetics while trying to keep my
+design on track for my audience. In my wireframe sketches, I was testing out different ways to show
+what kind of animal was lost and found. So I'm going to try and do that here by
+using icons for the different animals. I might want some visual heirarchy to
+focus on the key animal that's either lost or found. So I might treat that
+element slightly differently. So in quite a short time,
+I've managed to take my wireframes and effectively dressed them up
+with my design aesthetic. But design does much more than
+just act as a skin or a surface. It can really change and alter the
+function and the structure of your app.

@@ -1,0 +1,95 @@
+At first glance, websites and
+apps appear to be quite similar, and they do have a lot in common. Each is an interactive medium that
+is accessed on a digital device. They also share many usability
+patterns such as scrolling and the ability to click or
+tap on things to navigate. Yet differences between apps and
+websites do exist, and I find that people often don't
+fully understand these differences. For you as a UX designer,
+it's important to know the advantages and disadvantages of these mediums. You will likely encounter clients that
+want to know your opinion whether they should develop an app or a website. Just to be clear, you understand what
+I mean when I say website and app. A website is accessed through a browser
+via a website address or URL. An app, on the other hand,
+is downloaded and installed onto a device. If you have an iPhone or an iPad,
+you would use the Apple App Store. If you are on an Android device,
+you download apps from Google Play. Amazon has an App Store as well for
+their Kindle devices. What other differences are there
+between websites and apps? Websites, at least if they are coded
+correctly as responsive websites, are malleable enough to work
+on any operating system, any device, any screen size,
+and any browser. So you can easily access, let's say
+www.google.com no matter if you're on a Mac computer or a Windows PC, or you
+could be on an iPhone or an Android phone. Even a Kindle comes with a web browser,
+and your smart TV does too. And it doesn't matter if you have
+a really small screen like a phone, or a medium screen like a tablet, or
+a giant 30 inch desktop screen. And it doesn't even matter if you use
+Google Chrome as your browser, or Safari, or Firefox or Microsoft Edge. Now, apps are quite the opposite. Apps are native to the specific
+device they are running on. So if you are developing an app,
+you must create one version for iPhones and another version for
+Android phones. I would also argue that the web
+is a very democratic medium. Its open source nature allows users
+to have a lot of control over what to do with the content
+of the websites they visit. They can highlight text and copy it. They can download images from a website. They can even install a browser extension
+to change the way a website appears and functions. For example, you can use an ad blocker
+to hide advertisements from a web page. The functionality of apps on the other
+hand is mostly restricted to what the app designer intended. I'm personally very excited about
+the medium of the web because it is so open and democratic. I also enjoy the challenge of
+designing websites that work well on any screen size. Still, there are pros and cons for each. Let's go through some of them. Here is the case for apps. Apps can have a much better
+integration into the operating system. An app on your phone can access
+any special device capability like the camera flash for example, or peer-to-peer Bluetooth connectivity,
+or the list of contacts. For security reasons, websites are blocked from accessing
+some of these advanced features. Also for apps no extra UI from
+the browser gets in the way. Think about the back and forward buttons
+that a web browser constantly displays. They don't take up extra space on apps,
+but you also can't rely on them
+being there for navigation. Apps are not handicapped by certain
+browser limitations either. App developers can sometimes create
+certain user interface solutions that are just not possible in web browsers. If the goal for your project is to create
+revenue, apps can have a huge advantage. You can sell your apps through
+an App Store, they don't have to be free. Also, in-app purchases are quite easy and
+streamlined because smartphone users will already have entered their credit card
+information when they set up their phone. And there is prestige. Apps can be perceived as cooler and
+sexier than a website, but there is a case against apps as well. Users need to download and
+install an app in the first place. That's a lot to ask from a user. It doesn't make sense for
+example, to install an app for a cafe just to find out what
+their opening times are. There are gatekeepers, the Apples and
+Googles of this world. It can even happen that your app is not
+approved because it violates certain guidelines. Apps are also quite
+expensive to develop and remember that you'll need to create
+separate apps for each operating system. Here is what websites have going for them. For one, they are easy to access. You just enter a website address in
+your browser and the site loads. There's no need to install anything. We already talked about websites working
+across all devices, platforms and screen sizes. Since the web is built
+around the idea of links, you can easily bookmark a web page or
+share it with a friend. For content that needs to be
+found in a search engine, a website is a better way to go. Search engines can index the open web,
+but they can't easily index apps. Websites are also more
+economical to develop. HTML and CSS are pretty easy to learn and
+all you need is a hosting account and a website domain which are easy and
+inexpensive to obtain. But there are some drawbacks too. Capabilities of websites are directly
+related to the capabilities of web browsers, so our websites will only ever be as good
+as the browsers that display them. Fortunately, browser makers have left
+the wild west days of the 1990s and 2000s behind them and browsers are getting
+ever more capable and predictable. Websites are harder to monetize. Their open nature just makes
+it hard to control content. And there's a certain attitude that
+web content just wants to be free, so users can seem reluctant to pay for it. Lastly, there can be security issues. Since there aren't any gatekeepers for
+the web, it's much easier to launch
+a malicious website. The web surely has some
+pretty dark corners. I want to share a curious
+historical footnote. This is the Wired
+magazine cover from 2010. The web is dead, it boldly proclaims. At the time,
+apps were the hot new thing and it seemed like they might
+replace websites entirely. That of course, has not happened and
+with better browsers and better web standards the web has
+had quite a resurgence since then. I think the question of app versus
+web is not even an either or proposition these days. You'll notice that many companies
+have a website and an app. So the bottom line might be this,
+everyone needs a website, but not everyone needs an app. In this course, we are primarily looking
+at user experience designed through the prism of designing websites. But rest assured that
+many of the tools and techniques you will learn here
+are applicable for designing apps as well. Okay, one final comment on terminology. Many people will incorrectly refer to
+websites on a mobile phone as apps. That's just not correct. It's still a website that simply
+happens to be accessed on a phone. Use these terms instead. A website that appears on a larger
+screen is called the desktop site, and the small appearance of a website
+is called the mobile site. Desktop sites and mobile sites. Both are the exact same website
+really a responsive site that is optimized to look great no matter
+what screen size the user might have. Again, this is in contrast to actual
+native apps which represent a completely different technology.

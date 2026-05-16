@@ -1,0 +1,70 @@
+In this section we're going
+to focus on Visual Direction. We've been looking at wireframes for
+quite a long time and now we're going to concentrate
+on Visual Development. We're going to start thinking about what
+the user interface actually looks like. For a short time we'll be putting
+more emphasis on UI than UX. But of course,
+they always remain connected. Let's look at what we've figured
+out about our app already. We've looked at our audience and
+defined an ideal user. We've developed our content
+with the content map. We've got a more finished structure
+from our wireframe map and we started to look at some
+initial visual research. We've basically got a framework and
+structure for our app that's pretty
+functional unresolved. We have a skeleton, or a foundation, and
+now we need to build on top of that. And that involves developing
+the visual side of our user interface. We're going to look at this quite quickly,
+and we're going to do it in three steps. We're going to look at the look and feel
+or the initial visual direction that we touched on before, but
+specifically for this app. We're going to take those initial designs
+and try and refine them a little bit to create a more developed and
+specific user interface design. And then we'll work on refining that
+even more to create our final UI design. If you need a refresher course
+about visual design and graphic design and the way it
+works with user interface design, you could revisit Visual Elements
+of UI Design, our first course. And this will give you a more expanded
+process then we're going to look at here. So the first thing that we're going
+to do in creating a visual look and feel is to try and meet these goals. You want to establish a mood, a tone, and
+visual experience that's appropriate for our audience, but also for
+the kind of content of our app. So it's going to be different depending on
+what your app is and who your audience is. Right now, we have wireframe designs for
+all of our screens, so our interface elements are organized and arranged but that quite generic and
+visually undeveloped. We want to give them a mood and
+a character and an attitude that works for our app but we don't want to
+loose the functionality as well. Let's take one of our
+wireframe screens and develop it in two different directions for
+two different potential audiences. We'll use two very simple directions,
+fun and serious. The goal of the fun direction is to
+be youthful, positive, cartoonish, hip, casual. While the serious version wants to feel
+utilitarian, practical, believable, authoritative. As we've looked at before, having a set of adjectives to describe
+your visual goals can be really useful. We can express those
+adjectives through color, a fairly serious and
+dull brown versus a vibrant and fun green. With just one move, we've already created visual
+difference between our two directions. We could do the same thing
+with typography as well. On the fun side, we might use novelty or
+display typefaces with the exuberant form. They could be curvy, lively,
+bouncy, and generally fun. Our typography for our serious side might
+be much more austere, more regular, more consistent, more about
+functionality than about playfulness. And we can use that typographic
+direction to create a logo type for our app, or to create a bug,
+button or icon, in this case LP for Lost Pet, in
+the shape of a tag that a pet might wear. We could do the same
+with our fun typography. But here the forms are much
+more energetic and friendly. I'm also using naming and
+language to reinforce the mood. Getpet is much more
+friendly than lost pet. So we have a graphic pallet right
+now of words, typography and color. But we're also going to need imagery. Our serious images could be very
+photographic, very realistic. They might represent real individual pets. Ones that are lost, or perhaps ones
+that have been found through our app. But the images feel functional,
+and pragmatic, and realistic. In opposition to that our fun direction
+might use illustration much more. With illustrations,
+we can make the animals seem happy and positive and upbeat. And we can do the same for
+the owners as well. Our illustrations don't have
+to exist in rectangles. They can be free floating and
+energetic and we could easily use them
+to create icons or buttons. So now I have a mood board for
+each of my different directions, each of my different moods, and
+they look and feel pretty different. So now I've collected all of this
+information, even though I haven't actually made a design yet, I can start
+to decide which direction is going to be the best one for my app, which direction
+I want to apply to my wireframes.

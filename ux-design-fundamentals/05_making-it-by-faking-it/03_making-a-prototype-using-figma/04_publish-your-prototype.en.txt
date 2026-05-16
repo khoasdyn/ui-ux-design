@@ -1,0 +1,128 @@
+Here we are at our last class
+of UX design fundamentals. We're at our final
+phase where we get to publish and
+test our prototype. But first, it's important
+to make sure that all the pathways through
+the interactive prototype are working properly and
+that you have a way to test the prototype with someone else through some
+working simulation. Here's my final set
+of screens laid out and organized in my
+prototyping software. There are nearly 60 screens just for this short prototype. Like we've seen, I can use the preview window to test out all of my links
+and pathways, or I can present
+the prototype by itself without seeing all
+the individual screens. I might even record this
+if I wanted to keep a record of what it's like for the user to go through
+the prototype. I find this presentation view is a good way for me to
+test my prototype one last time before I hand it off to test it with the user
+that's never seen it before. I can travel through
+all my pathways to make sure that everything works and check that there are no dead ends or places where
+the user might get stuck. I've arranged my fixed
+pathways through the prototype into an order that I think makes
+sense for the user. After my initial splash screen, the user will go
+through a few steps to create an account by
+entering their name, their email, and
+specifying a password. The user then continues through the login screen
+before they arrive at the main home screen,
+which is the map. My main menu at the top
+of the screen is active, and the user can
+also click on any of the icons that are on the map because they
+are all active as well. Opening and closing the information windows
+feels quite realistic. If I spot a found pet on the
+map that I know is mine, I can claim that pet. Here's my lost snake
+that I'm going to claim. When I claim the snake, it takes me out to a separate
+confirmation screen. Then I can use my main menu to easily go back to
+the map screen again. I'm basically trying to make
+every possible activity of browsing in my home screen available to the user
+in terms of testing. When the user has finished
+exploring the home screen, they can choose one of
+the options in the menu. I may search for bold to force the user down
+that pathway first. Now we're going to explore the search for pathway
+through the app. I enter information about the animal that
+I'm searching for, and now a match
+appears on my map. If it's the right animal, I can claim it and if
+it's the wrong animal, I can go back to my search
+and start over again. I'm trying to build the illusion
+of choice for the user. I'm trying to build
+the illusion of full interactivity when there's
+really only two choices. When I've traveled all the
+way through this path, it's going to take me
+back to my home page. But the main menu
+is now going to suggest a different
+option in bold. I'm basically
+forcing the user to travel through my three
+main sections in order. Here we are in the post
+found section of the app. Here, I can upload
+a photo and enter information about the animal
+that I found and post it. Once the user does that, an icon will appear back on the home page map showing the
+animal that's been found. I'm trying to prove
+to the user that their interactions with my
+app actually have results. Of course, the point of that is to try to make
+it feel more real. Once I've traveled
+through the post found pathway of my prototype, the menu is going to
+change once again and now it will allow me to
+get to the last section, the post lost
+pathway where I can post information about an
+animal that's been lost. The steps here are very similar to the post
+found section. I'm trying to create
+continuity and familiarity in
+both the interface and the experience for the user. I'm also trying to have some slight visual differences so that the user knows
+they're in a different place, participating in a
+different activity. This can partly be done
+with words and labeling, but I'm also using
+this color coding. I'm hoping that the
+experience I'm creating is smooth and easy and
+logical for the user, and also engaging, as well as interacting
+with the interface, I want the user to really
+engage with the content. One thing that really
+helps with that is using real text and
+using real images. It can help when
+I'm not repeating the same information over and over in different places
+throughout the app. If you can get the user to
+engage with the content, that means they're really using and experiencing your interface. When you've tested the prototype yourself and
+everything seems good, it's time to create your
+finished working simulation. You can do this in a
+number of different ways. As we've just seen, you could create and record a
+video play through. Your prototyping software
+might also allow you to publish a link so that anybody can look at
+it in a web browser. As we saw earlier, you can create an
+interactive version accessible through
+a real device. This option is the
+one that's going to make your app feel
+the most real. You will actually be
+holding it in your hand and directly interacting with
+it as if it was real. Now, you're ready to test your prototype
+with someone else, and it's really
+useful to test it with a user who's
+never seen it before. That way, all of
+their responses to your UI and UX decisions are
+going to be totally genuine. Here's my final interactive
+digital prototype. I've been through a lot of stages in my process
+to get here. If I was working
+in the real world, I'd probably have
+condensed that process. But for at least the first
+time you design an app, it's worth going through all of those stages so you
+can experience them. The next time you do this, you'll be able to
+condense your own process down and choose which parts of the process
+worked best for you. If you're working on
+a larger project, you might not be involved
+in all of these stages, you might be concentrating on just one part of the process
+in a lot more detail. I hope that what you've
+seen as we've gone through this process is how
+complicated it can be. Just getting to the stage of
+making a digital prototype, let alone making a
+fully functioning app. We've covered a lot of
+information in this course, and some of it, we've
+gone over quite quickly. There are plenty of
+areas that we could have investigated
+much more deeply. But remember, this is just the beginning course
+intended to take you through the whole process
+so you can figure out what you might want to
+investigate in more detail. There are two more courses
+that follow this one that'll help you look at some of these issues in
+much more detail. I hope this course has been productive for you
+and I hope that you managed to get to
+this final stage of producing a
+digital prototype. Wherever your focus
+ends up being in the broad field of UI and UX, I wanted to wish you
+good luck in developing your app and getting your
+digital prototype finished.

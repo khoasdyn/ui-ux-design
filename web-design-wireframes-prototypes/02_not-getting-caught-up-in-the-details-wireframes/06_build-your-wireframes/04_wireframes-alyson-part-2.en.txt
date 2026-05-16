@@ -1,0 +1,98 @@
+Okay Allison, let's talk about some
+developments that happened during your wireframing, some versioning. Something you started, something
+a little bit different and contemplated, Did a bit and then made some changes. All right, so
+let's go through some of those. >> Yeah, so on my original Home Page in the first
+version, I thought that I would do an infographic about the order process.
+>> Right here. >> But then I realize that I didn't have as much information as I thought
+that I would need to convey for the order process. So I simplified it down into more
+of a three step thing instead of an elaborate infographic.
+>> And I suppose you also tried to add some fun graphical elements? And I know that you even went with this,
+and we'll see that in a future video, you went into that. In the visual mark up phase even,
+right, you did some explorations, but then eventually you realized it wasn't
+really adding that much value because there wasn't that much information. So kust mentioning the three steps and having the words was enough.
+>> Yeah, I also think it's more refined to just
+have the three steps and the words, it cleared up the information.
+>> Yeah, and then you also changed the menu order a little bit,
+especially login and sign up was second in your original wireframe, here.
+>> Yeah, and then I moved it to the far right
+on my final because I think it's more accessible that way,
+what you're usually used to when you're doing [CROSSTALK].
+>> Yeah, somewhat of a convention to have the login or
+the account information towards the right. And also you took out the sign up because,
+I guess, if you click on login you get the login
+box and you'll also be able to sign up at that point.
+>> It'd be a little redundant to say it twice.
+>> Yeah, right, and I guess you had also forgotten the testimonials which-
+>> Yeah, then I brought that back in. >> Yeah, cool, all right, second one is the order sequence,
+it's on the second page here. So that's looking quite different
+from your original idea. >> Yeah, I think on my original idea I had started out immediately with customizing
+the menu and taking you to the food page. But I realized later on
+that in the order process, that comes further down the line after-
+>> because you need to know how many guests in order for those pie charts-
+>> Exactly, yeah. >> UI elements to work, right? So you went from customizing the menu, to
+Guest Estimate, to Schedule, to Check Out, four steps. And you actually drew this out and
+it became Location, Guest Estimate, Customized Menu,
+Schedule, Order Confirmation, Sign up, and Check Out.
+>> Yeah, I think before I tried to condense
+all the information into a few pages, but in doing that it confused
+a lot of the information. So I think spreading it out into each
+individual step would be clearer for the user.
+>> And I guess it's worth to mention that takes
+some time to go through that, right? It's hard to sit down in front of a blank
+piece of paper and come up with, this is the one on the right is your final,
+come out with that out of the box, right? You have to put something down,
+think about it, contemplate and revise it. And then that's why we're doing this
+on a wireframe basis because, again, your colors, your images, your typefaces,
+all that stuff doesn't get in the way. That you can really just think about
+structural decisions that have to be made at this point. Talk about the checkboxes here.
+>> Yeah, in my second iteration of the wireframe
+I still had am Add button for the food. But I had no way of subtracting
+if you didn't want it. So I opted for checkboxes so
+that you can choose and change your mind if you need to for the certain menu items.
+>> So here on the left, if you click,
+presumably you already clicked on Add. I guess it could change to subract,
+right, automatically, I guess that could be an option. But the checkbox is just so much clearer,
+right, if you were to check it, then it shows up on the right,
+and you can uncheck it as well. >> And I also made the pie chart more clear and separate from the menu item so that it doesn't get pushed down as far.
+>> Yeah, just graphically, right, it didn't really, on the left here,
+it didn't really have a place to go or it was just floating.
+>> It was just floating. >> And now here on the right it takes up the other right side of the page. The other thing that's happening here for
+you, if we compare the left and the right, if we study the left,
+it's a lot, right? There seems to be no clear hierarchy
+[LAUGH] of what's going on, [LAUGH] so-
+>> Yeah, there's about three levels of menu.
+>> Yeah, yeah, there's a primary on the top and then
+the secondary, then salads, pasta, drinks. It's a tertiary menu and
+it's all quite complicated. So you decided actually that
+as soon as you order or you enter the ordering process,
+the catering process, that section, you actually lose the primary navigation.
+>> Yeah. >> Which is a nice choice because at that point your task is
+to customize your order, you don't need to go Testimonials or
+About Us or, Frequently Asked Questions. Or if you wanted to, you'd have to go back
+to the Home Page, which you could do- >> Or you could also, there's the live chat support.
+>> Okay, that's true. >> So if you're going through and you need to ask questions, that's also there.
+>> But too, if we look at this, this is your primary menu,
+catering our store, etc. That once you enter the customization
+process, this just goes away, you can go back to it by clicking on
+the logo, I suppose, to the Home Page. So it's in a way maybe a little
+unconventional because you're taking options away that
+the user might be looking for. But it also, I think in this case,
+it has a real advantage because you're condensing the information
+you put on the screen. And it's not, again,
+on the left it's quite a circus. >> [LAUGH] >> [LAUGH] And it was cleaned up, and also the other thing that you did was
+that it's a real linear progression, these little arrows. So, Location and
+there's an arrow to Guest Estimate, it really communicates that this is a
+linear process, you go one step at a time. Whereas on the left, that information is presented almost as
+you could take on anything at any point. So it's quite a bit better, great, and
+then there's one more, the Thank You page, what happened here?
+>> Yeah, so in the first version, I think it was very plain about it,
+and I kept it very simple. But in the final version,
+I tried to introduce more of using Italian to carry the voice of the website more.
+>> Grazie. >> And have a nicer thank you message to make it feel more welcomed and elegant.
+>> Also more personal. >> Yeah, more personal. >> It says the name, right, taking the order, that's really nice. Yeah, it's funny on the left it says so
+boldly, just like a Home Page, [INAUDIBLE].
+>> [LAUGH] >> But there's also no reason, I think that something we discussed
+at the time, you're done, you don't have to go back to
+the Home Page necessarily. If anything, it says here,
+contact us any time for questions, so the contact us might be a link
+that gets you to the Contact page. Yeah, okay, great.

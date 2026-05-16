@@ -1,0 +1,28 @@
+Here again is our roadmap. We've arrived right in
+the middle of the UX process, ready to tackle the sitemap phase. This of course,
+means that we are getting more and more concrete with the shaping
+of our final site. In the sitemap phase, we are very much concerned with
+the structure of information. If the last phase, the outline of scope
+phase, was all about defining our requirements, now we are figuring
+out how the piece of content and functionality fit together as a logical
+hole that the user can navigate with ease. At its core, it is all about
+defining hierarchy and sequences for the options that
+are presented to our users. We're taking all this stuff,
+all this content and structuring it so it can be accessed in a logical way. And this step isn't even all that unique
+to websites if you think about it. Graphic designers deal with structure and
+hierarchy of information all the time. I mean, when designing a poster, designers have to create hierarchy for
+the elements that are on the poster. When designing a book, they create a table of contents that
+guides the structure of the entire book. The sitemap, in a way, represents
+the table of contents for our website. It is an information flow diagram that
+includes a bunch of boxes connected with lines and arrows. We'll cover the different components
+of a sitemap later in this lesson, and we'll also look at specific
+examples of sitemaps. But let me stress one thing right away. As the table of contents for our sites, the sitemap will show us what to include
+in the main navigation of the site. To illustrate this, let's quickly add some
+example content into this sitemap sketch. Here you see that everything
+starts at the home page and there are four first level pages,
+products, about, cart and contact. Well, if this is our sitemap,
+then we will want to use these four top level items as our links
+in the main navigation bar. We'll deal with this much more in
+our next phase during wireframing. But I wanted to mention that when
+we are thinking about the sitemap, we are already laying the groundwork for
+the navigation menu.

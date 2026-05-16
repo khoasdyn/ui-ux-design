@@ -1,0 +1,71 @@
+In the beginning of a project, take some time to look around at what already exists
+in the world. This is an essential step in
+every designer's process. If you're designing a new logo, you look at other logos. If you're designing
+a new magazine, you go to the bookstore
+and look at a bunch of magazines and if you're
+designing a new website, well, you should look at
+a lot of other websites. When my design studio worked on the new site for substance, an academic journal, we
+naturally looked at many, many examples of existing
+websites for journals. It allowed us to
+survey the competition and investigate their
+approaches to web design. This gave us a lot of inspiration of things
+that we really liked, but it also provided examples of things we definitely
+didn't want to do. Most importantly, we had context for the site we
+were about to build, how it would fit into the
+current web design landscape. At the beginning of a project, it's also useful
+to ask your client what websites they like and why. You don't necessarily want
+to get into a position where you are asked to copy something that already exists. But it's good to have an understanding of
+what your client gravitates to and what
+they absolutely dislike. They will, after all, sign off on what you
+eventually design. Now you might find
+that looking just at your direct competition isn't
+always all that inspiring. I would suggest you also
+get inspiration by looking at the very best website
+design out there. Even more important
+as a web designer, you should make it a point
+to be aware of what's happening in the web
+design industry at large. What are the most recent cool
+and innovative websites? What are the trends? Who are the interesting makers and
+thinkers in our community? What technological
+innovations are happening? Here are a few recommendations of how to stay in the know. There are many showcase
+websites that collect the most outstanding
+examples of website design, the Site Awards, and note
+what they're doing there with the three W's
+is a great resource. It's a crowdsource platform where users vote on
+designs submitted. The projects that get
+the highest scores get awarded honorable mentions
+or side of the day, side of the month,
+or side of the year. You can browse the archives
+to find a lot of cool stuff. I would even encourage
+you to create your own account and start judging some of the
+entries yourself. This will force you
+to look at a website critically to determine
+what scores for design, usability, creativity, and
+content you would give. Plus, it's kind of fun. Other showcase sites you should check out are Site Inspirer, One Page Love, HTTP star, and the Webby Awards. There's really a
+whole lot of them and these are just
+some suggestions. Another great way to stay
+informed is to follow the leaders of the
+web design industry and read what they have to say. You know the people
+that write books or important blog posts or
+talk at conferences. Here are a few of
+the people that I really like and
+their websites. I'll note that
+Chris Oyer founded the popular website CSS tricks. Jeffrey Zeldman started one of the oldest and most
+influential web design blogs called Alysa Part, and Ethan Marcott is
+the guy who coined the term responsive
+web design in 2010. Here are a few blogs that
+are tremendously helpful, inspiring, and influential. UX Collective and
+Smashing Magazine have a strong focus
+on user experience. Codrops is a fun playground with experimental and practical
+user interface examples and a book apart publishes short single-topic books about user experience and web design. I also encourage you to sign up for weekly email newsletters. Here are a few great ones that distill the most
+current happenings in the web design world into a weekly digest that
+lands in your inbox. Web Design Weekly, UX Collective Codrops,
+and Figmalan. This last one is all about
+the design tool Figma. If you are into podcasts, give these a try
+smashing podcast, Yo podcast and Shop Talk show. There's a lot of information out there and much of it is free. You just have to go and get it. The sheer volume of
+all the resources can actually be
+quite overwhelming. It takes time and energy to keep up with a
+fast-moving industry, but it pays dividends to take the time to learn
+from other people. Of course, I probably
+don't have to preach this so hard to you. You are, after all, taking
+this course, eager to learn.

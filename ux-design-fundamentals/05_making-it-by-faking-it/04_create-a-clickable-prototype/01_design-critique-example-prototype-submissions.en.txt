@@ -1,0 +1,56 @@
+Next, you'll be completing a peer reviewed
+assignment in which you'll create a clickable prototype of the pathway
+you outlined in last week's assignment. You may remember from our last design
+critique how important this skill is as a user interface or
+user experience designer. This peer reviewed assignment
+provides a way for you to continue practicing design critique
+by both giving and receiving feedback. We'll look at a few example prototype
+submissions from students who previously completed this course. I'll walk us through a brief design
+critique where I'll point out some effective design choices and
+discuss some things to avoid for an effective prototype. The first prototype we'll
+look at is Sportify. My first impression is a clean,
+simple, sports or exercise focused app that starts
+me out by creating an account. The steps are made intuitive by
+the clear labeling, spacing, and sequencing of the fields that take me
+through the sign up and login process. On the landing page the size and
+selection of icons makes them distinct and informative, though it's
+not clear why the boxing gloves have an orange background that's so
+similar to the app logo. When I select the boxing gloves,
+I get more details. The text here is easily readable,
+though the contrast could be improved. When I click on the menu to
+advance through the pathway, I notice that the color
+of the menu changes for no apparent reason,
+which can undermine cohesiveness. The search layout is straightforward and
+uses familiar elements and labeling. Continuing through this sequence,
+I noticed that the transitions between screens detract from
+the perception of this being a real app. Dissolves would have been a better choice. Looking at another prototype, my first impression here is of a simple
+login screen that's crisp and friendly. Though I'm not really
+sure what the app does. I now appear to be on a search screen. The graphic here is interesting,
+but it's not particularly helpful at communicating what the user should be
+doing here, and it seems pretty large. The labels on the icons at
+the bottom make their purpose clear, though the items at the top appear too
+similar to each other and lack labels, undermining the user's ability to
+intuitively know what they might do. Moving forward,
+the search results are quite readable and the white background here
+really helps the placement, and the green color of the add button also
+helps the user know what to do next. Continuing to see albums, this screen
+appears quite cluttered and confusing. It would benefit from a more thoughtful
+and intentional information architecture. This prototype would also be
+better if the interactions and transitions were smoother,
+making it feel more like a real app. Going through a final example, my first
+impression here is quite positive. The screen communicates a freshness
+that's supported by the effective use of color and logo design,
+all with a clear information hierarchy. The get started button draws the eye and really guides the user
+forward into the app. It follows conventions like providing
+the ability to use Facebook or Google to sign in. This prototype leverages realistic
+imagery and content that also seems real. This goes a long way toward providing an overall experience that's
+both engaging and believable. The flow through the app follows
+a conventional user journey from selecting a food item, to viewing the details,
+to adding the selected item to the cart, and then reviewing the purchase and
+going through and completing the checkout, to finally seeing a confirmation and then
+offering the option to track the order. The app also benefits from the design
+choices of consistent button placement and including only the details that
+are necessary to the user for each step along the way. Now that you've seen a variety
+of prototype examples, it's your turn to take what you've learned
+and bring it all together into a prototype that delivers an experience that's
+engaging and complete for your users.

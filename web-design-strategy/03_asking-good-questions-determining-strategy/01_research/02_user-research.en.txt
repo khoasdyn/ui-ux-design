@@ -1,0 +1,33 @@
+In the previous week, we established the centrality of
+the user in our design process. In this video, I want to discuss how
+you can use research to help figure out how your users think and behave. Now, with big stakes and big budgets come a lot of fancy
+tools to research user behavior. Imagine, for example, the effort of
+creating a new checkout flow for Amazon. It is likely that Amazon will invest
+significant resources to scientifically study how users interact
+with their website. They might employ eye tracking research,
+a technique that investigates where the user's eyes spend
+the most amount of time and what they look at first on a page. Or they might do A/B testing where
+different sets of users will see different versions of a page or a page sequence. After a specific time, one can evaluate which version did
+better as measured by a specific metric. Did orders go up for group A or group B? This isn't too different from how medical
+trials for a new medicine are conducted. And of course, if a company has tons and
+tons of user data, they can analyze it to draw conclusions. Now I think this is all
+really fascinating, but these tools are often too expensive or
+too complex, or they presuppose having a lot
+of data in the first place. They are probably not
+available to you right now. As a matter of fact, they are often not
+available for most smaller scale projects. But here's the thing, you can still do some lower tech
+versions of user research yourself. Here are a few ideas. You can always start by using
+yourself as a test subject and monitor your reactions to a website or
+app closely. When you get frustrated or
+if you love an experience, try to determine exactly why that is. Look at the world critically. You can also ask a friend
+to visit a website, give them a task to accomplish,
+and look over their shoulder. You may be surprised at what confuses
+other people when they navigate a website. This is especially helpful and humbling if the website in
+question is one that you designed. Am I speaking from personal experience? Maybe, interview a friend or
+family member. Ask, for example,
+what features they would love to see for a project you are working on. Or consider creating a questionnaire and
+send it to people you know. You can easily use a free tool like
+Google Forms to facilitate this. In conclusion, it is helpful to ask actual
+users for their opinions and feedback. There are many complex and expensive
+ways to go about this, but with a little ingenuity and by tapping your network,
+you can get pretty far by yourself.

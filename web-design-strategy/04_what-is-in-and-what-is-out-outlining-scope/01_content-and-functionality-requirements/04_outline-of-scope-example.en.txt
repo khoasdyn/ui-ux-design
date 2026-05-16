@@ -1,0 +1,16 @@
+Let's take a look at
+a real life example. Here are the functionality and content requirements that I presented to the client for
+the Calarts project archive. You can see it's only two pages, but let the simplicity
+not deceive you. It took a lot of hard work
+to get to this point. The functionality list
+ended up pretty modest. We're going to implement
+filtering and searching. The filtering will be
+possible by academic program, degree, graduation year,
+and project category. On the content side, we have determined the specific information we will need for each artist and project and we'll need the content
+for the secondary pages, like about submissions
+and contact. Notice that we have also listed all the possible
+categories for projects. It took many discussions with the client to agree
+on this list. Again it's just two pages, but it's very
+important information which we will need
+for our next phase where we will structure
+the requirements identified here into a site map.

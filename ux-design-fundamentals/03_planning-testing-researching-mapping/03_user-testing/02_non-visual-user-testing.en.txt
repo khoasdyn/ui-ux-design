@@ -1,0 +1,59 @@
+In this segment, we're going to continue
+with our non-visual user testing. We already completed the first stage
+where we made our paper prototype. So now we're going to move on to the
+second stage where we're going to try to test that prototype out on a user. This might be the first time you
+share your idea with somebody else. It's certainly the first time you will be
+getting feedback from an external source. For this simple test your external
+source could be family or friends. Or if you don't have
+anyone to act as the user, you can role play and do it yourself,
+pretending to be your ideal user. This kind of paper prototype testing
+that we're doing is the simplest kind of testing. And while you might learn
+a few things from the user, it's also to get you
+comfortable with testing. Because you have to play
+a participatory role in this process. And if you're really developing an app,
+you'd be testing regularly and you'd be testing often. So you can think of this simple first test
+as a precursor to more developed user testing that you would carry out later in
+the development process with your app. And because we're fairly early in
+the process of developing our app. When we do this kind of testing,
+we're really trying to figure out if there are large major problems
+that we encounter with the user. And maybe things that we didn't
+anticipate as a designer, that you only get to see when somebody
+is experiencing your app, and the pathways of your app for
+the first time. Your familiarity with your own content and your own idea can sometimes can blind
+you to some obvious errors or issues. So having a test user, you doesn't really know anything
+about your app can be really helpful. You can have your user sit
+across the table from you. You can hand them your sheets of paper,
+one at a time, and ask them which option they choose. Depending on what they choose,
+you can give them the next piece of paper. Remember, we're trying to
+focus interaction here, we're trying to see how the user
+interacts with the app. So having some kind of separation,
+sitting opposite from the user, for instance, can be quite helpful. Also, the user is playing
+the role of the user, but you're playing the role of the app. So don't give the user additional
+explanations of everything that's on a sheet of paper. If they get stuck or ask you a question,
+you can answer them. But for the most part, you're going to
+learn a lot more by quietly observing the user interacting with the sheets
+of paper, and making decisions. You're playing the role of the app here,
+so if the user needs to enter data into fields, for instance,
+you can just do that verbally with them. And it'll only take you a few minutes to
+go through all the pieces of paper, so you can try to find more than
+one person to test with you. So let's look a little bit more
+closely at user testing, and look at the relationship between
+the user and the tester. The tester's job is to act as the app and to give the user a series of options for
+them to choose from. The user's job is to make
+decisions about those options, and give them back to the tester. So you have a constant loop of
+exchange between user and tester. While that loop is going on, the tester's
+job is to observe the user to see which decisions they make, but also to see how
+easy or difficult those decisions are. The user's job is to
+make those decisions and to give the tester information when needed
+or to tell them when there's an issue. Both the user and the tester are trying
+to figure out how the app works. The user is doing this in an active
+way by making decisions and telling it to the tester. And the tester is doing it in a passive
+way by observing what the user does. Ideally, the user won't
+run into any problems and the tester will really be
+observing just what works. But it's also really useful when the user
+finds something that doesn't work. Because then you know it's a problem,
+and you know what you've got to fix. And if you run this preliminary paper
+test with a few different users, and they all have the same issue, they all
+run into a problem in the same place. Then you can be pretty sure that
+it's actually a genuine problem, and you're going to have to change
+something with your app.

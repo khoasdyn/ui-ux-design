@@ -1,0 +1,81 @@
+Let me walk you through an
+example sitemap process, so I can explain how
+to get from a list of content and functionality
+to a sitemap. Here we have a bunch
+of content items for an e-commerce
+site. What a mess. As a first step, let's sort these items into sections
+of related contents. Better. Now we have
+all things that belong to products and the shopping
+experience on the left. Items about the company are
+collected in the middle. Information about contacting and visiting the company
+is on the right. We have a few other
+things, like FAQs, cart, checkout, and blog as standalone sections. Next, let's find some
+umbrella terms that can describe these content
+buckets that we created. Here, we have shop, FAQ, shopping carts, abouts, blog, and contact. These labels will form the
+main navigation of the sites. The links that you'll find
+on top of every page. Note that we don't yet
+have a section for the credits and the
+privacy policy. Well, these pages,
+while important, don't necessarily need to be accessed from the
+main navigation. Let's add these links to
+the footer of every page. Let's take another look
+at the contact section. The last two items, directions and opening times, could fit under contact. Visiting a store can be somewhat described as a form
+of contacting, but it's not very
+precise, is it? Let's be more explicit and create another
+section called visit. This new section emphasizes that this online store also
+has a physical location, since users will see the word visit right away in the
+primary navigation. Now that we have a label
+for each of our sections, let's take a closer look at
+all the content items and decide if we actually need
+individual pages for each. Here I isolated all of the content that doesn't
+need a separate page. The product descriptions
+and images and customer reviews will live
+on the product pages. The about text will go on
+the about landing page. The employee directory
+can be on our team page. Contact info and
+social media links can all be listed on
+the contact page. We don't need sub-pages
+for the visit page. We can list directions and
+opening times on one page. We cleaned this up quite a bit. Now let's build our sitemap. We'll start with the
+main level items. They go across the top. But what about the order? The order should
+make logical sense and also indicate importance. We might decide that it's
+more important to list the visit section first and to list about
+towards the end. Also, it's a convention to list the shopping
+cart link last. Speaking of the shopping carts, it's the only navigation
+link that has two words. Let's be consistent and
+rename it to just cart. There we go. Our final
+main level, navigation. Now we can add all of our secondary content
+we determined earlier. Here's everything that goes
+into the shop category. Note that featured products and products both linked to
+product detail pages. The icon for these looks
+a little different. It's a page stack to
+indicate that there will be many different
+product detail pages. The same happens
+with the blog posts. There are many different
+blog post pages that are all linked from
+the blog landing page. Here's the info that needs to go under the about section, and the cart will link
+to the checkout process. What are the steps of
+the checkout process? Here they are. Note that instead
+of simple lines, we have arrows here to indicate a sequential order
+of these pages. A user won't be able to
+advance to the billing info, let's say, before they
+enter their shipping info. Also, there is a
+horizontal bar on the last arrow to indicate that once you reach the
+order confirmation page, you can't go back to the
+previous confirm order page. We also have to include the two items that we are
+putting into the footer. Since they will be on
+every single page, we just list them separately on the bottom of our sitemap. To wrap things up, let's
+make another connection from the product detail
+pages to the shopping cart. After all, the user
+will be able to add products to the carts. We are almost done. There's only one
+little detail missing. In fact, it's not
+actually so little. We're missing an important page. Can you spot which one? It's the page that most
+people will land on when they visit the sites,
+the home page. We will connect lines
+from the home page to all the other primary
+navigation items. There you have it, a
+beautifully organized sitemap. Remember where we started? With a wild list
+of requirements. It took a little work to structure this
+into a meaningful, logical, and cohesive whole. In the next video, I will
+talk a little bit more about the different elements
+that make up a sitemap.

@@ -1,0 +1,93 @@
+In this section, we're going to move one
+step closer to our finished prototype. We're going to create or import all of our existing screens
+into our prototyping software. It's going to help us if we organize
+all of these screens onto one page, and we already have a couple of models for
+this. We have our sitemap and
+we have our wireframe map. So here are some sample screens
+that I built for the lost pet app. There's a series of login screens,
+a series of home screens, a series of posting for lost pets,
+a series of posting for pets that have been found, and
+a series for searching for a lost pet. Since I'm going to be connecting these
+screens together in my prototyping software, it's going to be useful for me to use the organizational maps
+that I've already developed. So I'm going to use my wireframe
+map as an initial guide. If I take those screens away and just
+leave the arrows that connected them, I can almost exactly slot the more finished
+designs into exactly the same places. So I can use my wireframe
+map as a blueprint for how I'm going to create my prototype
+within the prototyping software. So here are all of my different artboards,
+all laid out in Figma. I can arrange and group these screens
+into their thematic sections. I can move them into a space where their
+visual arrangement makes sense with their content and function,
+according to the logic of my app. So pretty much, this is the same thing
+I was doing with the wireframe map. You can figure out whatever layout or
+logical system works best for your app. Here I'm going to arrange my app
+with the login screens at the top, with the home screens just below. Across the bottom, I've placed
+the three different main sections representing the core functionality of
+my app, search, posting a found pet, and posting a lost pet. It's a very simple structure that
+follows the basic primary user flow and hierarchy levels of my app. The job of my structure here is for it to make visual sense to me as I lay
+out the screens because I know I'm going to add many more later
+as I build my prototype. And it could easily get way too
+complicated if I don't organize things now. So now let's make some simple transitions
+between these screens to make them feel like they're interactive. From my branding screen, you can pretty much click anywhere
+to go to the next screen. So, I'm going to make it so that clicking anywhere on that branding
+screen takes you to the next screen, rather than making one specific area or
+element be the interactive component. All I have to do is connect
+these two artboards together. I can make a link between them and choose
+which artboard I want to connect to. I can also choose what kind of transition
+I want to have between these screens, and if I want that transition to
+ease in and out, to be smoother, and I can decide how long that
+transition should take. For a transition like this, it,
+it doesn't really matter so much. So I'm going to pick a pretty simple
+dissolve that'll crossfade between these two images. I'm going to do the dissolve quite quickly
+because I don't want to make a big deal out of the transition, but
+I want it to be visible enough so that the user feels like they're
+being transported to another screen. I can use my preview window to test that
+transition to see if I like it or not. If I don't think it's right,
+I can go back and change it. The create an account screen has
+many more components on it, so I can't make the whole
+artboard interactive. I need to think about each of
+the individual elements and what the user might do with them. For now, I'm going to concentrate
+on the big connections. I'm not going to deal with how someone
+might fill out the fields when they might want to create an account, but I am going to deal with what happens when
+they click on the arrow button to advance. Because I know that's going to take
+them to the next artboard where they can confirm their account details. Likewise, the next big interaction,
+when I hit the continue button, it's going to take me to the map,
+to my homepage. So I'm basically building these
+major links between my screens, even though I know I may have to go back
+and build additional intermediary screens. I'm trying to get the shape of
+my interactive structure here so that I can see what it feels
+like before I spend a lot of time working with the details of the
+interactions on each individual screen. Like the process of most
+design development, we're making the big moves first. I want to include all the screens that
+I've designed so far, so I can link the parrot icon to the next screen where
+there's information about the lost parrot. And I can test my transition
+by using the preview window. In order to include the last screen, I need to create a connection from
+the parrot window to the dog window. I can select the dog icon and make
+that the only interactive element, and it's going to take me right to
+the next page, to the dog page, with more information on it. So I've managed to include all six of my
+screen designs and connect them together. I haven't made everything interactive or
+live, I've just made a few connections, and I'm
+going to do this as a preliminary test. I want to see what my prototype
+feels like, how it's going to work. So rather than build a prototype
+with all 20 screens, I can just take a sample of a few screens,
+and try them out, and see what needs fixing,
+see what works and what doesn't work. Now, in my preview window,
+I can go from my app identity screen, to my create an account screen,
+to my account confirmation screen. I can click continue and
+go to my home screen, my map screen. And my cursor tells me that
+the parrot is the only live element. So I can click on that to get to
+the parrot details screen, and from there I can click on the dog and
+get to the dog detail screen. I've also set it up so
+that I can click back on the parrot and go between these two screens, because I
+want that transition to be quite minimal. I wanted it to be seamless because
+it's a small jump for the user. What we've made here is a test
+version of our digital prototype, and even though it's very limited,
+we can actually test it on a real device. Even at this preliminary stage, seeing
+it on a device can be really useful. Even though there's not a lot of
+interaction, just the fact that the user is touching the screen and getting
+a response makes the app feel real. I can also flip through the other
+screens that I've designed, even though I haven't put links
+in there yet or connected them. And once I've seen all my screens in
+this simulated mode, I can assess and evaluate them, figure out which
+things work and which things don't. And how I plan on making them work
+better when I build my larger prototype.

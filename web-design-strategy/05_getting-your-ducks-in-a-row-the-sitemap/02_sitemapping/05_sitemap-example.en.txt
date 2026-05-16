@@ -1,0 +1,42 @@
+I'll finish this lesson with
+an example site map, again, from my work for the CalArts
+Art School Project Archive. Let's look at a few things
+here in a little more detail. You see that everything
+starts with the home page and that there are a bunch of pages linked from the home page. The Projects landing page will list all projects that
+are included on the site, while the Artists landing
+page lists all artists. Underneath these,
+in the lower rights are two page stacks. Each project will
+have a detailed page and each artist two. Again, the page stacks represent the fact that
+there will be many, many detailed pages, one for each project and one
+for each artist. Also look at the connections. The Projects page links to
+the project detail pages, the Artists page links to
+the artist detail pages. Both of these detail
+pages also have a connection because
+the user can navigate from each individual
+artists detail page to that artist's
+projects and vice versa. Each project links to the
+corresponding artist. We decided to feature certain
+projects on the home page, that's why there is
+a connection from the home page to the project detail pages to indicate this. Then on the left side,
+you see four pages for more secondary information
+about Submissions, Contact, and Site Credits. We can divide this site
+map into three sections. First, the Home page, the Projects and Artists pages. These will make up the
+primary navigation. Then we have the detail pages and then the
+secondary navigation. Let's add another little detail. Since we already know that
+the items that are listed on the Projects and
+Artists landing pages can be searched and filtered,
+let's indicate this. Now the site map includes
+even more information. What's most important is
+that your site map is visually clean and
+easily understandable. Add as much info as necessary to communicate
+the structure of the site and account for the content that will
+have to be included. One final question
+you might have is, what software should you
+use for creating site maps? Well, any software
+that lets you draw a bunch of rectangles
+and lines will do, so I'll leave this
+decision up to you. The site map you're looking
+at was created in Figma. Other tools like Whimsical and
+Miro are good choices too. I have also used Adobe Illustrator and
+InDesign in the past. You could even use pencil and paper and start out sketching your site map by hand before creating the final
+version on the computer.

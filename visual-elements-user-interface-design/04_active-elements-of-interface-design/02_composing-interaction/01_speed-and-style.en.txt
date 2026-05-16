@@ -1,0 +1,96 @@
+In this segment we're going to look at
+some ideas surrounding invisible and visible user interfaces. And what we're really looking at here is
+a notion that by reducing the graphic content of an interface and trimming
+it down to just its bare essentials, you can create a much faster
+level of accessibility for the user to get to the content. And this is the strategy that we see
+in contemporary interface design. And it's fairly ubiquitous at the moment,
+and for good reason as well. So some of the advantages of having
+a slimmed down, scale down interface, are, first of all,
+that is very simple and direct. So it's very easy for the user to understand;
+there's nothing that gets in the way. And while there nothing that
+gets in the way visually, there's also nothing that gets
+in the way in terms of meaning. A high level of clarity creates
+a low level of user mistakes. A simple interface can
+also serve many purposes. It can be adoptable by a wide number
+of people for a wide number of uses. And simplicity and homogeneity can create
+a familiar and predictable interface across a number of different bodies of
+content or different kinds of experiences. Above all,
+simplicity builds logic which means that pretty much anybody can figure out how to
+use this interface very, very quickly. So what's against these ideas? What could possibly be bad about them? Well, the bottom line is that they
+can be a little bit homogenous. They can be a little bit too familiar and
+too predictable, perhaps too unambiguous and too logical. So the end result can often
+be that the experience, even when the content is interesting,
+the experience is boring. I'm not sure if I want all my digital
+content to look the same way. I'm sure that buying cool new shoes and getting a root canal should
+have the same interface. So let's look at the other
+side of the equation. What happens when we think about
+the user interface that is more graphic, that is more entertaining, engaging? A much more rewarding experience,
+and much more idiosyncratic. Where are the benefits in that system and
+where are the downfalls? The benefits seem mostly to be,
+not in the content itself, but in the experience of
+accessing that content. So is the experience of getting to
+that hard information, engaging, or entertaining, more so
+then with the generic interface? Do I end up with a much more rewarding
+experience, ordering my pair of shoes to an experiential website,
+versus a more generic functional website? And does the value of that experience
+create something that is more brandable or marketable? Something that is idiosyncratic or
+individual and might be the difference between me buying my pair of shoes
+from one website or another? The condensed rationale here is
+that the experience has value, so you might be getting the same product,
+but the experience is the thing
+that gives it worth. So what are the downsides of
+a less generic interface? Well, while that may be entertaining,
+it can also obstruct content. Sometimes all of those bells and whistles can get in the way of
+what you actually want to do. And while your interface
+experience might be very engaging, there are going to be times where you just
+want to get the thing you want to get. You want to get straight to
+the content without wasting any time. And that lack of speed and functionality can turn an engaging
+experience into a frustrating one. And while this interface might offer
+opportunities for more graphic design and to be more easily brandable, it could also create an aesthetic
+that can date much more rapidly. So instead of ending up with a cool
+interface that is unlike anybody else's, you end up with something that's
+dysfunctional and rather unnecessary. You can end up with an interface
+that creates frustration for the user, because it obstructs
+them getting to the content. That's the whole reason that
+they're there in the first place. So there are pros and cons to both
+the hyper-functional interface and the hyper-stylistic interface. And as with many of the aspects of
+interface design that we look at, and examine, it's not a case of
+one thing versus the other. It's more a case of,
+how do you use these aspects together? So how do you have both speed and style? There are no absolutes here. It's about evaluating your content and seeing what kind of
+approach is appropriate. There might be times where you
+want a very functional website with very little aesthetic
+distraction going on. I don't care so much what my database or search engine looks like,
+I care about how it works. But there are other instances
+where this is reversed. If I'm buying clothes or furniture I might
+be much more interested in the style and the aesthetics of the site or an app and the experience of it than
+I am in the functionality. Let's look at a couple of
+examples that mix function and aesthetics in different ways. This is a project by one of my students
+that's a bird watching app called Aviary. Due to the content and the audience,
+it needs to be very, very functional. But that doesn't mean
+it has to look boring. The overall design is clean and simple. It follows a lot of interface conventions
+that the user will be very familiar with. So there's no big learning curve when
+somebody would come to use this app. It feels logical, functional, and
+familiar all at the same time. But it also have enough design elements
+in there for it to feel idiosyncratic and individual also to feel quite stylish and
+upmarket. The color palette and customized icons
+really give it its own identity. So while the design is very clean,
+familiar, and functional there's enough of an individual voice
+there to really give it some character. In this second student project, we can see an inversion of that balance
+between the pragmatic and the poetic. Here the emphasis is much more
+on creating a novel interface, design and esthetics take the lead here. And any kind of normalized functionality
+has just gone out of the window. But that doesn't mean it doesn't work or
+have its own logic as an interface. What it does mean, is that the user may
+have to spend a little more time with it in order to figure it out and
+how it works. But there's a sense of reward there. The app is about adventurous places
+to eat with unusual food, so it makes sense for it to have a much
+more adventurous and unusual interface. This interface works because it has
+a great relationship with its content. There's a refrain made
+popular by Golden Krishna, that the best interface
+is no interface at all. And I don't think that's always true. The best interface is the one that has
+the best relationship to its content, the one that's the most sympathetic. And sometimes that does mean that it's
+invisible and sometimes it's not. The bottom line is,
+the best interface is the best interface. And there is not one solution to that
+because an interface has to deal with so many different kinds of content. So the best interface is
+one that is visible and invisible at the same time,
+but in the right proportions. And those proportions are going to change
+depending on what kind of content they're being an interface for.

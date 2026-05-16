@@ -1,0 +1,119 @@
+We want our digital
+prototype to feel as real as it possibly can to
+simulate the finished app. In order to do that, we need to simulate the platform
+that the app is going to appear on. We need to simulate the interface and
+simulate the interaction. The combination of all of these is
+to simulate the overall experience. Before we get into the practicalities of
+how to make our prototype, let's look at these different kinds of simulation,
+some of which we've already talked about. In order to simulate the platform,
+we need to think about scale, we need to think about physicality, and we need to put these together to create
+a complete visual and tactile experience. So, our digital prototype needs to be
+specific to the device that it's going to be used on. Our devices fill up different amounts
+of space in our fields of vision. They may be vertical or horizontal, and we may be interacting with a hand or
+with a mouse. For our prototype to feel real,
+it needs to be on the right sized screen. Once we've chosen a physical device,
+we need to think about simulating the interface, and we've
+already done quite a lot of work on this. We want to user interface design
+to be polished and believable, and we want the visual and the verbal content
+that we have to be believable as well. Rather than a generic wireframe,
+we want to have actual content and actual interface design elements combined to be
+as close as possible to our finished app. And once we have these static pieces at
+the right size on the right platform, we have to think about how to simulate the
+interaction that the user will have with our app. And again,
+we've already done work on this. We've got a wireframe map that gives
+us a believable UX experience where we thought about the paths that
+the user is going to take, and we thought about how they might interact
+and respond with individual screens. The logic and flow of our interaction
+is already quite resolved. When we add together all these
+different kinds of simulation, we should be able to simulate
+the entire experience of our app. So, we need to have believable UI design, a believable UX design, and
+a believable platform or context. These work together to simulate
+the complete app experience for our users. So, a believable UI design means that
+our prototype needs to be on a screen. Believable UX design means that our
+prototype needs to be interactive, and a believable platform or context means our prototype needs to
+be running on a real physical device. In a lot of ways,
+we want to trick the user into thinking that our prototype is real and
+a fully programmed app. But of course, it isn't, and
+it's worth remembering that we're still in the testing phase here, there still
+is the possibility for change and improvement because we're still
+in this preprogramming phase. Now, rather than learning how to
+program or working with a programmer, we're going to use some simple digital
+prototyping software to produce our prototype. There's lots of different software to
+choose from and some of it's free, but I would suggest you find one that suits
+your budget, one that's easy to learn and use, and
+one that does the things that you need. For the sake of the demos in this course,
+I'm going to use Figma, I like this software because
+it's easy to learn and use. There are a lot of resources in the form
+of templates, UI kits, online learning and a community of fellow Figma users,
+it's quite a flexible tool. I can prototype apps or websites or pretty
+much anything, and there are frequent updates to the software, so it's always
+getting more and better functionality. It's also considered an industry
+standard in a lot of organizations, design studios and teams. Most of the prototyping software that's
+out there works in a similar way. So, if you don't use Figma, the knowledge
+you have is still going to be transferable and easy to apply to
+whatever prototyping tool you do use. For the demos that we use in this class,
+were going to keep it pretty simple. You can probably build a much more complex
+digital prototype than the one that were going to build. If you want to do that, I'd advise
+you to take a tutorial and check out the UI kits and the wireframe templates
+that are available for free, now. There's a range of different ways you
+can build your digital prototype and how you do that might depend on your area
+of interest or your specific skill set. You could use pre-existing components
+within the prototyping tool to build a set of generic wireframes and
+use that as your prototype. Or you could use the existing
+static screen designs and make invisible interactive areas. Or you could rebuild all of your designs
+in Figma or whatever program you're using. There are pros and cons to all three
+of these different approaches. The fastest and easiest way to build
+something might not give the most realistic simulation of your app for
+the user. And it would be nice if you could utilize
+the interface screens that you've already designed and spent time on refining. But you might find that
+you have to adjust or rebuild some of your screens to
+get the most out of the software. So, it's helpful to consider the pros and cons of each of these prototyping
+strategies if you want to use pre existing components to build a generic
+wireframe for your prototype. The good news is that it's fast to build,
+it's going to look like a professional wireframe, and
+it can work in any operating system. It's also going to be great for
+testing your user experience. The bad news is that it's going
+to look fairly generic and it's only going to function
+as a wireframe, so you won't get as much information
+back from the user testing. There's also limited design involved,
+so it may be less effective for testing out many aspects of
+the user interface you've designed. If you were going to build your prototype
+with pre-existing kits or components, you'd have a range of
+pieces that were pre-made that you could choose from in
+order to make your wireframe. And there are literally
+hundreds of these pieces, and while they're all very generic,
+they work together as a set really well. So, if you were to make your digital
+prototype using these pieces, it would look very coherent,
+very cohesive, and you'd learn a lot about
+the user's interactions. The interface design basically wouldn't
+get in the way of the user experience. You could also use pre-existing components
+from a certain operating system, whether it's Apple or Android. Let's see what some of
+the screens look like for the lost Pet app, if I build them as
+generic wireframes, first of all, there's a generic map I can use,
+so that's pretty handy. There are also standardized icons and
+symbols I can use, and I can color those whatever I need to. I can scale them up and down and position
+them wherever I want to on the map so I'm able to shape the design a little bit. My other interface elements
+would be pretty generic. If I need menu items, they'd be standard
+symbols and generic typeface and size. The same would be true of other
+information in my interface, which would all be standardized in
+terms of color, shape and system. The benefit of all this is that I know
+all these pieces are going to work in harmony together, so
+I end up with a functioning map. Although it's not very
+visually compelling, I can use generic elements
+to make a sign up screen. And here the size and
+weight of my typography is predetermined, as well as the spacing
+between my elements. Each component of my
+interface is standardized, as long as I make sure my navigation
+items appear in the same place on different screens,
+there's going to be consistency. And it's not just the elements that are
+consistent, it's how I'm using them and positioning them to establish
+a common structure across my screens. Then I could take elements
+from my first screen and quite easily copy and
+paste them into exactly the same space. I can even add a keyboard that's
+already been made for me. So, all I've really done is copy and
+paste these generic elements, and I've already got three screens
+that work together in harmony. This kind of design is great when it's
+used for the purpose that it was intended for as a wireframe, it's really focusing
+on the functionality of the interface, less so
+than on the visual aspects of the design. In the next video, we'll consider
+the other two options you might consider as you're building your prototype.

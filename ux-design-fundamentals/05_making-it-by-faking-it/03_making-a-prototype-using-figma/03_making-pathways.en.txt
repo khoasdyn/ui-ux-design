@@ -1,0 +1,70 @@
+In this segment, we're going to look
+at creating some more complete pathways through our digital prototype. So far we've made a prototype that's
+got fairly limited interactions. The user experience is quite brief and
+not very complete. To give the user a more fulfilling and
+realistic experience of our app, we're going to create some more complete
+pathways through our prototype. Because I've organized the artboards
+of my prototype in the same way as my wireframe map, I can clearly see
+groupings of screens where the user is following a specific path. Where these paths have been described
+with text or generic elements before now these paths are clearly
+visually visible and delineated. In order to build out my prototype, I should probably take each of these
+areas and develop a fixed pathway for the user to advance through the app so
+that they experience each of these areas. Of course, we're not going for
+full functionality here, we just want the user to travel through
+an experience, a sampling of each area. So we're going to need to make
+some additional screens, and that begs the question, how many screens
+do you have to have in your prototype? As a general guide, I would create
+a pathway through each important area or function of your app, there might be some areas that you
+don't need to build out at all. But the bottom line is the number
+of screens is really going to depend on your app and
+how your app works, but also how much time you have and
+what stage of the project you're in. If you feel like everything is working and
+pretty resolved, you can keep building out your prototype,
+but remember, we're still in the prototype phase so
+you don't have to build everything. You can keep evaluating and
+refining the interactions, you might find yourself adding or
+taking away steps within a pathway. It's often useful to time how long
+each of those pathways takes the user, it might be much shorter or
+much longer than you think. If we go back to the getpet app, you can see that I've actually made a lot
+more screens to get my pathways ready. I've got my logon screens at the top,
+my home screens just below, screens to search for my lost pet,
+screens for posting for a pet that I found, and
+screens to post a pet that I've lost. I've color coded these green and red so you can see quite easily that they're
+separate sections of the app. So I ended up making a total of
+nearly 60 screens to create all of the interactive pathways that I wanted
+to show through each of these sections. I used the same technique of overlays
+that we already looked at and I tried to create pathways that loop back
+to the homepage or connect to each other. Because I want to provide a more complete
+or contained experience for the user. In the preview window, you can see that
+I'm posting about an animal that I found. I made an extra screen where you can
+upload an image from your photo album, which of course is faked at this point
+because there's only one image to choose from. But it gives the illusion of my app
+functioning within the larger operating system. In addition to the snake photo, I can add textual information about the
+animal that I found one line at a time. And even though the keyboard is inactive,
+I'm going to make the user click through each of the text fields one at a time,
+because I want them to feel as if they're actually entering information and
+going through that process. As much as anything, I'm trying to
+simulate the timing of the experience. Once all of the information has been
+entered, the user can post the animal that they found and then they'll be
+able to see it on their main map. This conveniently takes us back to our
+homepage, so we followed a complete circuit or loop with the one pathway
+of posting about a found animal. Also on the map, I can click on the green
+snake, the animal that I found, and I can see the information
+that I've entered. This gives the user the feeling that
+the entries actually worked and the data has been posted. Let's look at another pathway, let's look at what happens if we
+want to post for a lost animal. It's pretty much the same process, I can
+upload a photo from my photo album and I can enter all the information that
+I have about the pet that I've lost. The categories for the lost pet
+are slightly different from the found pet, the most important thing is that
+I can enter a name for my pet. I can continue by entering all
+the details for my lost pet and post. Now when my pet shows up
+on the landing page map, the icon will be labeled with my
+pet's name, in this case Libby. Having some visual confirmation
+like this of the actions that I've taken as a user can
+really help the app feel real. So now I've built out a pathway for
+almost all of my main menu options. The one that I've left to last is profile,
+because I feel that's a little bit less important
+and probably a fairly standard screen. Next, I might consider how
+these pathways are organized. Do they follow each other sequentially so that the user has to go through them in
+a specific order or do I allow the user to choose which pathway they want
+in whichever order they choose?

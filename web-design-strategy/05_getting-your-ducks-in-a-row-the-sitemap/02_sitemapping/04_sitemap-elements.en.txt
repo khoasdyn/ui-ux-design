@@ -1,0 +1,44 @@
+Let's quickly spend some time talking
+about the symbols that we use to create a sitemap. In the last video, you were already
+introduced to most of them. In fact, the sitemap vocabulary that we
+will use in this course is pretty limited. A simple rectangle represents
+a page on our site. You're probably familiar
+with the idea of a web page. Just think about an about page or the
+contact page you will find on many sites. Usually there will be a unique URL for
+each page, but for some sites, the idea of a page can
+seem a little outdated. It stems from the early days of the web
+when we were navigating from one static page to another. So today the term view or
+content node might be more appropriate for sites that rely heavily on
+dynamic content being loaded. Think about Google Maps, for example. It's hard to think about that site
+as having individual pages, but there are certainly a number
+of distinct views which can be visualized with a simple
+rectangle on a sitemap. A page stack is indicated with
+three overlapping rectangles. You will use a page stack to account for
+multiple pages of similar content. Think about product detail pages,
+news items or blog posts. These pages will often also
+share a common visual template. Usually there will be a landing page
+with links to the individual items of the page stack. We saw that in our previous example
+with a blog landing page linked to blog detail pages. Sometimes it can be helpful to indicate
+special content in your sitemap. Are you including a link to a file,
+maybe a PDF? Then use the shape on the left
+to indicate file content. You might even put a little icon inside
+to indicate what kind of file it is. Use a special form icon to indicate forms. Connectors tell us how
+pages are connected. Simple lines indicate that there is
+a link from one page to another. Here we see that there will be a link
+from the Homepage to the About Us page. This also means that you can get back
+to the Homepage from the About page. You can use a dotted line to indicate
+that a connection is based on a specific condition. Here, for example, a user can only navigate to
+the My Account page if they are logged in. You can also use arrows to indicate
+a sequence of pages that must be completed in order. In this example,
+the user must go from the shopping cart to the billing info before being
+able to go to the shipping info. There's also a connector that indicates
+that navigating back to the previous page is no longer possible. You simply add a vertical line
+perpendicular to the connector. And lastly, there is a more complex
+structure to indicate decision points. This is a helpful tool when you
+are trying to map out paths in the user's journey that depend on certain conditions. This example here is for a login routine. We have a login page with a login form,
+and from there we have a decision point. If the user's credentials
+are entered correctly, the user proceeds to the My Account page,
+otherwise, an error page is displayed and the user can navigate back to
+the login page to try again. To make this example even more complex and
+more realistic, we'll also include a password recovery option for
+users who forgot their login information.

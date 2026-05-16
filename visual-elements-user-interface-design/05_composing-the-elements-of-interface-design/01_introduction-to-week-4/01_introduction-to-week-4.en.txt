@@ -1,0 +1,12 @@
+[MUSIC] Welcome to the fourth and final week
+of visual elements of interface design. This week, we're going to take our
+individual interface components and see what happens when we try to put them
+together into a more complex structure. We'll be looking at how to get our
+components to work harmoniously as a family. Figuring out how hierarchy works in the
+interface and discussing conventions and expectations of contemporary
+interface design. We'll also be examining how to navigate to
+different screens and how to build visual relationships between different kinds
+of content but within a single sign. Finally, we'll be discussing
+different platforms, how to create variable content for
+different screen sizes, and looking at how to organize complex bodies
+of content into user friendly structures.

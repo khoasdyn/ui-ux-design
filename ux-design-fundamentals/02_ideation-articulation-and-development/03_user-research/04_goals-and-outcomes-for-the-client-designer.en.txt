@@ -1,0 +1,78 @@
+In this section, we're going to
+look at some of the goals and outcomes that we want to have for our app. We've asked our four main questions and now we're looking at why
+would someone use my app? In the last section, we looked a lot
+at our app through the perspective of the user and
+tried to define what the user's role was. But now we going to turn it on it's head,
+and instead of asking why do I want people to use my app,
+we#re going to ask, what are my goals? My goals as the client and
+as the designer. So we're changing focus from the people
+that are using the app to the people that are making the app. And sometimes those sets of goals align. So let's look at my goals for
+making the end. First of all, I'd really like to
+reduce food wastage in the world. I feel like that's pretty
+important as a social agenda. But I'd also quite like to make
+some money out of my app, so I'm not doing it entirely for free. It would great if I could
+build a community that was interested in the same issues as I am. We could share knowledge and
+information, and all contribute to reducing
+food wastage together. And in general I'd like
+to provide a useful app. Something that people thought
+really had value in their lives. I could take all of my concerns and put them into the same categories
+that we've already looked at. My goals as the maker aren't that
+different from the users goals. They still fit into political, financial,
+social, and functional categories. And all of my goals are interconnected and
+interdependent upon each other. If my app ends up being popular, then it could really reduce food
+wastage at really high level. And the more successful it is,
+and the more people involved, the more my chances are of making money. And I could use that money to funnel
+back into reducing food wastage. As my app grows, the better chance I have
+of building a new community around it. And with the expansion of that community,
+I could provide a much more useful app and I could reduce food waste even further. So my goals are all interconnected to
+each other and all interdependent. And I might view them as all being
+fairly even, fairly proportionate, in terms of what I'm
+interested in acheiving. But that's because I'm
+acting as the client here, when a lot of the time I
+wouldn't get to choose my client. I'd just be the designer. So what if my client was a large and
+greedy bank? What kind of goals might that bank
+have in these four categories? Let's mix them up just for fun. Politically, I might want to
+promote home ownership. Financially, I would want to make money. Socially, I might to choose
+to build a community. And functionally,
+the same reason I'd want a useful app. And that doesn't sound too bad. My bank doesn't sound too greedy at all. Wait a minute, though. Most of the bank's focus is going
+to be on making money, 80%. It's quite interested in promoting
+home ownership still because it makes money from that. It's not that interested
+in providing a useful app. And it might have no interest at all in
+building your community because there's no financial gain for the bank in that. And this is an extreme and
+unrealistic model. Our digital world doesn't work like
+that because everything is connected. Each of these aspects has
+an effect on the other one. So even if the main focus of
+a greedy bank is making money, it might only put 40% of its energy there. If you ignore the social and functional aspects of your app,
+you're going to be in trouble. You need to actually spread everything
+around a little bit more evenly. Let’s see what happens at
+the other end of the spectrum. Instead of a large and greedy bank,
+let’s see what would happen if we were making an app for a small and
+rather nice charity. In the broadest sense,
+some of the goals of the small and nice charity might be the same
+as the large and greedy bank. And some be different. So, financially, for instance,
+the charity still needs to make money. It still wants to build community and
+provide a useful app. The biggest difference might be its
+goal politically, in this case, to feed the homeless. And it might be less concerned
+with providing a useful app and more concerned with providing
+an engaging app for its audience. If we think about where the emphasis of
+the charity might be, it might be much more towards its goal, its political
+goal of feeding the homeless. It would probably have quite a high
+interest in building community but maybe less interest in making money. because it's small and
+may not need much money to keep going. And it might chose to not put much
+emphasis on creating an engaging app. But just like our previous example,
+everything is interrelated here. Our political, financial, social and
+functional aspects of the app. Because everyting is interrelated, the app
+may actually want to make lots of money so that the money can be used
+to feed the homeless. And if the app builds a larger community, it'll probaly make more money which
+again will let it feed more people. You could even make an argument
+that everything is so interrelated that the percentages of
+the focus of the app should all be even. If the app wasn't engaging, it would dramatically adversely
+affect the other areas, for instance. So, in some cases, you might end up with
+everything being divided pretty equally. But it's going to be different
+from app to app, from content and subject to content and subject. So you're going to have to figure out
+where the emphasis of your app lies. Because that's going to have
+a lot of knock-on effects in terms of how your content is
+structured and how you want to shape the user's experience as
+they travel through your app. It's important to remember
+that all of the goals and outcomes in your app are all tied to
+each other and all affect each other.

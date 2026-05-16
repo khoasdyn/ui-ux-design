@@ -1,0 +1,43 @@
+One of the best ways to get insight
+into user behavior is with actual data. If you're redesigning an existing site, chances are that you have access to
+visitor stats of the current site that can tell you about the behavior
+of users in the past. A common tool that collects
+user data is Google Analytics. It's enabled by placing a tiny bit of
+code onto every page of your site, which then captures user activity data for
+you to evaluate later. This allows you to find
+answers to questions like, how many people visit the site each day? As I mentioned, having actual hard
+data can be very powerful, but any data analyst will tell you that it's
+important to interpret data correctly. Otherwise, it can be a bit
+like reading tea leaves. You see what you want to see. For example, if you found out that
+your site had 1,000 daily visitors, is that a lot or not? Does it mean the site is successful or
+not? If your goal was to grow the number
+of visitors to 100,000 per day, it would be quite a failure. On the other hand, if your site had
+only 100 daily visitors in the past, this would present a tenfold increase. I think that website stats are best
+approached with specific questions in mind before you look at the data. Here are some example questions
+that are more specific. What percentage of users visit
+the site on a mobile device? Do they stay as long as desktop visitors? Or we ran a Facebook ad last week,
+did this increase the amount of visitors? How many users use
+Safari as their browser? Are my users mostly local, or
+is there a sizable worldwide audience? Here is a quick real-world example. One of my clients,
+the Pasadena Conservatory of Music, recently launched a new program for their
+youngest students called Smart Start. I was hired to design promotional
+materials for this and also to update the website
+with new information. Naturally, we wanted to find out if our
+marketing push had any measurable impact. In Google Analytics, we can bring up information of
+the most visited pages over time. You can see here the graphs for
+the month of July. On the right we see that the homepage was
+the most visited page during this period. That makes sense since most
+people arrive at the homepage. You can also see that the young musicians
+page, the one we are interested in, was the second most visited page
+at a little over 1,000 visits. We can isolate the graph for
+the young musicians page. Here we see that there was a spike in
+user activity for one week from July 19th through roughly July 25th, so
+did our marketing push make a difference? It did, it increased the amount of
+visitors to the Young Musicians page, which usually hovers around 25 per day
+by 400% to over 100 visitors a day. Google Analytics is a powerful and
+complex tool. It would take an entire course to
+learn all of its capabilities. In fact, Google offers detailed free
+courses to learn more about their product. Finding out a few fundamental facts about
+your site's visitors isn't too difficult. Just remember, having a lot of data is worth very little
+if you don't interpret them correctly. And in order to interpret data, you need to start with specific questions
+that you'd like to be answered.

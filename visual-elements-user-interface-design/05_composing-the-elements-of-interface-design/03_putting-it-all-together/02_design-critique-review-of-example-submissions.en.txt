@@ -1,0 +1,53 @@
+>> Next, you will be completing a peer
+reviewed assignment in which youll bring together the interface elements
+from previous work in this course to design two screens for your interface,
+each highlighting a different event or function from your design. Design critique is an important
+skill as a user interface designer. Whether you are critiquing your own
+work or the work of another designer, this peer reviewed assignment
+provides a way for you to practice design critique by
+both giving and receiving feedback. We'll look at a few example submissions
+from students who previously completed this course. I'll walk us through a brief design
+critique and point out some effective design choices along with some things
+to avoid as you lay out your screens, it's important to consider how the user
+will interact with your design. For a smartphone user interface,
+this means looking at the design and considering how easily the user will
+be able to interact with it using their finger. So it's important to evaluate the size and
+placement of buttons, menus, and other interactive elements. In this example, the buttons at the bottom
+of the screen appear to be easily reachable with the user's finger while
+they hold the device in their hand. Looking at another example, while the placement of the buttons at the
+bottom of this screen is a good choice, the size of the three circular buttons and
+their proximity to one another make these three buttons difficult targets
+to easily interact with using a finger. The buttons are placed too closely
+together, increasing the chances that the user will inadvertently tap
+the wrong button with their finger. Effective screen layout also follows
+a perceivable structure or grid, which makes it easier for
+the user to perceive, scan, and understand the various design elements and
+content on the screen. In this example, you can clearly see the
+grid used to lay out the user interface. The screen is clean and well-organized. Here's another example where the
+designer's use of a grid is incomplete. While there is a structure to the screen, the alignment of many
+of the elements is off. If I add a few vertical lines,
+it's easier to see where a grid has not been leveraged,
+making the layout appear disorganized. Another thing to look for
+during this assignment is how well the two screen designs you
+build work together as a set. In this example, there's a clear
+connection between the two. The screen on the left shows a main
+landing page that provides an overview of heart rate, sleep, and calories. The screen on the right provides
+more details on the heart rate. Clear labeling, use of a common grid,
+and the navigation at the bottom further reinforce the relationship these
+two screens have to one another. In comparison, these two screen designs
+are not so clearly related to each other. The screen on the left provides a landing
+page with the ability to view live details, access records,
+call a doctor, and medicine. However, the navigation relationship
+between the screens is not visually clear. Clicking on the view live button on
+the left hand screen takes the user to the screen on the right, but there's a missing label to tell the user
+that they are now on the view live screen. The home button at the top of
+the right hand screen introduces an additional navigational element that
+is not shared across the screens, and these two screens also use inconsistent
+design elements such as the button size. This all really undermines
+the cohesiveness of these two screen designs as a connected pair. As you complete the following exercise and
+review the work of your peers, keep these examples in mind. It's often easy to spot inconsistencies
+between the stated intent of the design and the actual screen layouts in both
+your own work and the work of others. Be sure to pay attention to how you apply
+what you've learned about grids, icons, visual hierarchy,
+button design patterns, and other design principles that can
+lead to an effective design.

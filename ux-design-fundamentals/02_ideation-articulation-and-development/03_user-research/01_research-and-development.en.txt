@@ -1,0 +1,102 @@
+In this section, we're going to look at
+research and development of our idea. We've got four main questions about our
+idea that we're trying to answer and we've got four areas that we're going
+to investigate in order to answer those questions. So let's look at what kind
+of research we should do and let's look at how we might develop
+our idea a little bit further. Chances are,
+that if you have a good idea for an app, several other people have
+also had that same good idea. So, one of the first things that you
+can do is check out the competition. It might help you to categorize what other
+kinds of apps you're going to look at. The most obvious place to start is apps that do exactly the same
+thing as the idea that you have. There are millions of apps out there. So the chances are that there is something
+doing the same thing as your app, but it might not be very visible. Even if there's not an app
+doing exactly the same thing, I'm willing to bet that there are plenty
+of apps that do something similar. And these might contain important
+information about what to do or what not to do with your app. These first two categories are very
+strongly related to your idea but let's see what happens when you move your
+circle of search out a little bit further. You could look at what kind of
+apps are adjacent to yours. What apps might have the same
+broader subject matter but not have the same specific
+subject as yours. And then you could also look at apps that
+are totally unrelated to your content and your idea. These could be very interesting
+structural, technical, or even aesthetic models that you might be
+interested in influencing your design. By looking in all these areas, you'll
+get obvious predictable research, but also, tangential, unexpected research. Let's take my leftover food app and look at some apps that do
+exactly the same thing. Let's say that I find three examples
+from each of these categories. I can search in the app store. But I can also go online and see how
+many people are using these apps and what their feedback is. It's quite easy for
+me to gather visual research as well. I can take screenshots to
+have a record of the designs. But I also need to download all of
+the apps, and go through them, and actually experience them. So what other apps might do
+something similar to mine? I can find a lot of apps to do with
+recipes, and cooking, and ingredients. And some of these might
+have some smaller section that deals with using
+leftover ingredients. But their main focus isn't going
+to be exactly the same as my app. But all of this research
+is still very useful, and that might be to do with the structure,
+it might be to do with the design. I could be looking at these sites and
+noting similarities that I might want to repeat myself, or that I might want to
+avoid and do something totally different. If I broaden my circle of investigation, the next stage that I'm going to look
+at are apps that are content adjacent. In my case, this is going to be apps that
+might deal with food or something to do with food, but don't really deal
+with recipes or ingredients necessarily. They might deal with buying or
+delivering food, or they might have a more
+conceptual connection. For instance, Food for
+Alll has a social agenda that could see as having a connection
+to the agenda of my app. Whereas, Yelp might be
+a much more useful model for thinking about how a food
+community is built online. Finally, I could look at unrelated apps,
+apps not related to my content, but that might inform my idea, or
+my structure, in some other way. LifeHacks, for instance,
+seems to have a DIY, resource-using philosophy
+that matches mine. Or, I could find some design or
+conceptual ideas that are useful. Insights that deal with reusing or re-purposing things that seem to be trash,
+but really aren't. I like having these broader influences
+because it stops your research becoming too predictable. So we've looked at a range
+of different connected apps, ones that are very specific and
+relate to our idea and our content, and ones that are further
+away from our idea and our content. So now let's try and
+use some of that research and figure out how we might develop
+our idea a little bit further. I'm going to talk about this
+process in very broad terms, the process of developing your idea. We're going do it without
+really talking about content. So maybe you can think about your idea and
+put it into this example. Think about your idea as being amorphous, think about it as being a blob or
+an amoeba that can change its shape. Your idea shouldn't be rigid, it can be
+manifested in a lot of different forms and a lot of different structures,
+it's still your idea. But the shape of your idea can be very,
+very different. In other words, how someone sees and
+experiences your idea. One way to decide on what shape
+your idea should have is to ask yourself a series of what if questions. What if my app was entirely image-based? What if my app connected
+to a food delivery service? What if my app allowed people
+to donate food to charity? You can always say no to any of
+these ideas that you come up with. But what's important is that
+you test out your idea and you come up with a bunch
+of different options. Ideas are pretty much free. They just take your time and
+a pencil and a piece of paper. So it's worth mapping out
+all the possibilities, all the different ways that
+your idea could be manifested. And it's worth doing that now to find out
+what the right direction is because right now your ideas are free, but your idea
+can take whatever shape you want it to. As we just saw, there's many different
+shapes the same idea could have. By thinking like this, you're exploring
+your options, and you're trying to discover what is special about your app,
+and what is original about your app. I always find a good way to do
+that is to empty your brain, to map out all of the possibilities
+that you can think of, even the ones that you
+don't think are great. And I do that by listing
+everything that my app could do. I like to do that on
+a giant piece of paper so that I can see all my thoughts
+on the paper and react to them. It also means I can come back to them and decide whether they're really
+good ideas or bad ideas and if I can't decide that for myself,
+I can very easily test the waters for my ideas by talking to somebody else,
+by bouncing my ideas off another person. In a way, even at this beginning stage,
+you're getting user feedback. It's the same strategy we've
+already seen of being broad and being focused at the same time. The broadness comes from you extending
+the parameters of your thought, trying to open your mind to ideas that you might
+not initially have thought of and trying to widen your scope of what you thought
+was a good solution to the problem. Because once you've laid out all
+the possibilities, every single way that your app could be represented and
+everything that it could do, then you can examine all of that material,
+all of those ideas. And decide precisely which
+of those ideas is the best. Which of those you're going to pursue and
+then what kind of order or hierarchy you're going to
+engage with those ideas
